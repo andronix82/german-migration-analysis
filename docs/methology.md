@@ -4,7 +4,13 @@
 
 ### Step 1: Export raw data
 
-- Source: GENESIS ([https://www-genesis.destatis.de](https://www-genesis.destatis.de/datenbank/online/statistic/12711/table/12711-0006))
+#### Destatis
+
+- Source: [Statistischer Bericht - Wanderungen - 2024](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Wanderungen/Publikationen/Downloads-Wanderungen/statistischer-bericht-wanderungen-2010120247005.html?templateQueryString=wanderungen+altersgruppen)
+
+#### GENESIS
+
+- Source: ([genesis.destatis.de](https://www-genesis.destatis.de))
 
 - Period: 2000 - 2024
 
@@ -16,4 +22,6 @@
 
 ### Step 2: Cleaning raw data
 
-- Cleaning is planned
+- Extracted migration totals from Excel sheet `csv-12711-02` and transformed into long time-series format.
+
+- 

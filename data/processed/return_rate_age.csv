@@ -1,4 +1,4 @@
-year,dimension_value,emigration,immigration,return_rate_age
+year,age,emigration,immigration,return_rate_age
 2000,1-Jährige,2081,3296,1.5838539163863528
 2000,10-Jährige,1134,2733,2.4100529100529102
 2000,11-Jährige,1076,2702,2.5111524163568775

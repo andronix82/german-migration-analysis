@@ -1,4 +1,4 @@
-year,dimension_value,emigration,immigration,return_rate_country
+year,country,emigration,immigration,return_rate_country
 2000,Afghanistan,16,13,0.8125
 2000,Albanien,44,45,1.0227272727272727
 2000,Algerien,75,64,0.8533333333333334

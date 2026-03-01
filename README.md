@@ -81,16 +81,24 @@ This project also serves as a reference case for BI consulting and workforce ana
 
 ---
 
+## Data Files
+
+- `migration_master_dataset.csv` — cleaned and integrated master dataset (from 2000 onwards)
+- `return_rate_global.csv` — global return rate by year
+- `return_rate_country.csv` — return rate by country
+- `return_rate_age.csv` — return rate by age group
+
+---
+
 ## 🚧 Project Status
 
-Early stage — data collection and initial exploration.
+* Global exploration notebook created
 
 ---
 
 ## 🔜 Next Steps
 
-* Import first datasets
-* Create exploratory notebook
+* Create country & age exploration notebooks
 * Build first trend visualisations
 * Draft dashboard concept
 * Identify external drivers

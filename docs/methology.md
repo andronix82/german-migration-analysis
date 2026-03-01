@@ -49,6 +49,8 @@
 
 - Pivoted master dataset by `year` and `direction` to calculate **global, country-level, and age-level return rates** 
 
+- Filtered master dataset to only include years ≥ 2000
+
 - Formula: *Return Rate (in %) = (Immigration ÷ Emigration) × 100*
 
 - Saved results in separate CSVs for easier downstream analysis:  

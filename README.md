@@ -1,9 +1,9 @@
 # German Migration Analysis 🇩🇪🌍
-#### Migration Patterns of German Citizens (2000-2023): Emigration, Return, Migration and Demographic Trend
+#### Migration Patterns of German Citizens (2000-2024): Emigration, Return, Migration and Demographic Trend
 
 ## 📌 Project Overview
 
-This Business Intelligence project analyses emigration and return migration of German citizens over time.
+This Business Intelligence project analyses emigration and return migration patterns of German citizens over time.
 The goal is to understand migration patterns, preferred destination countries, major shifts in migration trends, and potential socio-economic drivers.
 
 The project demonstrates analytical thinking, data storytelling, and the translation of demographic data into business and policy insights.
@@ -12,7 +12,7 @@ The project demonstrates analytical thinking, data storytelling, and the transla
 
 ## ❓ Key Questions
 
-* How many German citizens emigrate each year?
+* How many migrants return to Germany relative to those who leave?
 * Which countries are the main destinations?
 * How many migrants return to Germany and after what time?
 * Were there significant peaks or drops — and why?
@@ -22,14 +22,21 @@ The project demonstrates analytical thinking, data storytelling, and the transla
 
 ## 📊 Data Sources
 
-Planned sources include:
+Primary data source:
 
-* Official statistics offices
-* Migration datasets
-* Economic indicators (unemployment, cost of living, etc.)
+* German Federal Statistical Office (Destatis) – GENESIS Database
 
-Initial datasets will be stored in `/data/raw`.
-Processed datasets will be documented in `/data/processed`.
+Tables used:
+
+* **12711-0006** — Migration of German citizens by destination country
+* **12711-0008** — Migration of German citizens by age group
+
+Time coverage:
+
+* **2000–2024**
+
+Raw datasets are stored in `/data/raw`.  
+Processed datasets are stored in `/data/processed`.
 
 ---
 
@@ -38,11 +45,12 @@ Processed datasets will be documented in `/data/processed`.
 The analysis follows a structured BI workflow:
 
 1. Data collection and cleaning
-2. Exploratory data analysis
-3. Time-series trend analysis
-4. Segmentation by destination country
-5. Return migration analysis
-6. Visual dashboard creation
+2. Data integration
+3. Feature engineering (return rate calculation)
+4. Exploratory data analysis
+5. Time-series trend analysis
+6. Segmentation by destination country and age group
+7. Visual dashboard creation
 
 All assumptions and transformations are documented in `/docs/methodology.md`.
 
@@ -75,7 +83,8 @@ This project also serves as a reference case for BI consulting and workforce ana
 
 ## 🛠️ Tools
 
-* Python / Jupyter Notebook (exploration)
+* Python (pandas, matplotlib)
+* Jupyter Notebook (exploration)
 * Tableau Public (dashboard)
 * GitHub (documentation & versioning)
 
@@ -92,20 +101,58 @@ This project also serves as a reference case for BI consulting and workforce ana
 
 ## 🚧 Project Status
 
-* Global exploration notebook created
+The project currently covers the following stages of the data pipeline:
+
+1. **Data Collection**
+   - Migration statistics collected from Destatis GENESIS database
+   - Tables used:
+     - 12711-0006 (Migration by country)
+     - 12711-0008 (Migration by age group)
+
+2. **Data Cleaning**
+   - Raw Excel/CSV files transformed into consistent long-format datasets
+   - Column names standardized to English and lowercase
+
+3. **Dataset Integration**
+   - Individual datasets merged into a unified **master dataset**
+   - Dimensions included:
+     - global totals
+     - destination countries
+     - age groups
+
+4. **Feature Engineering**
+   - Calculation of **Return Rate**
+
+Return Rate Formula:
+
+*return_rate = immigration / emigration*
+
+5. **Exploratory Data Analysis (EDA) – Global Level**
+   - Analysis of immigration and emigration trends
+   - Calculation of **Net Migration**
+   - Identification of peak years and structural changes
+
+Current key observations:
+
+- Highest net migration: **2022**
+- Lowest net migration: **2008**
+- Highest return rate: **2022**
+- Lowest return rate: **2008**
 
 ---
 
 ## 🔜 Next Steps
 
-* Create country & age exploration notebooks
-* Build first trend visualisations
-* Draft dashboard concept
-* Identify external drivers
+* Country-level migration analysis
+* Age structure analysis of emigrants
+* Return rate analysis by country and age group
+* Build first analytical visualisations
+* Design Tableau dashboard
+* Investigate potential external drivers
 
 ---
 
 ## 👤 Author
 
 Portfolio project by Andreas Gilling
-Focus: Data Analytics · Workforce Management
+Focus: Data Analytics · Workforce Analytics · BI Consulting

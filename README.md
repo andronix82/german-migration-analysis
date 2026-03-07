@@ -56,14 +56,22 @@ All assumptions and transformations are documented in `/docs/methodology.md`.
 
 ---
 
-## 📈 Expected Insights
+## 📈 Insights (Block 2 – Country Analysis)
 
-* Migration trend cycles
-* Popular destination clusters
-* Relationship between economic indicators and migration
-* Typical return timelines
+**Country-level migration analysis** highlights patterns of German emigration per destination:
 
-The specific insights are documented in `/docs/insights.md`.
+- **Top 3 destination countries:** Switzerland, United States, Austria  
+- **Highest return rate:** Kazakhstan  
+- **Lowest return rate:** Switzerland  
+- **Highest volatility of migration flows:** Switzerland  
+
+Key observations:
+
+* Migration to Switzerland is high but return rates are relatively low → indicates long-term or permanent moves.  
+* The US and Austria are consistent destinations with moderate return rates.  
+* Smaller countries like Kazakhstan show very high return rates, suggesting temporary migration trends.  
+
+These insights allow understanding **country-specific migration behavior**, informing workforce planning and talent retention strategies.
 
 ---
 
@@ -96,63 +104,33 @@ This project also serves as a reference case for BI consulting and workforce ana
 - `return_rate_global.csv` — global return rate by year
 - `return_rate_country.csv` — return rate by country
 - `return_rate_age.csv` — return rate by age group
+- `migration_network_flows.csv` — migration network (origin and destination country)
 
 ---
 
 ## 🚧 Project Status
 
-The project currently covers the following stages of the data pipeline:
+Completed stages:
 
 1. **Data Collection**
-   - Migration statistics collected from Destatis GENESIS database
-   - Tables used:
-     - 12711-0006 (Migration by country)
-     - 12711-0008 (Migration by age group)
-
 2. **Data Cleaning**
-   - Raw Excel/CSV files transformed into consistent long-format datasets
-   - Column names standardized to English and lowercase
-
 3. **Dataset Integration**
-   - Individual datasets merged into a unified **master dataset**
-   - Dimensions included:
-     - global totals
-     - destination countries
-     - age groups
-
 4. **Feature Engineering**
-   - Calculation of **Return Rate**
+5. **Exploratory Data Analysis (EDA)**
+6. **Country-Level Analysis** ✅
 
-Return Rate Formula:
+Next steps:
 
-*return_rate = immigration / emigration*
-
-5. **Exploratory Data Analysis (EDA) – Global Level**
-   - Analysis of immigration and emigration trends
-   - Calculation of **Net Migration**
-   - Identification of peak years and structural changes
-
-Current key observations:
-
-- Highest net migration: **2022**
-- Lowest net migration: **2008**
-- Highest return rate: **2022**
-- Lowest return rate: **2008**
-
----
-
-## 🔜 Next Steps
-
-* Country-level migration analysis
 * Age structure analysis of emigrants
-* Return rate analysis by country and age group
+* Return rate analysis by age group
 * Build first analytical visualisations
 * Design Tableau dashboard
 * Investigate potential external drivers
+* Migration Network (Block 3)
 
 ---
 
 ## 👤 Author
 
-Portfolio project by Andreas Gilling
+Portfolio project by Andreas Gilling  
 Focus: Data Analytics · Workforce Analytics · BI Consulting

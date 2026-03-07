@@ -1,0 +1,5849 @@
+year,origin,destination,migrants
+2000,Germany,Afghanistan,16.0
+2000,Germany,Albanien,44.0
+2000,Germany,Algerien,75.0
+2000,Germany,Andorra,14.0
+2000,Germany,Angola,19.0
+2000,Germany,Argentinien,315.0
+2000,Germany,Armenien,10.0
+2000,Germany,Aserbaidschan,7.0
+2000,Germany,Australien,1389.0
+2000,Germany,Belarus,34.0
+2000,Germany,Belgien,2230.0
+2000,Germany,"Bolivien, Plurinationaler Staat",95.0
+2000,Germany,Bosnien und Herzegowina,87.0
+2000,Germany,Brasilien,1008.0
+2000,Germany,Bulgarien,108.0
+2000,Germany,Chile,262.0
+2000,Germany,China,812.0
+2000,Germany,Costa Rica,141.0
+2000,Germany,Cote d'Ivoire,25.0
+2000,Germany,Dänemark,696.0
+2000,Germany,Estland,30.0
+2000,Germany,Finnland,247.0
+2000,Germany,Frankreich,6603.0
+2000,Germany,Georgien,11.0
+2000,Germany,Ghana,130.0
+2000,Germany,Griechenland,999.0
+2000,Germany,Honduras,24.0
+2000,Germany,Indien,327.0
+2000,Germany,Indonesien,251.0
+2000,Germany,Irak,12.0
+2000,Germany,"Iran, Islamische Republik",82.0
+2000,Germany,Irland,770.0
+2000,Germany,Island,81.0
+2000,Germany,Israel,367.0
+2000,Germany,Italien,3077.0
+2000,Germany,Japan,482.0
+2000,Germany,Jemen,29.0
+2000,Germany,Jordanien,88.0
+2000,Germany,Kamerun,56.0
+2000,Germany,Kanada,2092.0
+2000,Germany,Kasachstan,474.0
+2000,Germany,Kenia,187.0
+2000,Germany,Kirgisistan,41.0
+2000,Germany,Kolumbien,122.0
+2000,Germany,"Kongo, Demokratische Republik",7.0
+2000,Germany,"Kongo, Republik",9.0
+2000,Germany,"Korea, Demokratische Volksrepublik",33.0
+2000,Germany,"Korea, Republik",92.0
+2000,Germany,Kosovo,0.0
+2000,Germany,Kroatien,278.0
+2000,Germany,Kuwait,18.0
+2000,Germany,Lettland,75.0
+2000,Germany,Libanon,164.0
+2000,Germany,Libyen,37.0
+2000,Germany,Litauen,52.0
+2000,Germany,Luxemburg,648.0
+2000,Germany,Malta,61.0
+2000,Germany,Marokko,155.0
+2000,Germany,Mexiko,486.0
+2000,Germany,Montenegro (ab 03.06.2006),0.0
+2000,Germany,Namibia,214.0
+2000,Germany,Neuseeland,394.0
+2000,Germany,Nicaragua,44.0
+2000,Germany,Niederlande,3665.0
+2000,Germany,Niger,25.0
+2000,Germany,Nigeria,129.0
+2000,Germany,Nordmazedonien,40.0
+2000,Germany,Norwegen,659.0
+2000,Germany,Pakistan,180.0
+2000,Germany,Paraguay,184.0
+2000,Germany,Peru,131.0
+2000,Germany,Philippinen,358.0
+2000,Germany,Polen,10968.0
+2000,Germany,Portugal,924.0
+2000,Germany,Ruanda,15.0
+2000,Germany,Rumänien,396.0
+2000,Germany,Russische Föderation,1286.0
+2000,Germany,Saudi-Arabien,154.0
+2000,Germany,Schweden,914.0
+2000,Germany,Schweiz,7998.0
+2000,Germany,Senegal,22.0
+2000,Germany,Serbien,0.0
+2000,Germany,Singapur,419.0
+2000,Germany,Slowakei,101.0
+2000,Germany,Slowenien,124.0
+2000,Germany,Somalia,4.0
+2000,Germany,Spanien,6750.0
+2000,Germany,Syrien,118.0
+2000,Germany,Südafrika,786.0
+2000,Germany,Tadschikistan,17.0
+2000,Germany,Tansania,115.0
+2000,Germany,Thailand,627.0
+2000,Germany,Tschechien,621.0
+2000,Germany,Tunesien,192.0
+2000,Germany,Türkei,1339.0
+2000,Germany,Uganda,45.0
+2000,Germany,Ukraine,110.0
+2000,Germany,Unbekanntes Ausland,7667.0
+2000,Germany,Ungarn,741.0
+2000,Germany,Ungeklärt / Ohne Angabe,8113.0
+2000,Germany,Uruguay,74.0
+2000,Germany,Usbekistan,26.0
+2000,Germany,"Venezuela, Bolivarische Republik",176.0
+2000,Germany,Vereinigte Arabische Emirate,292.0
+2000,Germany,Vereinigte Staaten,13855.0
+2000,Germany,Vereinigtes Königreich,5760.0
+2000,Germany,Vietnam,60.0
+2000,Germany,Zentralafrikanische Republik,14.0
+2000,Germany,Zypern,135.0
+2000,Germany,Ägypten,302.0
+2000,Germany,Äthiopien,83.0
+2000,Germany,Österreich,5225.0
+2000,Germany,Übriges Afrika,590.0
+2000,Germany,Übriges Amerika,749.0
+2000,Germany,Übriges Asien,633.0
+2000,Germany,Übriges Europa,503.0
+2000,Germany,Übriges Ozeanien,94.0
+2001,Germany,Afghanistan,27.0
+2001,Germany,Albanien,29.0
+2001,Germany,Algerien,56.0
+2001,Germany,Andorra,7.0
+2001,Germany,Angola,6.0
+2001,Germany,Argentinien,271.0
+2001,Germany,Armenien,10.0
+2001,Germany,Aserbaidschan,13.0
+2001,Germany,Australien,1614.0
+2001,Germany,Belarus,42.0
+2001,Germany,Belgien,2285.0
+2001,Germany,"Bolivien, Plurinationaler Staat",126.0
+2001,Germany,Bosnien und Herzegowina,105.0
+2001,Germany,Brasilien,1071.0
+2001,Germany,Bulgarien,106.0
+2001,Germany,Chile,274.0
+2001,Germany,China,864.0
+2001,Germany,Costa Rica,82.0
+2001,Germany,Cote d'Ivoire,35.0
+2001,Germany,Dänemark,722.0
+2001,Germany,Estland,54.0
+2001,Germany,Finnland,252.0
+2001,Germany,Frankreich,6630.0
+2001,Germany,Georgien,17.0
+2001,Germany,Ghana,99.0
+2001,Germany,Griechenland,962.0
+2001,Germany,Honduras,23.0
+2001,Germany,Indien,381.0
+2001,Germany,Indonesien,276.0
+2001,Germany,Irak,17.0
+2001,Germany,"Iran, Islamische Republik",90.0
+2001,Germany,Irland,746.0
+2001,Germany,Island,71.0
+2001,Germany,Israel,381.0
+2001,Germany,Italien,3013.0
+2001,Germany,Japan,452.0
+2001,Germany,Jemen,28.0
+2001,Germany,Jordanien,112.0
+2001,Germany,Kamerun,47.0
+2001,Germany,Kanada,1926.0
+2001,Germany,Kasachstan,557.0
+2001,Germany,Kenia,144.0
+2001,Germany,Kirgisistan,74.0
+2001,Germany,Kolumbien,131.0
+2001,Germany,"Kongo, Demokratische Republik",8.0
+2001,Germany,"Kongo, Republik",19.0
+2001,Germany,"Korea, Demokratische Volksrepublik",27.0
+2001,Germany,"Korea, Republik",95.0
+2001,Germany,Kosovo,0.0
+2001,Germany,Kroatien,260.0
+2001,Germany,Kuwait,31.0
+2001,Germany,Lettland,68.0
+2001,Germany,Libanon,305.0
+2001,Germany,Libyen,41.0
+2001,Germany,Litauen,54.0
+2001,Germany,Luxemburg,638.0
+2001,Germany,Malta,43.0
+2001,Germany,Marokko,147.0
+2001,Germany,Mexiko,500.0
+2001,Germany,Montenegro (ab 03.06.2006),0.0
+2001,Germany,Namibia,204.0
+2001,Germany,Neuseeland,393.0
+2001,Germany,Nicaragua,18.0
+2001,Germany,Niederlande,3875.0
+2001,Germany,Niger,4.0
+2001,Germany,Nigeria,100.0
+2001,Germany,Nordmazedonien,31.0
+2001,Germany,Norwegen,659.0
+2001,Germany,Pakistan,196.0
+2001,Germany,Paraguay,240.0
+2001,Germany,Peru,133.0
+2001,Germany,Philippinen,361.0
+2001,Germany,Polen,11420.0
+2001,Germany,Portugal,958.0
+2001,Germany,Ruanda,32.0
+2001,Germany,Rumänien,345.0
+2001,Germany,Russische Föderation,1440.0
+2001,Germany,Saudi-Arabien,144.0
+2001,Germany,Schweden,1031.0
+2001,Germany,Schweiz,9092.0
+2001,Germany,Senegal,57.0
+2001,Germany,Serbien,0.0
+2001,Germany,Singapur,420.0
+2001,Germany,Slowakei,84.0
+2001,Germany,Slowenien,110.0
+2001,Germany,Somalia,5.0
+2001,Germany,Spanien,6697.0
+2001,Germany,Syrien,105.0
+2001,Germany,Südafrika,804.0
+2001,Germany,Tadschikistan,5.0
+2001,Germany,Tansania,134.0
+2001,Germany,Thailand,621.0
+2001,Germany,Tschechien,669.0
+2001,Germany,Tunesien,205.0
+2001,Germany,Türkei,1384.0
+2001,Germany,Uganda,68.0
+2001,Germany,Ukraine,190.0
+2001,Germany,Unbekanntes Ausland,3881.0
+2001,Germany,Ungarn,673.0
+2001,Germany,Ungeklärt / Ohne Angabe,8072.0
+2001,Germany,Uruguay,58.0
+2001,Germany,Usbekistan,17.0
+2001,Germany,"Venezuela, Bolivarische Republik",156.0
+2001,Germany,Vereinigte Arabische Emirate,310.0
+2001,Germany,Vereinigte Staaten,13485.0
+2001,Germany,Vereinigtes Königreich,5596.0
+2001,Germany,Vietnam,88.0
+2001,Germany,Zentralafrikanische Republik,19.0
+2001,Germany,Zypern,116.0
+2001,Germany,Ägypten,313.0
+2001,Germany,Äthiopien,72.0
+2001,Germany,Österreich,5630.0
+2001,Germany,Übriges Afrika,495.0
+2001,Germany,Übriges Amerika,691.0
+2001,Germany,Übriges Asien,566.0
+2001,Germany,Übriges Europa,487.0
+2001,Germany,Übriges Ozeanien,84.0
+2002,Germany,Afghanistan,74.0
+2002,Germany,Albanien,30.0
+2002,Germany,Algerien,296.0
+2002,Germany,Andorra,17.0
+2002,Germany,Angola,14.0
+2002,Germany,Argentinien,264.0
+2002,Germany,Armenien,11.0
+2002,Germany,Aserbaidschan,18.0
+2002,Germany,Australien,1715.0
+2002,Germany,Belarus,35.0
+2002,Germany,Belgien,2465.0
+2002,Germany,"Bolivien, Plurinationaler Staat",148.0
+2002,Germany,Bosnien und Herzegowina,85.0
+2002,Germany,Brasilien,1069.0
+2002,Germany,Bulgarien,120.0
+2002,Germany,Chile,279.0
+2002,Germany,China,1014.0
+2002,Germany,Costa Rica,100.0
+2002,Germany,Cote d'Ivoire,22.0
+2002,Germany,Dänemark,724.0
+2002,Germany,Estland,43.0
+2002,Germany,Finnland,262.0
+2002,Germany,Frankreich,6875.0
+2002,Germany,Georgien,29.0
+2002,Germany,Ghana,95.0
+2002,Germany,Griechenland,1102.0
+2002,Germany,Honduras,22.0
+2002,Germany,Indien,332.0
+2002,Germany,Indonesien,212.0
+2002,Germany,Irak,24.0
+2002,Germany,"Iran, Islamische Republik",155.0
+2002,Germany,Irland,725.0
+2002,Germany,Island,87.0
+2002,Germany,Israel,291.0
+2002,Germany,Italien,3264.0
+2002,Germany,Japan,470.0
+2002,Germany,Jemen,30.0
+2002,Germany,Jordanien,127.0
+2002,Germany,Kamerun,39.0
+2002,Germany,Kanada,2023.0
+2002,Germany,Kasachstan,529.0
+2002,Germany,Kenia,164.0
+2002,Germany,Kirgisistan,49.0
+2002,Germany,Kolumbien,142.0
+2002,Germany,"Kongo, Demokratische Republik",8.0
+2002,Germany,"Kongo, Republik",9.0
+2002,Germany,"Korea, Demokratische Volksrepublik",35.0
+2002,Germany,"Korea, Republik",102.0
+2002,Germany,Kosovo,0.0
+2002,Germany,Kroatien,265.0
+2002,Germany,Kuwait,34.0
+2002,Germany,Lettland,52.0
+2002,Germany,Libanon,229.0
+2002,Germany,Libyen,29.0
+2002,Germany,Litauen,60.0
+2002,Germany,Luxemburg,667.0
+2002,Germany,Malta,48.0
+2002,Germany,Marokko,164.0
+2002,Germany,Mexiko,502.0
+2002,Germany,Montenegro (ab 03.06.2006),0.0
+2002,Germany,Namibia,262.0
+2002,Germany,Neuseeland,455.0
+2002,Germany,Nicaragua,36.0
+2002,Germany,Niederlande,3660.0
+2002,Germany,Niger,18.0
+2002,Germany,Nigeria,112.0
+2002,Germany,Nordmazedonien,49.0
+2002,Germany,Norwegen,821.0
+2002,Germany,Pakistan,261.0
+2002,Germany,Paraguay,204.0
+2002,Germany,Peru,172.0
+2002,Germany,Philippinen,335.0
+2002,Germany,Polen,11084.0
+2002,Germany,Portugal,806.0
+2002,Germany,Ruanda,22.0
+2002,Germany,Rumänien,403.0
+2002,Germany,Russische Föderation,1710.0
+2002,Germany,Saudi-Arabien,141.0
+2002,Germany,Schweden,1144.0
+2002,Germany,Schweiz,10703.0
+2002,Germany,Senegal,38.0
+2002,Germany,Serbien,0.0
+2002,Germany,Singapur,372.0
+2002,Germany,Slowakei,95.0
+2002,Germany,Slowenien,129.0
+2002,Germany,Somalia,13.0
+2002,Germany,Spanien,6767.0
+2002,Germany,Syrien,149.0
+2002,Germany,Südafrika,960.0
+2002,Germany,Tadschikistan,27.0
+2002,Germany,Tansania,113.0
+2002,Germany,Thailand,659.0
+2002,Germany,Tschechien,688.0
+2002,Germany,Tunesien,209.0
+2002,Germany,Türkei,1307.0
+2002,Germany,Uganda,48.0
+2002,Germany,Ukraine,178.0
+2002,Germany,Unbekanntes Ausland,5783.0
+2002,Germany,Ungarn,769.0
+2002,Germany,Ungeklärt / Ohne Angabe,10716.0
+2002,Germany,Uruguay,73.0
+2002,Germany,Usbekistan,38.0
+2002,Germany,"Venezuela, Bolivarische Republik",151.0
+2002,Germany,Vereinigte Arabische Emirate,309.0
+2002,Germany,Vereinigte Staaten,13047.0
+2002,Germany,Vereinigtes Königreich,5806.0
+2002,Germany,Vietnam,88.0
+2002,Germany,Zentralafrikanische Republik,18.0
+2002,Germany,Zypern,120.0
+2002,Germany,Ägypten,53.0
+2002,Germany,Äthiopien,76.0
+2002,Germany,Österreich,6279.0
+2002,Germany,Übriges Afrika,501.0
+2002,Germany,Übriges Amerika,655.0
+2002,Germany,Übriges Asien,687.0
+2002,Germany,Übriges Europa,483.0
+2002,Germany,Übriges Ozeanien,86.0
+2003,Germany,Afghanistan,156.0
+2003,Germany,Albanien,44.0
+2003,Germany,Algerien,71.0
+2003,Germany,Andorra,15.0
+2003,Germany,Angola,26.0
+2003,Germany,Argentinien,350.0
+2003,Germany,Armenien,11.0
+2003,Germany,Aserbaidschan,13.0
+2003,Germany,Australien,1923.0
+2003,Germany,Belarus,32.0
+2003,Germany,Belgien,2471.0
+2003,Germany,"Bolivien, Plurinationaler Staat",136.0
+2003,Germany,Bosnien und Herzegowina,95.0
+2003,Germany,Brasilien,1114.0
+2003,Germany,Bulgarien,141.0
+2003,Germany,Chile,336.0
+2003,Germany,China,1133.0
+2003,Germany,Costa Rica,87.0
+2003,Germany,Cote d'Ivoire,22.0
+2003,Germany,Dänemark,741.0
+2003,Germany,Estland,60.0
+2003,Germany,Finnland,301.0
+2003,Germany,Frankreich,6864.0
+2003,Germany,Georgien,21.0
+2003,Germany,Ghana,113.0
+2003,Germany,Griechenland,1040.0
+2003,Germany,Honduras,33.0
+2003,Germany,Indien,373.0
+2003,Germany,Indonesien,196.0
+2003,Germany,Irak,72.0
+2003,Germany,"Iran, Islamische Republik",194.0
+2003,Germany,Irland,774.0
+2003,Germany,Island,66.0
+2003,Germany,Israel,367.0
+2003,Germany,Italien,3083.0
+2003,Germany,Japan,526.0
+2003,Germany,Jemen,30.0
+2003,Germany,Jordanien,125.0
+2003,Germany,Kamerun,63.0
+2003,Germany,Kanada,2442.0
+2003,Germany,Kasachstan,571.0
+2003,Germany,Kenia,185.0
+2003,Germany,Kirgisistan,68.0
+2003,Germany,Kolumbien,171.0
+2003,Germany,"Kongo, Demokratische Republik",11.0
+2003,Germany,"Kongo, Republik",19.0
+2003,Germany,"Korea, Demokratische Volksrepublik",61.0
+2003,Germany,"Korea, Republik",134.0
+2003,Germany,Kosovo,0.0
+2003,Germany,Kroatien,342.0
+2003,Germany,Kuwait,64.0
+2003,Germany,Lettland,59.0
+2003,Germany,Libanon,349.0
+2003,Germany,Libyen,35.0
+2003,Germany,Litauen,56.0
+2003,Germany,Luxemburg,735.0
+2003,Germany,Malta,67.0
+2003,Germany,Marokko,163.0
+2003,Germany,Mexiko,493.0
+2003,Germany,Montenegro (ab 03.06.2006),0.0
+2003,Germany,Namibia,195.0
+2003,Germany,Neuseeland,569.0
+2003,Germany,Nicaragua,51.0
+2003,Germany,Niederlande,3345.0
+2003,Germany,Niger,12.0
+2003,Germany,Nigeria,103.0
+2003,Germany,Nordmazedonien,44.0
+2003,Germany,Norwegen,858.0
+2003,Germany,Pakistan,234.0
+2003,Germany,Paraguay,228.0
+2003,Germany,Peru,147.0
+2003,Germany,Philippinen,393.0
+2003,Germany,Polen,10262.0
+2003,Germany,Portugal,845.0
+2003,Germany,Ruanda,21.0
+2003,Germany,Rumänien,415.0
+2003,Germany,Russische Föderation,1854.0
+2003,Germany,Saudi-Arabien,139.0
+2003,Germany,Schweden,1231.0
+2003,Germany,Schweiz,11225.0
+2003,Germany,Senegal,54.0
+2003,Germany,Serbien,0.0
+2003,Germany,Singapur,341.0
+2003,Germany,Slowakei,124.0
+2003,Germany,Slowenien,120.0
+2003,Germany,Somalia,2.0
+2003,Germany,Spanien,6769.0
+2003,Germany,Syrien,158.0
+2003,Germany,Südafrika,973.0
+2003,Germany,Tadschikistan,70.0
+2003,Germany,Tansania,131.0
+2003,Germany,Thailand,715.0
+2003,Germany,Tschechien,710.0
+2003,Germany,Tunesien,203.0
+2003,Germany,Türkei,1602.0
+2003,Germany,Uganda,68.0
+2003,Germany,Ukraine,153.0
+2003,Germany,Unbekanntes Ausland,0.0
+2003,Germany,Ungarn,653.0
+2003,Germany,Ungeklärt / Ohne Angabe,23687.0
+2003,Germany,Uruguay,65.0
+2003,Germany,Usbekistan,37.0
+2003,Germany,"Venezuela, Bolivarische Republik",157.0
+2003,Germany,Vereinigte Arabische Emirate,464.0
+2003,Germany,Vereinigte Staaten,12325.0
+2003,Germany,Vereinigtes Königreich,6264.0
+2003,Germany,Vietnam,94.0
+2003,Germany,Zentralafrikanische Republik,12.0
+2003,Germany,Zypern,144.0
+2003,Germany,Ägypten,347.0
+2003,Germany,Äthiopien,99.0
+2003,Germany,Österreich,6903.0
+2003,Germany,Übriges Afrika,523.0
+2003,Germany,Übriges Amerika,639.0
+2003,Germany,Übriges Asien,696.0
+2003,Germany,Übriges Europa,456.0
+2003,Germany,Übriges Ozeanien,95.0
+2004,Germany,Afghanistan,121.0
+2004,Germany,Albanien,31.0
+2004,Germany,Algerien,114.0
+2004,Germany,Andorra,22.0
+2004,Germany,Angola,20.0
+2004,Germany,Argentinien,372.0
+2004,Germany,Armenien,22.0
+2004,Germany,Aserbaidschan,25.0
+2004,Germany,Australien,2190.0
+2004,Germany,Belarus,52.0
+2004,Germany,Belgien,2584.0
+2004,Germany,"Bolivien, Plurinationaler Staat",175.0
+2004,Germany,Bosnien und Herzegowina,99.0
+2004,Germany,Brasilien,1155.0
+2004,Germany,Bulgarien,148.0
+2004,Germany,Chile,336.0
+2004,Germany,China,1696.0
+2004,Germany,Costa Rica,115.0
+2004,Germany,Cote d'Ivoire,10.0
+2004,Germany,Dänemark,735.0
+2004,Germany,Estland,64.0
+2004,Germany,Finnland,333.0
+2004,Germany,Frankreich,7270.0
+2004,Germany,Georgien,34.0
+2004,Germany,Ghana,134.0
+2004,Germany,Griechenland,1165.0
+2004,Germany,Honduras,34.0
+2004,Germany,Indien,404.0
+2004,Germany,Indonesien,220.0
+2004,Germany,Irak,162.0
+2004,Germany,"Iran, Islamische Republik",313.0
+2004,Germany,Irland,883.0
+2004,Germany,Island,65.0
+2004,Germany,Israel,416.0
+2004,Germany,Italien,3448.0
+2004,Germany,Japan,511.0
+2004,Germany,Jemen,36.0
+2004,Germany,Jordanien,153.0
+2004,Germany,Kamerun,54.0
+2004,Germany,Kanada,2511.0
+2004,Germany,Kasachstan,671.0
+2004,Germany,Kenia,205.0
+2004,Germany,Kirgisistan,58.0
+2004,Germany,Kolumbien,169.0
+2004,Germany,"Kongo, Demokratische Republik",23.0
+2004,Germany,"Kongo, Republik",9.0
+2004,Germany,"Korea, Demokratische Volksrepublik",44.0
+2004,Germany,"Korea, Republik",105.0
+2004,Germany,Kosovo,0.0
+2004,Germany,Kroatien,338.0
+2004,Germany,Kuwait,67.0
+2004,Germany,Lettland,74.0
+2004,Germany,Libanon,437.0
+2004,Germany,Libyen,26.0
+2004,Germany,Litauen,106.0
+2004,Germany,Luxemburg,732.0
+2004,Germany,Malta,67.0
+2004,Germany,Marokko,186.0
+2004,Germany,Mexiko,546.0
+2004,Germany,Montenegro (ab 03.06.2006),0.0
+2004,Germany,Namibia,225.0
+2004,Germany,Neuseeland,705.0
+2004,Germany,Nicaragua,40.0
+2004,Germany,Niederlande,3571.0
+2004,Germany,Niger,11.0
+2004,Germany,Nigeria,91.0
+2004,Germany,Nordmazedonien,30.0
+2004,Germany,Norwegen,886.0
+2004,Germany,Pakistan,248.0
+2004,Germany,Paraguay,256.0
+2004,Germany,Peru,185.0
+2004,Germany,Philippinen,421.0
+2004,Germany,Polen,9658.0
+2004,Germany,Portugal,816.0
+2004,Germany,Ruanda,15.0
+2004,Germany,Rumänien,463.0
+2004,Germany,Russische Föderation,2314.0
+2004,Germany,Saudi-Arabien,123.0
+2004,Germany,Schweden,1327.0
+2004,Germany,Schweiz,12818.0
+2004,Germany,Senegal,30.0
+2004,Germany,Serbien,0.0
+2004,Germany,Singapur,469.0
+2004,Germany,Slowakei,181.0
+2004,Germany,Slowenien,191.0
+2004,Germany,Somalia,12.0
+2004,Germany,Spanien,7196.0
+2004,Germany,Syrien,167.0
+2004,Germany,Südafrika,1074.0
+2004,Germany,Tadschikistan,51.0
+2004,Germany,Tansania,130.0
+2004,Germany,Thailand,885.0
+2004,Germany,Tschechien,919.0
+2004,Germany,Tunesien,249.0
+2004,Germany,Türkei,2125.0
+2004,Germany,Uganda,37.0
+2004,Germany,Ukraine,252.0
+2004,Germany,Unbekanntes Ausland,0.0
+2004,Germany,Ungarn,903.0
+2004,Germany,Ungeklärt / Ohne Angabe,35947.0
+2004,Germany,Uruguay,55.0
+2004,Germany,Usbekistan,44.0
+2004,Germany,"Venezuela, Bolivarische Republik",173.0
+2004,Germany,Vereinigte Arabische Emirate,612.0
+2004,Germany,Vereinigte Staaten,12976.0
+2004,Germany,Vereinigtes Königreich,7842.0
+2004,Germany,Vietnam,139.0
+2004,Germany,Zentralafrikanische Republik,8.0
+2004,Germany,Zypern,152.0
+2004,Germany,Ägypten,387.0
+2004,Germany,Äthiopien,108.0
+2004,Germany,Österreich,8532.0
+2004,Germany,Übriges Afrika,501.0
+2004,Germany,Übriges Amerika,732.0
+2004,Germany,Übriges Asien,776.0
+2004,Germany,Übriges Europa,443.0
+2004,Germany,Übriges Ozeanien,71.0
+2005,Germany,Afghanistan,169.0
+2005,Germany,Albanien,39.0
+2005,Germany,Algerien,128.0
+2005,Germany,Andorra,12.0
+2005,Germany,Angola,10.0
+2005,Germany,Argentinien,374.0
+2005,Germany,Armenien,10.0
+2005,Germany,Aserbaidschan,24.0
+2005,Germany,Australien,2512.0
+2005,Germany,Belarus,49.0
+2005,Germany,Belgien,2491.0
+2005,Germany,"Bolivien, Plurinationaler Staat",143.0
+2005,Germany,Bosnien und Herzegowina,78.0
+2005,Germany,Brasilien,1371.0
+2005,Germany,Bulgarien,178.0
+2005,Germany,Chile,326.0
+2005,Germany,China,2028.0
+2005,Germany,Costa Rica,118.0
+2005,Germany,Cote d'Ivoire,14.0
+2005,Germany,Dänemark,889.0
+2005,Germany,Estland,69.0
+2005,Germany,Finnland,327.0
+2005,Germany,Frankreich,7316.0
+2005,Germany,Georgien,39.0
+2005,Germany,Ghana,155.0
+2005,Germany,Griechenland,1236.0
+2005,Germany,Honduras,40.0
+2005,Germany,Indien,545.0
+2005,Germany,Indonesien,309.0
+2005,Germany,Irak,217.0
+2005,Germany,"Iran, Islamische Republik",313.0
+2005,Germany,Irland,1017.0
+2005,Germany,Island,106.0
+2005,Germany,Israel,455.0
+2005,Germany,Italien,3435.0
+2005,Germany,Japan,578.0
+2005,Germany,Jemen,54.0
+2005,Germany,Jordanien,131.0
+2005,Germany,Kamerun,46.0
+2005,Germany,Kanada,3029.0
+2005,Germany,Kasachstan,728.0
+2005,Germany,Kenia,192.0
+2005,Germany,Kirgisistan,50.0
+2005,Germany,Kolumbien,209.0
+2005,Germany,"Kongo, Demokratische Republik",22.0
+2005,Germany,"Kongo, Republik",19.0
+2005,Germany,"Korea, Demokratische Volksrepublik",37.0
+2005,Germany,"Korea, Republik",130.0
+2005,Germany,Kosovo,0.0
+2005,Germany,Kroatien,378.0
+2005,Germany,Kuwait,82.0
+2005,Germany,Lettland,72.0
+2005,Germany,Libanon,448.0
+2005,Germany,Libyen,43.0
+2005,Germany,Litauen,96.0
+2005,Germany,Luxemburg,828.0
+2005,Germany,Malta,62.0
+2005,Germany,Marokko,208.0
+2005,Germany,Mexiko,593.0
+2005,Germany,Montenegro (ab 03.06.2006),0.0
+2005,Germany,Namibia,228.0
+2005,Germany,Neuseeland,853.0
+2005,Germany,Nicaragua,38.0
+2005,Germany,Niederlande,3404.0
+2005,Germany,Niger,12.0
+2005,Germany,Nigeria,132.0
+2005,Germany,Nordmazedonien,49.0
+2005,Germany,Norwegen,991.0
+2005,Germany,Pakistan,365.0
+2005,Germany,Paraguay,350.0
+2005,Germany,Peru,195.0
+2005,Germany,Philippinen,437.0
+2005,Germany,Polen,9229.0
+2005,Germany,Portugal,946.0
+2005,Germany,Ruanda,24.0
+2005,Germany,Rumänien,520.0
+2005,Germany,Russische Föderation,2423.0
+2005,Germany,Saudi-Arabien,115.0
+2005,Germany,Schweden,1422.0
+2005,Germany,Schweiz,14409.0
+2005,Germany,Senegal,53.0
+2005,Germany,Serbien,0.0
+2005,Germany,Singapur,466.0
+2005,Germany,Slowakei,231.0
+2005,Germany,Slowenien,195.0
+2005,Germany,Somalia,6.0
+2005,Germany,Spanien,7317.0
+2005,Germany,Syrien,161.0
+2005,Germany,Südafrika,1009.0
+2005,Germany,Tadschikistan,46.0
+2005,Germany,Tansania,143.0
+2005,Germany,Thailand,1064.0
+2005,Germany,Tschechien,959.0
+2005,Germany,Tunesien,304.0
+2005,Germany,Türkei,2795.0
+2005,Germany,Uganda,79.0
+2005,Germany,Ukraine,296.0
+2005,Germany,Unbekanntes Ausland,0.0
+2005,Germany,Ungarn,977.0
+2005,Germany,Ungeklärt / Ohne Angabe,21478.0
+2005,Germany,Uruguay,76.0
+2005,Germany,Usbekistan,27.0
+2005,Germany,"Venezuela, Bolivarische Republik",179.0
+2005,Germany,Vereinigte Arabische Emirate,833.0
+2005,Germany,Vereinigte Staaten,13569.0
+2005,Germany,Vereinigtes Königreich,9012.0
+2005,Germany,Vietnam,119.0
+2005,Germany,Zentralafrikanische Republik,19.0
+2005,Germany,Zypern,145.0
+2005,Germany,Ägypten,453.0
+2005,Germany,Äthiopien,117.0
+2005,Germany,Österreich,9314.0
+2005,Germany,Übriges Afrika,550.0
+2005,Germany,Übriges Amerika,736.0
+2005,Germany,Übriges Asien,844.0
+2005,Germany,Übriges Europa,445.0
+2005,Germany,Übriges Ozeanien,79.0
+2006,Germany,Afghanistan,138.0
+2006,Germany,Albanien,49.0
+2006,Germany,Algerien,160.0
+2006,Germany,Andorra,12.0
+2006,Germany,Angola,33.0
+2006,Germany,Argentinien,366.0
+2006,Germany,Armenien,16.0
+2006,Germany,Aserbaidschan,37.0
+2006,Germany,Australien,2944.0
+2006,Germany,Belarus,60.0
+2006,Germany,Belgien,2638.0
+2006,Germany,"Bolivien, Plurinationaler Staat",133.0
+2006,Germany,Bosnien und Herzegowina,126.0
+2006,Germany,Brasilien,1300.0
+2006,Germany,Bulgarien,179.0
+2006,Germany,Chile,323.0
+2006,Germany,China,2294.0
+2006,Germany,Costa Rica,117.0
+2006,Germany,Cote d'Ivoire,10.0
+2006,Germany,Dänemark,1224.0
+2006,Germany,Estland,72.0
+2006,Germany,Finnland,368.0
+2006,Germany,Frankreich,7572.0
+2006,Germany,Georgien,31.0
+2006,Germany,Ghana,159.0
+2006,Germany,Griechenland,1380.0
+2006,Germany,Honduras,43.0
+2006,Germany,Indien,532.0
+2006,Germany,Indonesien,346.0
+2006,Germany,Irak,309.0
+2006,Germany,"Iran, Islamische Republik",306.0
+2006,Germany,Irland,1249.0
+2006,Germany,Island,133.0
+2006,Germany,Israel,422.0
+2006,Germany,Italien,3437.0
+2006,Germany,Japan,594.0
+2006,Germany,Jemen,42.0
+2006,Germany,Jordanien,206.0
+2006,Germany,Kamerun,72.0
+2006,Germany,Kanada,3831.0
+2006,Germany,Kasachstan,747.0
+2006,Germany,Kenia,213.0
+2006,Germany,Kirgisistan,63.0
+2006,Germany,Kolumbien,208.0
+2006,Germany,"Kongo, Demokratische Republik",22.0
+2006,Germany,"Kongo, Republik",10.0
+2006,Germany,"Korea, Demokratische Volksrepublik",49.0
+2006,Germany,"Korea, Republik",139.0
+2006,Germany,Kosovo,0.0
+2006,Germany,Kroatien,415.0
+2006,Germany,Kuwait,73.0
+2006,Germany,Lettland,79.0
+2006,Germany,Libanon,487.0
+2006,Germany,Libyen,39.0
+2006,Germany,Litauen,101.0
+2006,Germany,Luxemburg,902.0
+2006,Germany,Malta,75.0
+2006,Germany,Marokko,255.0
+2006,Germany,Mexiko,739.0
+2006,Germany,Montenegro (ab 03.06.2006),3.0
+2006,Germany,Namibia,213.0
+2006,Germany,Neuseeland,1020.0
+2006,Germany,Nicaragua,43.0
+2006,Germany,Niederlande,3554.0
+2006,Germany,Niger,18.0
+2006,Germany,Nigeria,141.0
+2006,Germany,Nordmazedonien,65.0
+2006,Germany,Norwegen,1469.0
+2006,Germany,Pakistan,364.0
+2006,Germany,Paraguay,435.0
+2006,Germany,Peru,220.0
+2006,Germany,Philippinen,426.0
+2006,Germany,Polen,9090.0
+2006,Germany,Portugal,830.0
+2006,Germany,Ruanda,26.0
+2006,Germany,Rumänien,582.0
+2006,Germany,Russische Föderation,2634.0
+2006,Germany,Saudi-Arabien,182.0
+2006,Germany,Schweden,1700.0
+2006,Germany,Schweiz,18007.0
+2006,Germany,Senegal,61.0
+2006,Germany,Serbien,0.0
+2006,Germany,Singapur,541.0
+2006,Germany,Slowakei,215.0
+2006,Germany,Slowenien,224.0
+2006,Germany,Somalia,12.0
+2006,Germany,Spanien,8149.0
+2006,Germany,Syrien,241.0
+2006,Germany,Südafrika,1068.0
+2006,Germany,Tadschikistan,46.0
+2006,Germany,Tansania,135.0
+2006,Germany,Thailand,1105.0
+2006,Germany,Tschechien,973.0
+2006,Germany,Tunesien,250.0
+2006,Germany,Türkei,3451.0
+2006,Germany,Uganda,69.0
+2006,Germany,Ukraine,284.0
+2006,Germany,Unbekanntes Ausland,251.0
+2006,Germany,Ungarn,998.0
+2006,Germany,Ungeklärt / Ohne Angabe,19442.0
+2006,Germany,Uruguay,71.0
+2006,Germany,Usbekistan,23.0
+2006,Germany,"Venezuela, Bolivarische Republik",195.0
+2006,Germany,Vereinigte Arabische Emirate,1144.0
+2006,Germany,Vereinigte Staaten,13750.0
+2006,Germany,Vereinigtes Königreich,9395.0
+2006,Germany,Vietnam,196.0
+2006,Germany,Zentralafrikanische Republik,13.0
+2006,Germany,Zypern,160.0
+2006,Germany,Ägypten,525.0
+2006,Germany,Äthiopien,182.0
+2006,Germany,Österreich,10345.0
+2006,Germany,Übriges Afrika,574.0
+2006,Germany,Übriges Amerika,785.0
+2006,Germany,Übriges Asien,901.0
+2006,Germany,Übriges Europa,532.0
+2006,Germany,Übriges Ozeanien,83.0
+2007,Germany,Afghanistan,140.0
+2007,Germany,Albanien,43.0
+2007,Germany,Algerien,146.0
+2007,Germany,Andorra,11.0
+2007,Germany,Angola,33.0
+2007,Germany,Argentinien,429.0
+2007,Germany,Armenien,25.0
+2007,Germany,Aserbaidschan,30.0
+2007,Germany,Australien,3317.0
+2007,Germany,Belarus,66.0
+2007,Germany,Belgien,2593.0
+2007,Germany,"Bolivien, Plurinationaler Staat",176.0
+2007,Germany,Bosnien und Herzegowina,137.0
+2007,Germany,Brasilien,1352.0
+2007,Germany,Bulgarien,269.0
+2007,Germany,Chile,384.0
+2007,Germany,China,2296.0
+2007,Germany,Costa Rica,154.0
+2007,Germany,Cote d'Ivoire,18.0
+2007,Germany,Dänemark,2082.0
+2007,Germany,Estland,66.0
+2007,Germany,Finnland,416.0
+2007,Germany,Frankreich,7346.0
+2007,Germany,Georgien,41.0
+2007,Germany,Ghana,180.0
+2007,Germany,Griechenland,1524.0
+2007,Germany,Honduras,58.0
+2007,Germany,Indien,707.0
+2007,Germany,Indonesien,281.0
+2007,Germany,Irak,278.0
+2007,Germany,"Iran, Islamische Republik",354.0
+2007,Germany,Irland,1376.0
+2007,Germany,Island,128.0
+2007,Germany,Israel,373.0
+2007,Germany,Italien,3405.0
+2007,Germany,Japan,566.0
+2007,Germany,Jemen,37.0
+2007,Germany,Jordanien,221.0
+2007,Germany,Kamerun,59.0
+2007,Germany,Kanada,4480.0
+2007,Germany,Kasachstan,684.0
+2007,Germany,Kenia,202.0
+2007,Germany,Kirgisistan,66.0
+2007,Germany,Kolumbien,236.0
+2007,Germany,"Kongo, Demokratische Republik",24.0
+2007,Germany,"Kongo, Republik",13.0
+2007,Germany,"Korea, Demokratische Volksrepublik",53.0
+2007,Germany,"Korea, Republik",170.0
+2007,Germany,Kosovo,0.0
+2007,Germany,Kroatien,497.0
+2007,Germany,Kuwait,75.0
+2007,Germany,Lettland,110.0
+2007,Germany,Libanon,542.0
+2007,Germany,Libyen,45.0
+2007,Germany,Litauen,139.0
+2007,Germany,Luxemburg,908.0
+2007,Germany,Malta,80.0
+2007,Germany,Marokko,291.0
+2007,Germany,Mexiko,634.0
+2007,Germany,Montenegro (ab 03.06.2006),19.0
+2007,Germany,Namibia,235.0
+2007,Germany,Neuseeland,1162.0
+2007,Germany,Nicaragua,47.0
+2007,Germany,Niederlande,3697.0
+2007,Germany,Niger,11.0
+2007,Germany,Nigeria,146.0
+2007,Germany,Nordmazedonien,55.0
+2007,Germany,Norwegen,2485.0
+2007,Germany,Pakistan,392.0
+2007,Germany,Paraguay,502.0
+2007,Germany,Peru,261.0
+2007,Germany,Philippinen,467.0
+2007,Germany,Polen,10451.0
+2007,Germany,Portugal,937.0
+2007,Germany,Ruanda,36.0
+2007,Germany,Rumänien,764.0
+2007,Germany,Russische Föderation,2695.0
+2007,Germany,Saudi-Arabien,195.0
+2007,Germany,Schweden,2178.0
+2007,Germany,Schweiz,23459.0
+2007,Germany,Senegal,53.0
+2007,Germany,Serbien,0.0
+2007,Germany,Singapur,661.0
+2007,Germany,Slowakei,249.0
+2007,Germany,Slowenien,200.0
+2007,Germany,Somalia,4.0
+2007,Germany,Spanien,8991.0
+2007,Germany,Syrien,252.0
+2007,Germany,Südafrika,1087.0
+2007,Germany,Tadschikistan,53.0
+2007,Germany,Tansania,101.0
+2007,Germany,Thailand,1201.0
+2007,Germany,Tschechien,952.0
+2007,Germany,Tunesien,294.0
+2007,Germany,Türkei,3826.0
+2007,Germany,Uganda,75.0
+2007,Germany,Ukraine,327.0
+2007,Germany,Unbekanntes Ausland,297.0
+2007,Germany,Ungarn,1028.0
+2007,Germany,Ungeklärt / Ohne Angabe,9571.0
+2007,Germany,Uruguay,89.0
+2007,Germany,Usbekistan,39.0
+2007,Germany,"Venezuela, Bolivarische Republik",192.0
+2007,Germany,Vereinigte Arabische Emirate,1251.0
+2007,Germany,Vereinigte Staaten,14385.0
+2007,Germany,Vereinigtes Königreich,9996.0
+2007,Germany,Vietnam,208.0
+2007,Germany,Zentralafrikanische Republik,4.0
+2007,Germany,Zypern,145.0
+2007,Germany,Ägypten,482.0
+2007,Germany,Äthiopien,212.0
+2007,Germany,Österreich,11201.0
+2007,Germany,Übriges Afrika,670.0
+2007,Germany,Übriges Amerika,833.0
+2007,Germany,Übriges Asien,997.0
+2007,Germany,Übriges Europa,545.0
+2007,Germany,Übriges Ozeanien,74.0
+2008,Germany,Afghanistan,171.0
+2008,Germany,Albanien,51.0
+2008,Germany,Algerien,177.0
+2008,Germany,Andorra,16.0
+2008,Germany,Angola,23.0
+2008,Germany,Argentinien,502.0
+2008,Germany,Armenien,20.0
+2008,Germany,Aserbaidschan,39.0
+2008,Germany,Australien,3674.0
+2008,Germany,Belarus,77.0
+2008,Germany,Belgien,2608.0
+2008,Germany,"Bolivien, Plurinationaler Staat",203.0
+2008,Germany,Bosnien und Herzegowina,144.0
+2008,Germany,Brasilien,1446.0
+2008,Germany,Bulgarien,283.0
+2008,Germany,Chile,409.0
+2008,Germany,China,2553.0
+2008,Germany,Costa Rica,179.0
+2008,Germany,Cote d'Ivoire,23.0
+2008,Germany,Dänemark,2208.0
+2008,Germany,Estland,103.0
+2008,Germany,Finnland,461.0
+2008,Germany,Frankreich,7988.0
+2008,Germany,Georgien,48.0
+2008,Germany,Ghana,197.0
+2008,Germany,Griechenland,1543.0
+2008,Germany,Honduras,55.0
+2008,Germany,Indien,805.0
+2008,Germany,Indonesien,308.0
+2008,Germany,Irak,340.0
+2008,Germany,"Iran, Islamische Republik",340.0
+2008,Germany,Irland,1363.0
+2008,Germany,Island,144.0
+2008,Germany,Israel,334.0
+2008,Germany,Italien,3645.0
+2008,Germany,Japan,654.0
+2008,Germany,Jemen,58.0
+2008,Germany,Jordanien,309.0
+2008,Germany,Kamerun,65.0
+2008,Germany,Kanada,5605.0
+2008,Germany,Kasachstan,772.0
+2008,Germany,Kenia,284.0
+2008,Germany,Kirgisistan,64.0
+2008,Germany,Kolumbien,275.0
+2008,Germany,"Kongo, Demokratische Republik",36.0
+2008,Germany,"Kongo, Republik",13.0
+2008,Germany,"Korea, Demokratische Volksrepublik",42.0
+2008,Germany,"Korea, Republik",171.0
+2008,Germany,Kosovo,79.0
+2008,Germany,Kroatien,544.0
+2008,Germany,Kuwait,78.0
+2008,Germany,Lettland,116.0
+2008,Germany,Libanon,649.0
+2008,Germany,Libyen,75.0
+2008,Germany,Litauen,132.0
+2008,Germany,Luxemburg,953.0
+2008,Germany,Malta,110.0
+2008,Germany,Marokko,353.0
+2008,Germany,Mexiko,760.0
+2008,Germany,Montenegro (ab 03.06.2006),45.0
+2008,Germany,Namibia,295.0
+2008,Germany,Neuseeland,1373.0
+2008,Germany,Nicaragua,53.0
+2008,Germany,Niederlande,4282.0
+2008,Germany,Niger,11.0
+2008,Germany,Nigeria,172.0
+2008,Germany,Nordmazedonien,54.0
+2008,Germany,Norwegen,2973.0
+2008,Germany,Pakistan,411.0
+2008,Germany,Paraguay,505.0
+2008,Germany,Peru,259.0
+2008,Germany,Philippinen,547.0
+2008,Germany,Polen,13711.0
+2008,Germany,Portugal,966.0
+2008,Germany,Ruanda,32.0
+2008,Germany,Rumänien,917.0
+2008,Germany,Russische Föderation,3299.0
+2008,Germany,Saudi-Arabien,215.0
+2008,Germany,Schweden,2410.0
+2008,Germany,Schweiz,29139.0
+2008,Germany,Senegal,75.0
+2008,Germany,Serbien,261.0
+2008,Germany,Singapur,745.0
+2008,Germany,Slowakei,271.0
+2008,Germany,Slowenien,224.0
+2008,Germany,Somalia,13.0
+2008,Germany,Spanien,9245.0
+2008,Germany,Syrien,324.0
+2008,Germany,Südafrika,1231.0
+2008,Germany,Tadschikistan,40.0
+2008,Germany,Tansania,149.0
+2008,Germany,Thailand,1386.0
+2008,Germany,Tschechien,986.0
+2008,Germany,Tunesien,371.0
+2008,Germany,Türkei,4609.0
+2008,Germany,Uganda,104.0
+2008,Germany,Ukraine,430.0
+2008,Germany,Unbekanntes Ausland,422.0
+2008,Germany,Ungarn,1132.0
+2008,Germany,Ungeklärt / Ohne Angabe,153.0
+2008,Germany,Uruguay,134.0
+2008,Germany,Usbekistan,31.0
+2008,Germany,"Venezuela, Bolivarische Republik",205.0
+2008,Germany,Vereinigte Arabische Emirate,2052.0
+2008,Germany,Vereinigte Staaten,15436.0
+2008,Germany,Vereinigtes Königreich,10706.0
+2008,Germany,Vietnam,212.0
+2008,Germany,Zentralafrikanische Republik,13.0
+2008,Germany,Zypern,189.0
+2008,Germany,Ägypten,645.0
+2008,Germany,Äthiopien,172.0
+2008,Germany,Österreich,13336.0
+2008,Germany,Übriges Afrika,743.0
+2008,Germany,Übriges Amerika,890.0
+2008,Germany,Übriges Asien,1120.0
+2008,Germany,Übriges Europa,293.0
+2008,Germany,Übriges Ozeanien,65.0
+2009,Germany,Afghanistan,187.0
+2009,Germany,Albanien,48.0
+2009,Germany,Algerien,169.0
+2009,Germany,Andorra,11.0
+2009,Germany,Angola,30.0
+2009,Germany,Argentinien,471.0
+2009,Germany,Armenien,36.0
+2009,Germany,Aserbaidschan,39.0
+2009,Germany,Australien,3554.0
+2009,Germany,Belarus,54.0
+2009,Germany,Belgien,2429.0
+2009,Germany,"Bolivien, Plurinationaler Staat",185.0
+2009,Germany,Bosnien und Herzegowina,167.0
+2009,Germany,Brasilien,1448.0
+2009,Germany,Bulgarien,287.0
+2009,Germany,Chile,462.0
+2009,Germany,China,2279.0
+2009,Germany,Costa Rica,155.0
+2009,Germany,Cote d'Ivoire,29.0
+2009,Germany,Dänemark,1667.0
+2009,Germany,Estland,70.0
+2009,Germany,Finnland,411.0
+2009,Germany,Frankreich,7317.0
+2009,Germany,Georgien,56.0
+2009,Germany,Ghana,199.0
+2009,Germany,Griechenland,1495.0
+2009,Germany,Honduras,49.0
+2009,Germany,Indien,741.0
+2009,Germany,Indonesien,321.0
+2009,Germany,Irak,517.0
+2009,Germany,"Iran, Islamische Republik",393.0
+2009,Germany,Irland,953.0
+2009,Germany,Island,77.0
+2009,Germany,Israel,507.0
+2009,Germany,Italien,3277.0
+2009,Germany,Japan,587.0
+2009,Germany,Jemen,50.0
+2009,Germany,Jordanien,273.0
+2009,Germany,Kamerun,71.0
+2009,Germany,Kanada,4258.0
+2009,Germany,Kasachstan,551.0
+2009,Germany,Kenia,260.0
+2009,Germany,Kirgisistan,82.0
+2009,Germany,Kolumbien,255.0
+2009,Germany,"Kongo, Demokratische Republik",38.0
+2009,Germany,"Kongo, Republik",28.0
+2009,Germany,"Korea, Demokratische Volksrepublik",43.0
+2009,Germany,"Korea, Republik",151.0
+2009,Germany,Kosovo,155.0
+2009,Germany,Kroatien,581.0
+2009,Germany,Kuwait,80.0
+2009,Germany,Lettland,72.0
+2009,Germany,Libanon,810.0
+2009,Germany,Libyen,96.0
+2009,Germany,Litauen,112.0
+2009,Germany,Luxemburg,827.0
+2009,Germany,Malta,104.0
+2009,Germany,Marokko,343.0
+2009,Germany,Mexiko,747.0
+2009,Germany,Montenegro (ab 03.06.2006),31.0
+2009,Germany,Namibia,286.0
+2009,Germany,Neuseeland,1261.0
+2009,Germany,Nicaragua,50.0
+2009,Germany,Niederlande,3906.0
+2009,Germany,Niger,26.0
+2009,Germany,Nigeria,172.0
+2009,Germany,Nordmazedonien,61.0
+2009,Germany,Norwegen,2086.0
+2009,Germany,Pakistan,369.0
+2009,Germany,Paraguay,477.0
+2009,Germany,Peru,296.0
+2009,Germany,Philippinen,591.0
+2009,Germany,Polen,12049.0
+2009,Germany,Portugal,887.0
+2009,Germany,Ruanda,39.0
+2009,Germany,Rumänien,840.0
+2009,Germany,Russische Föderation,2780.0
+2009,Germany,Saudi-Arabien,272.0
+2009,Germany,Schweden,2100.0
+2009,Germany,Schweiz,24624.0
+2009,Germany,Senegal,47.0
+2009,Germany,Serbien,256.0
+2009,Germany,Singapur,589.0
+2009,Germany,Slowakei,221.0
+2009,Germany,Slowenien,218.0
+2009,Germany,Somalia,5.0
+2009,Germany,Spanien,7836.0
+2009,Germany,Syrien,282.0
+2009,Germany,Südafrika,1147.0
+2009,Germany,Tadschikistan,27.0
+2009,Germany,Tansania,157.0
+2009,Germany,Thailand,1505.0
+2009,Germany,Tschechien,978.0
+2009,Germany,Tunesien,369.0
+2009,Germany,Türkei,4633.0
+2009,Germany,Uganda,104.0
+2009,Germany,Ukraine,336.0
+2009,Germany,Unbekanntes Ausland,399.0
+2009,Germany,Ungarn,991.0
+2009,Germany,Ungeklärt / Ohne Angabe,158.0
+2009,Germany,Uruguay,100.0
+2009,Germany,Usbekistan,32.0
+2009,Germany,"Venezuela, Bolivarische Republik",183.0
+2009,Germany,Vereinigte Arabische Emirate,1835.0
+2009,Germany,Vereinigte Staaten,13445.0
+2009,Germany,Vereinigtes Königreich,9112.0
+2009,Germany,Vietnam,263.0
+2009,Germany,Zentralafrikanische Republik,3.0
+2009,Germany,Zypern,180.0
+2009,Germany,Ägypten,645.0
+2009,Germany,Äthiopien,151.0
+2009,Germany,Österreich,11818.0
+2009,Germany,Übriges Afrika,784.0
+2009,Germany,Übriges Amerika,881.0
+2009,Germany,Übriges Asien,1124.0
+2009,Germany,Übriges Europa,228.0
+2009,Germany,Übriges Ozeanien,79.0
+2010,Germany,Afghanistan,180.0
+2010,Germany,Albanien,58.0
+2010,Germany,Algerien,158.0
+2010,Germany,Andorra,8.0
+2010,Germany,Angola,29.0
+2010,Germany,Argentinien,474.0
+2010,Germany,Armenien,20.0
+2010,Germany,Aserbaidschan,33.0
+2010,Germany,Australien,3662.0
+2010,Germany,Belarus,57.0
+2010,Germany,Belgien,2283.0
+2010,Germany,"Bolivien, Plurinationaler Staat",196.0
+2010,Germany,Bosnien und Herzegowina,141.0
+2010,Germany,Brasilien,1552.0
+2010,Germany,Bulgarien,243.0
+2010,Germany,Chile,390.0
+2010,Germany,China,2578.0
+2010,Germany,Costa Rica,176.0
+2010,Germany,Cote d'Ivoire,13.0
+2010,Germany,Dänemark,1265.0
+2010,Germany,Estland,54.0
+2010,Germany,Finnland,401.0
+2010,Germany,Frankreich,6559.0
+2010,Germany,Georgien,56.0
+2010,Germany,Ghana,200.0
+2010,Germany,Griechenland,1159.0
+2010,Germany,Honduras,34.0
+2010,Germany,Indien,751.0
+2010,Germany,Indonesien,363.0
+2010,Germany,Irak,766.0
+2010,Germany,"Iran, Islamische Republik",380.0
+2010,Germany,Irland,861.0
+2010,Germany,Island,71.0
+2010,Germany,Israel,494.0
+2010,Germany,Italien,2806.0
+2010,Germany,Japan,580.0
+2010,Germany,Jemen,35.0
+2010,Germany,Jordanien,247.0
+2010,Germany,Kamerun,97.0
+2010,Germany,Kanada,3318.0
+2010,Germany,Kasachstan,576.0
+2010,Germany,Kenia,258.0
+2010,Germany,Kirgisistan,57.0
+2010,Germany,Kolumbien,301.0
+2010,Germany,"Kongo, Demokratische Republik",35.0
+2010,Germany,"Kongo, Republik",22.0
+2010,Germany,"Korea, Demokratische Volksrepublik",44.0
+2010,Germany,"Korea, Republik",224.0
+2010,Germany,Kosovo,133.0
+2010,Germany,Kroatien,485.0
+2010,Germany,Kuwait,66.0
+2010,Germany,Lettland,63.0
+2010,Germany,Libanon,784.0
+2010,Germany,Libyen,75.0
+2010,Germany,Litauen,111.0
+2010,Germany,Luxemburg,789.0
+2010,Germany,Malta,106.0
+2010,Germany,Marokko,370.0
+2010,Germany,Mexiko,678.0
+2010,Germany,Montenegro (ab 03.06.2006),30.0
+2010,Germany,Namibia,305.0
+2010,Germany,Neuseeland,1079.0
+2010,Germany,Nicaragua,50.0
+2010,Germany,Niederlande,3462.0
+2010,Germany,Niger,12.0
+2010,Germany,Nigeria,160.0
+2010,Germany,Nordmazedonien,54.0
+2010,Germany,Norwegen,1564.0
+2010,Germany,Pakistan,364.0
+2010,Germany,Paraguay,490.0
+2010,Germany,Peru,290.0
+2010,Germany,Philippinen,512.0
+2010,Germany,Polen,9434.0
+2010,Germany,Portugal,810.0
+2010,Germany,Ruanda,31.0
+2010,Germany,Rumänien,637.0
+2010,Germany,Russische Föderation,2530.0
+2010,Germany,Saudi-Arabien,301.0
+2010,Germany,Schweden,1668.0
+2010,Germany,Schweiz,22034.0
+2010,Germany,Senegal,55.0
+2010,Germany,Serbien,257.0
+2010,Germany,Singapur,699.0
+2010,Germany,Slowakei,155.0
+2010,Germany,Slowenien,198.0
+2010,Germany,Somalia,12.0
+2010,Germany,Spanien,6705.0
+2010,Germany,Syrien,362.0
+2010,Germany,Südafrika,1049.0
+2010,Germany,Tadschikistan,41.0
+2010,Germany,Tansania,163.0
+2010,Germany,Thailand,1553.0
+2010,Germany,Tschechien,880.0
+2010,Germany,Tunesien,404.0
+2010,Germany,Türkei,4735.0
+2010,Germany,Uganda,99.0
+2010,Germany,Ukraine,315.0
+2010,Germany,Unbekanntes Ausland,541.0
+2010,Germany,Ungarn,905.0
+2010,Germany,Ungeklärt / Ohne Angabe,39.0
+2010,Germany,Uruguay,118.0
+2010,Germany,Usbekistan,38.0
+2010,Germany,"Venezuela, Bolivarische Republik",137.0
+2010,Germany,Vereinigte Arabische Emirate,1454.0
+2010,Germany,Vereinigte Staaten,12986.0
+2010,Germany,Vereinigtes Königreich,8530.0
+2010,Germany,Vietnam,199.0
+2010,Germany,Zentralafrikanische Republik,11.0
+2010,Germany,Zypern,178.0
+2010,Germany,Ägypten,614.0
+2010,Germany,Äthiopien,145.0
+2010,Germany,Österreich,10831.0
+2010,Germany,Übriges Afrika,708.0
+2010,Germany,Übriges Amerika,804.0
+2010,Germany,Übriges Asien,1123.0
+2010,Germany,Übriges Europa,133.0
+2010,Germany,Übriges Ozeanien,82.0
+2011,Germany,Afghanistan,228.0
+2011,Germany,Albanien,45.0
+2011,Germany,Algerien,161.0
+2011,Germany,Andorra,10.0
+2011,Germany,Angola,31.0
+2011,Germany,Argentinien,432.0
+2011,Germany,Armenien,21.0
+2011,Germany,Aserbaidschan,48.0
+2011,Germany,Australien,3345.0
+2011,Germany,Belarus,57.0
+2011,Germany,Belgien,2138.0
+2011,Germany,"Bolivien, Plurinationaler Staat",182.0
+2011,Germany,Bosnien und Herzegowina,123.0
+2011,Germany,Brasilien,1587.0
+2011,Germany,Bulgarien,262.0
+2011,Germany,Chile,465.0
+2011,Germany,China,2910.0
+2011,Germany,Costa Rica,166.0
+2011,Germany,Cote d'Ivoire,20.0
+2011,Germany,Dänemark,1201.0
+2011,Germany,Estland,59.0
+2011,Germany,Finnland,313.0
+2011,Germany,Frankreich,6638.0
+2011,Germany,Georgien,50.0
+2011,Germany,Ghana,184.0
+2011,Germany,Griechenland,953.0
+2011,Germany,Honduras,34.0
+2011,Germany,Indien,853.0
+2011,Germany,Indonesien,318.0
+2011,Germany,Irak,1024.0
+2011,Germany,"Iran, Islamische Republik",367.0
+2011,Germany,Irland,831.0
+2011,Germany,Island,76.0
+2011,Germany,Israel,525.0
+2011,Germany,Italien,2789.0
+2011,Germany,Japan,574.0
+2011,Germany,Jemen,14.0
+2011,Germany,Jordanien,326.0
+2011,Germany,Kamerun,63.0
+2011,Germany,Kanada,2923.0
+2011,Germany,Kasachstan,521.0
+2011,Germany,Kenia,321.0
+2011,Germany,Kirgisistan,46.0
+2011,Germany,Kolumbien,300.0
+2011,Germany,"Kongo, Demokratische Republik",55.0
+2011,Germany,"Kongo, Republik",18.0
+2011,Germany,"Korea, Demokratische Volksrepublik",28.0
+2011,Germany,"Korea, Republik",164.0
+2011,Germany,Kosovo,142.0
+2011,Germany,Kroatien,409.0
+2011,Germany,Kuwait,75.0
+2011,Germany,Lettland,75.0
+2011,Germany,Libanon,771.0
+2011,Germany,Libyen,63.0
+2011,Germany,Litauen,84.0
+2011,Germany,Luxemburg,990.0
+2011,Germany,Malta,115.0
+2011,Germany,Marokko,396.0
+2011,Germany,Mexiko,684.0
+2011,Germany,Montenegro (ab 03.06.2006),36.0
+2011,Germany,Namibia,221.0
+2011,Germany,Neuseeland,1071.0
+2011,Germany,Nicaragua,48.0
+2011,Germany,Niederlande,3404.0
+2011,Germany,Niger,8.0
+2011,Germany,Nigeria,190.0
+2011,Germany,Nordmazedonien,61.0
+2011,Germany,Norwegen,1506.0
+2011,Germany,Pakistan,356.0
+2011,Germany,Paraguay,465.0
+2011,Germany,Peru,318.0
+2011,Germany,Philippinen,521.0
+2011,Germany,Polen,7602.0
+2011,Germany,Portugal,694.0
+2011,Germany,Ruanda,35.0
+2011,Germany,Rumänien,652.0
+2011,Germany,Russische Föderation,2404.0
+2011,Germany,Saudi-Arabien,318.0
+2011,Germany,Schweden,1848.0
+2011,Germany,Schweiz,22540.0
+2011,Germany,Senegal,57.0
+2011,Germany,Serbien,266.0
+2011,Germany,Singapur,770.0
+2011,Germany,Slowakei,184.0
+2011,Germany,Slowenien,162.0
+2011,Germany,Somalia,13.0
+2011,Germany,Spanien,6685.0
+2011,Germany,Syrien,244.0
+2011,Germany,Südafrika,1087.0
+2011,Germany,Tadschikistan,30.0
+2011,Germany,Tansania,165.0
+2011,Germany,Thailand,1507.0
+2011,Germany,Tschechien,864.0
+2011,Germany,Tunesien,438.0
+2011,Germany,Türkei,5285.0
+2011,Germany,Uganda,70.0
+2011,Germany,Ukraine,355.0
+2011,Germany,Unbekanntes Ausland,0.0
+2011,Germany,Ungarn,894.0
+2011,Germany,Ungeklärt / Ohne Angabe,755.0
+2011,Germany,Uruguay,86.0
+2011,Germany,Usbekistan,28.0
+2011,Germany,"Venezuela, Bolivarische Republik",144.0
+2011,Germany,Vereinigte Arabische Emirate,1378.0
+2011,Germany,Vereinigte Staaten,13053.0
+2011,Germany,Vereinigtes Königreich,8385.0
+2011,Germany,Vietnam,260.0
+2011,Germany,Zentralafrikanische Republik,11.0
+2011,Germany,Zypern,173.0
+2011,Germany,Ägypten,702.0
+2011,Germany,Äthiopien,132.0
+2011,Germany,Österreich,11073.0
+2011,Germany,Übriges Afrika,647.0
+2011,Germany,Übriges Amerika,893.0
+2011,Germany,Übriges Asien,1194.0
+2011,Germany,Übriges Europa,154.0
+2011,Germany,Übriges Ozeanien,87.0
+2012,Germany,Afghanistan,203.0
+2012,Germany,Albanien,58.0
+2012,Germany,Algerien,131.0
+2012,Germany,Andorra,16.0
+2012,Germany,Angola,30.0
+2012,Germany,Argentinien,450.0
+2012,Germany,Armenien,23.0
+2012,Germany,Aserbaidschan,40.0
+2012,Germany,Australien,3154.0
+2012,Germany,Belarus,67.0
+2012,Germany,Belgien,2031.0
+2012,Germany,"Bolivien, Plurinationaler Staat",192.0
+2012,Germany,Bosnien und Herzegowina,162.0
+2012,Germany,Brasilien,1588.0
+2012,Germany,Bulgarien,281.0
+2012,Germany,Chile,477.0
+2012,Germany,China,2928.0
+2012,Germany,Costa Rica,131.0
+2012,Germany,Cote d'Ivoire,29.0
+2012,Germany,Dänemark,1126.0
+2012,Germany,Estland,84.0
+2012,Germany,Finnland,367.0
+2012,Germany,Frankreich,6245.0
+2012,Germany,Georgien,65.0
+2012,Germany,Ghana,196.0
+2012,Germany,Griechenland,749.0
+2012,Germany,Honduras,36.0
+2012,Germany,Indien,851.0
+2012,Germany,Indonesien,365.0
+2012,Germany,Irak,1268.0
+2012,Germany,"Iran, Islamische Republik",367.0
+2012,Germany,Irland,749.0
+2012,Germany,Island,74.0
+2012,Germany,Israel,507.0
+2012,Germany,Italien,2481.0
+2012,Germany,Japan,523.0
+2012,Germany,Jemen,20.0
+2012,Germany,Jordanien,247.0
+2012,Germany,Kamerun,75.0
+2012,Germany,Kanada,2692.0
+2012,Germany,Kasachstan,450.0
+2012,Germany,Kenia,228.0
+2012,Germany,Kirgisistan,61.0
+2012,Germany,Kolumbien,307.0
+2012,Germany,"Kongo, Demokratische Republik",24.0
+2012,Germany,"Kongo, Republik",17.0
+2012,Germany,"Korea, Demokratische Volksrepublik",22.0
+2012,Germany,"Korea, Republik",223.0
+2012,Germany,Kosovo,114.0
+2012,Germany,Kroatien,368.0
+2012,Germany,Kuwait,63.0
+2012,Germany,Lettland,75.0
+2012,Germany,Libanon,659.0
+2012,Germany,Libyen,94.0
+2012,Germany,Litauen,85.0
+2012,Germany,Luxemburg,819.0
+2012,Germany,Malta,122.0
+2012,Germany,Marokko,402.0
+2012,Germany,Mexiko,750.0
+2012,Germany,Montenegro (ab 03.06.2006),28.0
+2012,Germany,Namibia,204.0
+2012,Germany,Neuseeland,1033.0
+2012,Germany,Nicaragua,55.0
+2012,Germany,Niederlande,3200.0
+2012,Germany,Niger,8.0
+2012,Germany,Nigeria,192.0
+2012,Germany,Nordmazedonien,66.0
+2012,Germany,Norwegen,1364.0
+2012,Germany,Pakistan,376.0
+2012,Germany,Paraguay,326.0
+2012,Germany,Peru,268.0
+2012,Germany,Philippinen,551.0
+2012,Germany,Polen,6180.0
+2012,Germany,Portugal,614.0
+2012,Germany,Ruanda,45.0
+2012,Germany,Rumänien,682.0
+2012,Germany,Russische Föderation,2361.0
+2012,Germany,Saudi-Arabien,287.0
+2012,Germany,Schweden,1750.0
+2012,Germany,Schweiz,20826.0
+2012,Germany,Senegal,68.0
+2012,Germany,Serbien,291.0
+2012,Germany,Singapur,902.0
+2012,Germany,Slowakei,173.0
+2012,Germany,Slowenien,166.0
+2012,Germany,Somalia,8.0
+2012,Germany,Spanien,5997.0
+2012,Germany,Syrien,118.0
+2012,Germany,Südafrika,1094.0
+2012,Germany,Tadschikistan,33.0
+2012,Germany,Tansania,126.0
+2012,Germany,Thailand,1540.0
+2012,Germany,Tschechien,754.0
+2012,Germany,Tunesien,501.0
+2012,Germany,Türkei,5459.0
+2012,Germany,Uganda,104.0
+2012,Germany,Ukraine,303.0
+2012,Germany,Unbekanntes Ausland,0.0
+2012,Germany,Ungarn,892.0
+2012,Germany,Ungeklärt / Ohne Angabe,1002.0
+2012,Germany,Uruguay,108.0
+2012,Germany,Usbekistan,22.0
+2012,Germany,"Venezuela, Bolivarische Republik",137.0
+2012,Germany,Vereinigte Arabische Emirate,1403.0
+2012,Germany,Vereinigte Staaten,12803.0
+2012,Germany,Vereinigtes Königreich,7802.0
+2012,Germany,Vietnam,247.0
+2012,Germany,Zentralafrikanische Republik,4.0
+2012,Germany,Zypern,156.0
+2012,Germany,Ägypten,612.0
+2012,Germany,Äthiopien,157.0
+2012,Germany,Österreich,11022.0
+2012,Germany,Übriges Afrika,658.0
+2012,Germany,Übriges Amerika,835.0
+2012,Germany,Übriges Asien,1167.0
+2012,Germany,Übriges Europa,129.0
+2012,Germany,Übriges Ozeanien,62.0
+2013,Germany,Afghanistan,213.0
+2013,Germany,Albanien,62.0
+2013,Germany,Algerien,159.0
+2013,Germany,Andorra,4.0
+2013,Germany,Angola,30.0
+2013,Germany,Argentinien,451.0
+2013,Germany,Armenien,32.0
+2013,Germany,Aserbaidschan,39.0
+2013,Germany,Australien,3319.0
+2013,Germany,Belarus,127.0
+2013,Germany,Belgien,2278.0
+2013,Germany,"Bolivien, Plurinationaler Staat",198.0
+2013,Germany,Bosnien und Herzegowina,141.0
+2013,Germany,Brasilien,1641.0
+2013,Germany,Bulgarien,333.0
+2013,Germany,Chile,465.0
+2013,Germany,China,2802.0
+2013,Germany,Costa Rica,137.0
+2013,Germany,Cote d'Ivoire,19.0
+2013,Germany,Dänemark,1057.0
+2013,Germany,Estland,68.0
+2013,Germany,Finnland,376.0
+2013,Germany,Frankreich,6327.0
+2013,Germany,Georgien,89.0
+2013,Germany,Ghana,182.0
+2013,Germany,Griechenland,753.0
+2013,Germany,Honduras,34.0
+2013,Germany,Indien,824.0
+2013,Germany,Indonesien,420.0
+2013,Germany,Irak,1373.0
+2013,Germany,"Iran, Islamische Republik",357.0
+2013,Germany,Irland,849.0
+2013,Germany,Island,92.0
+2013,Germany,Israel,548.0
+2013,Germany,Italien,2612.0
+2013,Germany,Japan,630.0
+2013,Germany,Jemen,37.0
+2013,Germany,Jordanien,276.0
+2013,Germany,Kamerun,77.0
+2013,Germany,Kanada,2604.0
+2013,Germany,Kasachstan,511.0
+2013,Germany,Kenia,285.0
+2013,Germany,Kirgisistan,95.0
+2013,Germany,Kolumbien,350.0
+2013,Germany,"Kongo, Demokratische Republik",41.0
+2013,Germany,"Kongo, Republik",19.0
+2013,Germany,"Korea, Demokratische Volksrepublik",43.0
+2013,Germany,"Korea, Republik",258.0
+2013,Germany,Kosovo,150.0
+2013,Germany,Kroatien,455.0
+2013,Germany,Kuwait,57.0
+2013,Germany,Lettland,90.0
+2013,Germany,Libanon,661.0
+2013,Germany,Libyen,94.0
+2013,Germany,Litauen,108.0
+2013,Germany,Luxemburg,872.0
+2013,Germany,Malta,158.0
+2013,Germany,Marokko,431.0
+2013,Germany,Mexiko,859.0
+2013,Germany,Montenegro (ab 03.06.2006),41.0
+2013,Germany,Namibia,232.0
+2013,Germany,Neuseeland,1148.0
+2013,Germany,Nicaragua,54.0
+2013,Germany,Niederlande,3193.0
+2013,Germany,Niger,10.0
+2013,Germany,Nigeria,211.0
+2013,Germany,Nordmazedonien,66.0
+2013,Germany,Norwegen,1310.0
+2013,Germany,Pakistan,342.0
+2013,Germany,Paraguay,377.0
+2013,Germany,Peru,312.0
+2013,Germany,Philippinen,538.0
+2013,Germany,Polen,6616.0
+2013,Germany,Portugal,708.0
+2013,Germany,Ruanda,61.0
+2013,Germany,Rumänien,811.0
+2013,Germany,Russische Föderation,2212.0
+2013,Germany,Saudi-Arabien,296.0
+2013,Germany,Schweden,1720.0
+2013,Germany,Schweiz,21435.0
+2013,Germany,Senegal,42.0
+2013,Germany,Serbien,237.0
+2013,Germany,Singapur,778.0
+2013,Germany,Slowakei,190.0
+2013,Germany,Slowenien,149.0
+2013,Germany,Somalia,32.0
+2013,Germany,Spanien,5975.0
+2013,Germany,Syrien,78.0
+2013,Germany,Südafrika,1100.0
+2013,Germany,Tadschikistan,58.0
+2013,Germany,Tansania,178.0
+2013,Germany,Thailand,1716.0
+2013,Germany,Tschechien,824.0
+2013,Germany,Tunesien,526.0
+2013,Germany,Türkei,6162.0
+2013,Germany,Uganda,73.0
+2013,Germany,Ukraine,353.0
+2013,Germany,Unbekanntes Ausland,0.0
+2013,Germany,Ungarn,1038.0
+2013,Germany,Ungeklärt / Ohne Angabe,2332.0
+2013,Germany,Uruguay,111.0
+2013,Germany,Usbekistan,31.0
+2013,Germany,"Venezuela, Bolivarische Republik",110.0
+2013,Germany,Vereinigte Arabische Emirate,1567.0
+2013,Germany,Vereinigte Staaten,13532.0
+2013,Germany,Vereinigtes Königreich,8155.0
+2013,Germany,Vietnam,270.0
+2013,Germany,Zentralafrikanische Republik,13.0
+2013,Germany,Zypern,153.0
+2013,Germany,Ägypten,583.0
+2013,Germany,Äthiopien,150.0
+2013,Germany,Österreich,11222.0
+2013,Germany,Übriges Afrika,723.0
+2013,Germany,Übriges Amerika,991.0
+2013,Germany,Übriges Asien,1337.0
+2013,Germany,Übriges Europa,139.0
+2013,Germany,Übriges Ozeanien,89.0
+2014,Germany,Afghanistan,172.0
+2014,Germany,Albanien,46.0
+2014,Germany,Algerien,166.0
+2014,Germany,Andorra,3.0
+2014,Germany,Angola,32.0
+2014,Germany,Argentinien,392.0
+2014,Germany,Armenien,17.0
+2014,Germany,Aserbaidschan,32.0
+2014,Germany,Australien,3519.0
+2014,Germany,Belarus,136.0
+2014,Germany,Belgien,2150.0
+2014,Germany,"Bolivien, Plurinationaler Staat",197.0
+2014,Germany,Bosnien und Herzegowina,144.0
+2014,Germany,Brasilien,1538.0
+2014,Germany,Bulgarien,401.0
+2014,Germany,Chile,479.0
+2014,Germany,China,2859.0
+2014,Germany,Costa Rica,191.0
+2014,Germany,Cote d'Ivoire,28.0
+2014,Germany,Dänemark,1249.0
+2014,Germany,Estland,78.0
+2014,Germany,Finnland,321.0
+2014,Germany,Frankreich,6357.0
+2014,Germany,Georgien,68.0
+2014,Germany,Ghana,185.0
+2014,Germany,Griechenland,858.0
+2014,Germany,Honduras,33.0
+2014,Germany,Indien,828.0
+2014,Germany,Indonesien,439.0
+2014,Germany,Irak,1262.0
+2014,Germany,"Iran, Islamische Republik",380.0
+2014,Germany,Irland,937.0
+2014,Germany,Island,97.0
+2014,Germany,Israel,537.0
+2014,Germany,Italien,2472.0
+2014,Germany,Japan,701.0
+2014,Germany,Jemen,6.0
+2014,Germany,Jordanien,271.0
+2014,Germany,Kamerun,92.0
+2014,Germany,Kanada,2530.0
+2014,Germany,Kasachstan,384.0
+2014,Germany,Kenia,230.0
+2014,Germany,Kirgisistan,74.0
+2014,Germany,Kolumbien,374.0
+2014,Germany,"Kongo, Demokratische Republik",26.0
+2014,Germany,"Kongo, Republik",16.0
+2014,Germany,"Korea, Demokratische Volksrepublik",33.0
+2014,Germany,"Korea, Republik",265.0
+2014,Germany,Kosovo,159.0
+2014,Germany,Kroatien,467.0
+2014,Germany,Kuwait,72.0
+2014,Germany,Lettland,94.0
+2014,Germany,Libanon,640.0
+2014,Germany,Libyen,40.0
+2014,Germany,Litauen,121.0
+2014,Germany,Luxemburg,848.0
+2014,Germany,Malta,175.0
+2014,Germany,Marokko,543.0
+2014,Germany,Mexiko,899.0
+2014,Germany,Montenegro (ab 03.06.2006),35.0
+2014,Germany,Namibia,202.0
+2014,Germany,Neuseeland,1254.0
+2014,Germany,Nicaragua,83.0
+2014,Germany,Niederlande,3418.0
+2014,Germany,Niger,8.0
+2014,Germany,Nigeria,155.0
+2014,Germany,Nordmazedonien,79.0
+2014,Germany,Norwegen,1298.0
+2014,Germany,Pakistan,417.0
+2014,Germany,Paraguay,319.0
+2014,Germany,Peru,348.0
+2014,Germany,Philippinen,555.0
+2014,Germany,Polen,6254.0
+2014,Germany,Portugal,803.0
+2014,Germany,Ruanda,36.0
+2014,Germany,Rumänien,838.0
+2014,Germany,Russische Föderation,2300.0
+2014,Germany,Saudi-Arabien,405.0
+2014,Germany,Schweden,1811.0
+2014,Germany,Schweiz,19930.0
+2014,Germany,Senegal,73.0
+2014,Germany,Serbien,255.0
+2014,Germany,Singapur,714.0
+2014,Germany,Slowakei,167.0
+2014,Germany,Slowenien,157.0
+2014,Germany,Somalia,12.0
+2014,Germany,Spanien,6155.0
+2014,Germany,Syrien,56.0
+2014,Germany,Südafrika,1071.0
+2014,Germany,Tadschikistan,30.0
+2014,Germany,Tansania,129.0
+2014,Germany,Thailand,1847.0
+2014,Germany,Tschechien,899.0
+2014,Germany,Tunesien,556.0
+2014,Germany,Türkei,6793.0
+2014,Germany,Uganda,97.0
+2014,Germany,Ukraine,290.0
+2014,Germany,Unbekanntes Ausland,10032.0
+2014,Germany,Ungarn,1093.0
+2014,Germany,Ungeklärt / Ohne Angabe,71.0
+2014,Germany,Uruguay,111.0
+2014,Germany,Usbekistan,21.0
+2014,Germany,"Venezuela, Bolivarische Republik",104.0
+2014,Germany,Vereinigte Arabische Emirate,1586.0
+2014,Germany,Vereinigte Staaten,14240.0
+2014,Germany,Vereinigtes Königreich,8707.0
+2014,Germany,Vietnam,244.0
+2014,Germany,Zentralafrikanische Republik,14.0
+2014,Germany,Zypern,150.0
+2014,Germany,Ägypten,572.0
+2014,Germany,Äthiopien,139.0
+2014,Germany,Österreich,10789.0
+2014,Germany,Übriges Afrika,712.0
+2014,Germany,Übriges Amerika,963.0
+2014,Germany,Übriges Asien,1387.0
+2014,Germany,Übriges Europa,117.0
+2014,Germany,Übriges Ozeanien,72.0
+2015,Germany,Afghanistan,159.0
+2015,Germany,Albanien,47.0
+2015,Germany,Algerien,158.0
+2015,Germany,Andorra,4.0
+2015,Germany,Angola,37.0
+2015,Germany,Argentinien,418.0
+2015,Germany,Armenien,17.0
+2015,Germany,Aserbaidschan,39.0
+2015,Germany,Australien,3523.0
+2015,Germany,Belarus,159.0
+2015,Germany,Belgien,2123.0
+2015,Germany,"Bolivien, Plurinationaler Staat",180.0
+2015,Germany,Bosnien und Herzegowina,135.0
+2015,Germany,Brasilien,1338.0
+2015,Germany,Bulgarien,331.0
+2015,Germany,Chile,495.0
+2015,Germany,China,2729.0
+2015,Germany,Costa Rica,192.0
+2015,Germany,Cote d'Ivoire,27.0
+2015,Germany,Dänemark,1254.0
+2015,Germany,Estland,75.0
+2015,Germany,Finnland,339.0
+2015,Germany,Frankreich,5863.0
+2015,Germany,Georgien,63.0
+2015,Germany,Ghana,159.0
+2015,Germany,Griechenland,741.0
+2015,Germany,Honduras,33.0
+2015,Germany,Indien,761.0
+2015,Germany,Indonesien,355.0
+2015,Germany,Irak,1033.0
+2015,Germany,"Iran, Islamische Republik",334.0
+2015,Germany,Irland,1017.0
+2015,Germany,Island,98.0
+2015,Germany,Israel,539.0
+2015,Germany,Italien,2297.0
+2015,Germany,Japan,684.0
+2015,Germany,Jemen,3.0
+2015,Germany,Jordanien,269.0
+2015,Germany,Kamerun,80.0
+2015,Germany,Kanada,2200.0
+2015,Germany,Kasachstan,333.0
+2015,Germany,Kenia,236.0
+2015,Germany,Kirgisistan,69.0
+2015,Germany,Kolumbien,374.0
+2015,Germany,"Kongo, Demokratische Republik",41.0
+2015,Germany,"Kongo, Republik",11.0
+2015,Germany,"Korea, Demokratische Volksrepublik",32.0
+2015,Germany,"Korea, Republik",219.0
+2015,Germany,Kosovo,135.0
+2015,Germany,Kroatien,446.0
+2015,Germany,Kuwait,64.0
+2015,Germany,Lettland,84.0
+2015,Germany,Libanon,650.0
+2015,Germany,Libyen,19.0
+2015,Germany,Litauen,111.0
+2015,Germany,Luxemburg,734.0
+2015,Germany,Malta,194.0
+2015,Germany,Marokko,466.0
+2015,Germany,Mexiko,915.0
+2015,Germany,Montenegro (ab 03.06.2006),33.0
+2015,Germany,Namibia,193.0
+2015,Germany,Neuseeland,1284.0
+2015,Germany,Nicaragua,53.0
+2015,Germany,Niederlande,3384.0
+2015,Germany,Niger,21.0
+2015,Germany,Nigeria,158.0
+2015,Germany,Nordmazedonien,65.0
+2015,Germany,Norwegen,1168.0
+2015,Germany,Pakistan,307.0
+2015,Germany,Paraguay,328.0
+2015,Germany,Peru,331.0
+2015,Germany,Philippinen,538.0
+2015,Germany,Polen,5536.0
+2015,Germany,Portugal,868.0
+2015,Germany,Ruanda,38.0
+2015,Germany,Rumänien,829.0
+2015,Germany,Russische Föderation,2341.0
+2015,Germany,Saudi-Arabien,295.0
+2015,Germany,Schweden,1771.0
+2015,Germany,Schweiz,18266.0
+2015,Germany,Senegal,33.0
+2015,Germany,Serbien,233.0
+2015,Germany,Singapur,747.0
+2015,Germany,Slowakei,155.0
+2015,Germany,Slowenien,132.0
+2015,Germany,Somalia,8.0
+2015,Germany,Spanien,6216.0
+2015,Germany,Syrien,74.0
+2015,Germany,Südafrika,930.0
+2015,Germany,Tadschikistan,37.0
+2015,Germany,Tansania,158.0
+2015,Germany,Thailand,1669.0
+2015,Germany,Tschechien,898.0
+2015,Germany,Tunesien,400.0
+2015,Germany,Türkei,6750.0
+2015,Germany,Uganda,90.0
+2015,Germany,Ukraine,273.0
+2015,Germany,Unbekanntes Ausland,6593.0
+2015,Germany,Ungarn,935.0
+2015,Germany,Ungeklärt / Ohne Angabe,174.0
+2015,Germany,Uruguay,129.0
+2015,Germany,Usbekistan,23.0
+2015,Germany,"Venezuela, Bolivarische Republik",99.0
+2015,Germany,Vereinigte Arabische Emirate,1498.0
+2015,Germany,Vereinigte Staaten,13438.0
+2015,Germany,Vereinigtes Königreich,8917.0
+2015,Germany,Vietnam,251.0
+2015,Germany,Zentralafrikanische Republik,14.0
+2015,Germany,Zypern,155.0
+2015,Germany,Ägypten,549.0
+2015,Germany,Äthiopien,111.0
+2015,Germany,Österreich,10239.0
+2015,Germany,Übriges Afrika,637.0
+2015,Germany,Übriges Amerika,973.0
+2015,Germany,Übriges Asien,1287.0
+2015,Germany,Übriges Europa,148.0
+2015,Germany,Übriges Ozeanien,52.0
+2016,Germany,Afghanistan,83.0
+2016,Germany,Albanien,49.0
+2016,Germany,Algerien,154.0
+2016,Germany,Andorra,12.0
+2016,Germany,Angola,13.0
+2016,Germany,Argentinien,388.0
+2016,Germany,Armenien,37.0
+2016,Germany,Aserbaidschan,23.0
+2016,Germany,Australien,3439.0
+2016,Germany,Belarus,146.0
+2016,Germany,Belgien,2048.0
+2016,Germany,"Bolivien, Plurinationaler Staat",195.0
+2016,Germany,Bosnien und Herzegowina,148.0
+2016,Germany,Brasilien,1219.0
+2016,Germany,Bulgarien,461.0
+2016,Germany,Chile,423.0
+2016,Germany,China,2379.0
+2016,Germany,Costa Rica,176.0
+2016,Germany,Cote d'Ivoire,16.0
+2016,Germany,Dänemark,1329.0
+2016,Germany,Estland,74.0
+2016,Germany,Finnland,356.0
+2016,Germany,Frankreich,5895.0
+2016,Germany,Georgien,78.0
+2016,Germany,Ghana,143.0
+2016,Germany,Griechenland,729.0
+2016,Germany,Honduras,25.0
+2016,Germany,Indien,708.0
+2016,Germany,Indonesien,359.0
+2016,Germany,Irak,799.0
+2016,Germany,"Iran, Islamische Republik",340.0
+2016,Germany,Irland,1006.0
+2016,Germany,Island,107.0
+2016,Germany,Israel,509.0
+2016,Germany,Italien,2457.0
+2016,Germany,Japan,731.0
+2016,Germany,Jemen,6.0
+2016,Germany,Jordanien,274.0
+2016,Germany,Kamerun,110.0
+2016,Germany,Kanada,2431.0
+2016,Germany,Kasachstan,323.0
+2016,Germany,Kenia,176.0
+2016,Germany,Kirgisistan,41.0
+2016,Germany,Kolumbien,378.0
+2016,Germany,"Kongo, Demokratische Republik",38.0
+2016,Germany,"Kongo, Republik",8.0
+2016,Germany,"Korea, Demokratische Volksrepublik",29.0
+2016,Germany,"Korea, Republik",232.0
+2016,Germany,Kosovo,147.0
+2016,Germany,Kroatien,461.0
+2016,Germany,Kuwait,54.0
+2016,Germany,Lettland,89.0
+2016,Germany,Libanon,646.0
+2016,Germany,Libyen,23.0
+2016,Germany,Litauen,122.0
+2016,Germany,Luxemburg,733.0
+2016,Germany,Malta,238.0
+2016,Germany,Marokko,464.0
+2016,Germany,Mexiko,953.0
+2016,Germany,Montenegro (ab 03.06.2006),38.0
+2016,Germany,Namibia,191.0
+2016,Germany,Neuseeland,1268.0
+2016,Germany,Nicaragua,43.0
+2016,Germany,Niederlande,3499.0
+2016,Germany,Niger,9.0
+2016,Germany,Nigeria,127.0
+2016,Germany,Nordmazedonien,60.0
+2016,Germany,Norwegen,1095.0
+2016,Germany,Pakistan,347.0
+2016,Germany,Paraguay,418.0
+2016,Germany,Peru,303.0
+2016,Germany,Philippinen,528.0
+2016,Germany,Polen,5418.0
+2016,Germany,Portugal,1081.0
+2016,Germany,Ruanda,35.0
+2016,Germany,Rumänien,827.0
+2016,Germany,Russische Föderation,2254.0
+2016,Germany,Saudi-Arabien,293.0
+2016,Germany,Schweden,1835.0
+2016,Germany,Schweiz,17650.0
+2016,Germany,Senegal,56.0
+2016,Germany,Serbien,225.0
+2016,Germany,Singapur,710.0
+2016,Germany,Slowakei,173.0
+2016,Germany,Slowenien,137.0
+2016,Germany,Somalia,15.0
+2016,Germany,Spanien,6352.0
+2016,Germany,Syrien,43.0
+2016,Germany,Südafrika,866.0
+2016,Germany,Tadschikistan,14.0
+2016,Germany,Tansania,119.0
+2016,Germany,Thailand,1776.0
+2016,Germany,Tschechien,952.0
+2016,Germany,Tunesien,337.0
+2016,Germany,Türkei,6230.0
+2016,Germany,Uganda,65.0
+2016,Germany,Ukraine,301.0
+2016,Germany,Unbekanntes Ausland,2008.0
+2016,Germany,Ungarn,1086.0
+2016,Germany,Ungeklärt / Ohne Angabe,150679.0
+2016,Germany,Uruguay,126.0
+2016,Germany,Usbekistan,37.0
+2016,Germany,"Venezuela, Bolivarische Republik",90.0
+2016,Germany,Vereinigte Arabische Emirate,1282.0
+2016,Germany,Vereinigte Staaten,12781.0
+2016,Germany,Vereinigtes Königreich,8243.0
+2016,Germany,Vietnam,292.0
+2016,Germany,Zentralafrikanische Republik,24.0
+2016,Germany,Zypern,193.0
+2016,Germany,Ägypten,524.0
+2016,Germany,Äthiopien,131.0
+2016,Germany,Österreich,10283.0
+2016,Germany,Übriges Afrika,588.0
+2016,Germany,Übriges Amerika,922.0
+2016,Germany,Übriges Asien,1211.0
+2016,Germany,Übriges Europa,105.0
+2016,Germany,Übriges Ozeanien,86.0
+2017,Germany,Afghanistan,61.0
+2017,Germany,Albanien,68.0
+2017,Germany,Algerien,125.0
+2017,Germany,Andorra,8.0
+2017,Germany,Angola,18.0
+2017,Germany,Argentinien,359.0
+2017,Germany,Armenien,27.0
+2017,Germany,Aserbaidschan,31.0
+2017,Germany,Australien,3265.0
+2017,Germany,Belarus,130.0
+2017,Germany,Belgien,1803.0
+2017,Germany,"Bolivien, Plurinationaler Staat",194.0
+2017,Germany,Bosnien und Herzegowina,79.0
+2017,Germany,Brasilien,1006.0
+2017,Germany,Bulgarien,450.0
+2017,Germany,Chile,387.0
+2017,Germany,China,2070.0
+2017,Germany,Costa Rica,148.0
+2017,Germany,Cote d'Ivoire,23.0
+2017,Germany,Dänemark,1246.0
+2017,Germany,Estland,94.0
+2017,Germany,Finnland,334.0
+2017,Germany,Frankreich,5149.0
+2017,Germany,Georgien,90.0
+2017,Germany,Ghana,130.0
+2017,Germany,Griechenland,690.0
+2017,Germany,Honduras,24.0
+2017,Germany,Indien,705.0
+2017,Germany,Indonesien,359.0
+2017,Germany,Irak,634.0
+2017,Germany,"Iran, Islamische Republik",238.0
+2017,Germany,Irland,886.0
+2017,Germany,Island,109.0
+2017,Germany,Israel,462.0
+2017,Germany,Italien,2287.0
+2017,Germany,Japan,704.0
+2017,Germany,Jemen,0.0
+2017,Germany,Jordanien,275.0
+2017,Germany,Kamerun,85.0
+2017,Germany,Kanada,2396.0
+2017,Germany,Kasachstan,326.0
+2017,Germany,Kenia,217.0
+2017,Germany,Kirgisistan,73.0
+2017,Germany,Kolumbien,345.0
+2017,Germany,"Kongo, Demokratische Republik",32.0
+2017,Germany,"Kongo, Republik",13.0
+2017,Germany,"Korea, Demokratische Volksrepublik",16.0
+2017,Germany,"Korea, Republik",244.0
+2017,Germany,Kosovo,126.0
+2017,Germany,Kroatien,364.0
+2017,Germany,Kuwait,43.0
+2017,Germany,Lettland,93.0
+2017,Germany,Libanon,565.0
+2017,Germany,Libyen,31.0
+2017,Germany,Litauen,99.0
+2017,Germany,Luxemburg,669.0
+2017,Germany,Malta,234.0
+2017,Germany,Marokko,379.0
+2017,Germany,Mexiko,914.0
+2017,Germany,Montenegro (ab 03.06.2006),42.0
+2017,Germany,Namibia,165.0
+2017,Germany,Neuseeland,1364.0
+2017,Germany,Nicaragua,57.0
+2017,Germany,Niederlande,3319.0
+2017,Germany,Niger,15.0
+2017,Germany,Nigeria,152.0
+2017,Germany,Nordmazedonien,76.0
+2017,Germany,Norwegen,953.0
+2017,Germany,Pakistan,305.0
+2017,Germany,Paraguay,393.0
+2017,Germany,Peru,262.0
+2017,Germany,Philippinen,465.0
+2017,Germany,Polen,5069.0
+2017,Germany,Portugal,1091.0
+2017,Germany,Ruanda,47.0
+2017,Germany,Rumänien,782.0
+2017,Germany,Russische Föderation,2008.0
+2017,Germany,Saudi-Arabien,212.0
+2017,Germany,Schweden,1641.0
+2017,Germany,Schweiz,15784.0
+2017,Germany,Senegal,41.0
+2017,Germany,Serbien,217.0
+2017,Germany,Singapur,572.0
+2017,Germany,Slowakei,178.0
+2017,Germany,Slowenien,131.0
+2017,Germany,Somalia,14.0
+2017,Germany,Spanien,5959.0
+2017,Germany,Syrien,42.0
+2017,Germany,Südafrika,800.0
+2017,Germany,Tadschikistan,9.0
+2017,Germany,Tansania,112.0
+2017,Germany,Thailand,1756.0
+2017,Germany,Tschechien,825.0
+2017,Germany,Tunesien,349.0
+2017,Germany,Türkei,5841.0
+2017,Germany,Uganda,79.0
+2017,Germany,Ukraine,285.0
+2017,Germany,Unbekanntes Ausland,1459.0
+2017,Germany,Ungarn,1047.0
+2017,Germany,Ungeklärt / Ohne Angabe,131545.0
+2017,Germany,Uruguay,149.0
+2017,Germany,Usbekistan,26.0
+2017,Germany,"Venezuela, Bolivarische Republik",49.0
+2017,Germany,Vereinigte Arabische Emirate,971.0
+2017,Germany,Vereinigte Staaten,10585.0
+2017,Germany,Vereinigtes Königreich,6677.0
+2017,Germany,Vietnam,247.0
+2017,Germany,Zentralafrikanische Republik,33.0
+2017,Germany,Zypern,179.0
+2017,Germany,Ägypten,417.0
+2017,Germany,Äthiopien,112.0
+2017,Germany,Österreich,9660.0
+2017,Germany,Übriges Afrika,564.0
+2017,Germany,Übriges Amerika,839.0
+2017,Germany,Übriges Asien,1097.0
+2017,Germany,Übriges Europa,82.0
+2017,Germany,Übriges Ozeanien,99.0
+2018,Germany,Afghanistan,63.0
+2018,Germany,Albanien,53.0
+2018,Germany,Algerien,184.0
+2018,Germany,Andorra,10.0
+2018,Germany,Angola,17.0
+2018,Germany,Argentinien,351.0
+2018,Germany,Armenien,34.0
+2018,Germany,Aserbaidschan,22.0
+2018,Germany,Australien,3169.0
+2018,Germany,Belarus,157.0
+2018,Germany,Belgien,2005.0
+2018,Germany,"Bolivien, Plurinationaler Staat",207.0
+2018,Germany,Bosnien und Herzegowina,115.0
+2018,Germany,Brasilien,986.0
+2018,Germany,Bulgarien,532.0
+2018,Germany,Chile,491.0
+2018,Germany,China,2157.0
+2018,Germany,Costa Rica,182.0
+2018,Germany,Cote d'Ivoire,29.0
+2018,Germany,Dänemark,1418.0
+2018,Germany,Estland,107.0
+2018,Germany,Finnland,357.0
+2018,Germany,Frankreich,5814.0
+2018,Germany,Georgien,88.0
+2018,Germany,Ghana,132.0
+2018,Germany,Griechenland,862.0
+2018,Germany,Honduras,28.0
+2018,Germany,Indien,711.0
+2018,Germany,Indonesien,417.0
+2018,Germany,Irak,636.0
+2018,Germany,"Iran, Islamische Republik",231.0
+2018,Germany,Irland,957.0
+2018,Germany,Island,131.0
+2018,Germany,Israel,515.0
+2018,Germany,Italien,2431.0
+2018,Germany,Japan,730.0
+2018,Germany,Jemen,13.0
+2018,Germany,Jordanien,226.0
+2018,Germany,Kamerun,83.0
+2018,Germany,Kanada,2392.0
+2018,Germany,Kasachstan,308.0
+2018,Germany,Kenia,208.0
+2018,Germany,Kirgisistan,79.0
+2018,Germany,Kolumbien,406.0
+2018,Germany,"Kongo, Demokratische Republik",43.0
+2018,Germany,"Kongo, Republik",7.0
+2018,Germany,"Korea, Demokratische Volksrepublik",19.0
+2018,Germany,"Korea, Republik",225.0
+2018,Germany,Kosovo,125.0
+2018,Germany,Kroatien,418.0
+2018,Germany,Kuwait,50.0
+2018,Germany,Lettland,116.0
+2018,Germany,Libanon,634.0
+2018,Germany,Libyen,42.0
+2018,Germany,Litauen,108.0
+2018,Germany,Luxemburg,715.0
+2018,Germany,Malta,288.0
+2018,Germany,Marokko,417.0
+2018,Germany,Mexiko,989.0
+2018,Germany,Montenegro (ab 03.06.2006),43.0
+2018,Germany,Namibia,211.0
+2018,Germany,Neuseeland,1296.0
+2018,Germany,Nicaragua,43.0
+2018,Germany,Niederlande,3746.0
+2018,Germany,Niger,17.0
+2018,Germany,Nigeria,120.0
+2018,Germany,Nordmazedonien,47.0
+2018,Germany,Norwegen,1133.0
+2018,Germany,Pakistan,341.0
+2018,Germany,Paraguay,438.0
+2018,Germany,Peru,243.0
+2018,Germany,Philippinen,587.0
+2018,Germany,Polen,5126.0
+2018,Germany,Portugal,1427.0
+2018,Germany,Ruanda,32.0
+2018,Germany,Rumänien,851.0
+2018,Germany,Russische Föderation,2105.0
+2018,Germany,Saudi-Arabien,218.0
+2018,Germany,Schweden,1821.0
+2018,Germany,Schweiz,16430.0
+2018,Germany,Senegal,49.0
+2018,Germany,Serbien,189.0
+2018,Germany,Singapur,665.0
+2018,Germany,Slowakei,163.0
+2018,Germany,Slowenien,115.0
+2018,Germany,Somalia,18.0
+2018,Germany,Spanien,6433.0
+2018,Germany,Syrien,46.0
+2018,Germany,Südafrika,798.0
+2018,Germany,Tadschikistan,16.0
+2018,Germany,Tansania,123.0
+2018,Germany,Thailand,1869.0
+2018,Germany,Tschechien,869.0
+2018,Germany,Tunesien,336.0
+2018,Germany,Türkei,6203.0
+2018,Germany,Uganda,94.0
+2018,Germany,Ukraine,345.0
+2018,Germany,Unbekanntes Ausland,1805.0
+2018,Germany,Ungarn,1249.0
+2018,Germany,Ungeklärt / Ohne Angabe,136167.0
+2018,Germany,Uruguay,104.0
+2018,Germany,Usbekistan,22.0
+2018,Germany,"Venezuela, Bolivarische Republik",76.0
+2018,Germany,Vereinigte Arabische Emirate,1048.0
+2018,Germany,Vereinigte Staaten,10447.0
+2018,Germany,Vereinigtes Königreich,7032.0
+2018,Germany,Vietnam,294.0
+2018,Germany,Zentralafrikanische Republik,29.0
+2018,Germany,Zypern,325.0
+2018,Germany,Ägypten,577.0
+2018,Germany,Äthiopien,120.0
+2018,Germany,Österreich,10852.0
+2018,Germany,Übriges Afrika,586.0
+2018,Germany,Übriges Amerika,870.0
+2018,Germany,Übriges Asien,1212.0
+2018,Germany,Übriges Europa,135.0
+2018,Germany,Übriges Ozeanien,55.0
+2019,Germany,Afghanistan,76.0
+2019,Germany,Albanien,58.0
+2019,Germany,Algerien,126.0
+2019,Germany,Andorra,7.0
+2019,Germany,Angola,13.0
+2019,Germany,Argentinien,323.0
+2019,Germany,Armenien,40.0
+2019,Germany,Aserbaidschan,22.0
+2019,Germany,Australien,3147.0
+2019,Germany,Belarus,161.0
+2019,Germany,Belgien,2166.0
+2019,Germany,"Bolivien, Plurinationaler Staat",169.0
+2019,Germany,Bosnien und Herzegowina,133.0
+2019,Germany,Brasilien,1081.0
+2019,Germany,Bulgarien,563.0
+2019,Germany,Chile,420.0
+2019,Germany,China,1992.0
+2019,Germany,Costa Rica,172.0
+2019,Germany,Cote d'Ivoire,36.0
+2019,Germany,Dänemark,1563.0
+2019,Germany,Estland,105.0
+2019,Germany,Finnland,377.0
+2019,Germany,Frankreich,5682.0
+2019,Germany,Georgien,80.0
+2019,Germany,Ghana,125.0
+2019,Germany,Griechenland,923.0
+2019,Germany,Honduras,16.0
+2019,Germany,Indien,587.0
+2019,Germany,Indonesien,419.0
+2019,Germany,Irak,662.0
+2019,Germany,"Iran, Islamische Republik",247.0
+2019,Germany,Irland,957.0
+2019,Germany,Island,92.0
+2019,Germany,Israel,522.0
+2019,Germany,Italien,2452.0
+2019,Germany,Japan,823.0
+2019,Germany,Jemen,19.0
+2019,Germany,Jordanien,244.0
+2019,Germany,Kamerun,95.0
+2019,Germany,Kanada,2297.0
+2019,Germany,Kasachstan,336.0
+2019,Germany,Kenia,275.0
+2019,Germany,Kirgisistan,72.0
+2019,Germany,Kolumbien,437.0
+2019,Germany,"Kongo, Demokratische Republik",25.0
+2019,Germany,"Kongo, Republik",8.0
+2019,Germany,"Korea, Demokratische Volksrepublik",26.0
+2019,Germany,"Korea, Republik",211.0
+2019,Germany,Kosovo,148.0
+2019,Germany,Kroatien,433.0
+2019,Germany,Kuwait,50.0
+2019,Germany,Lettland,211.0
+2019,Germany,Libanon,581.0
+2019,Germany,Libyen,43.0
+2019,Germany,Litauen,113.0
+2019,Germany,Luxemburg,729.0
+2019,Germany,Malta,200.0
+2019,Germany,Marokko,354.0
+2019,Germany,Mexiko,785.0
+2019,Germany,Montenegro (ab 03.06.2006),41.0
+2019,Germany,Namibia,201.0
+2019,Germany,Neuseeland,1108.0
+2019,Germany,Nicaragua,48.0
+2019,Germany,Niederlande,3918.0
+2019,Germany,Niger,17.0
+2019,Germany,Nigeria,126.0
+2019,Germany,Nordmazedonien,66.0
+2019,Germany,Norwegen,1073.0
+2019,Germany,Pakistan,346.0
+2019,Germany,Paraguay,409.0
+2019,Germany,Peru,287.0
+2019,Germany,Philippinen,528.0
+2019,Germany,Polen,5188.0
+2019,Germany,Portugal,1546.0
+2019,Germany,Ruanda,18.0
+2019,Germany,Rumänien,965.0
+2019,Germany,Russische Föderation,2019.0
+2019,Germany,Saudi-Arabien,205.0
+2019,Germany,Schweden,1882.0
+2019,Germany,Schweiz,16340.0
+2019,Germany,Senegal,66.0
+2019,Germany,Serbien,212.0
+2019,Germany,Singapur,642.0
+2019,Germany,Slowakei,154.0
+2019,Germany,Slowenien,114.0
+2019,Germany,Somalia,12.0
+2019,Germany,Spanien,6479.0
+2019,Germany,Syrien,55.0
+2019,Germany,Südafrika,712.0
+2019,Germany,Tadschikistan,14.0
+2019,Germany,Tansania,80.0
+2019,Germany,Thailand,1711.0
+2019,Germany,Tschechien,856.0
+2019,Germany,Tunesien,310.0
+2019,Germany,Türkei,5765.0
+2019,Germany,Uganda,79.0
+2019,Germany,Ukraine,357.0
+2019,Germany,Unbekanntes Ausland,1851.0
+2019,Germany,Ungarn,1377.0
+2019,Germany,Ungeklärt / Ohne Angabe,145345.0
+2019,Germany,Uruguay,78.0
+2019,Germany,Usbekistan,19.0
+2019,Germany,"Venezuela, Bolivarische Republik",67.0
+2019,Germany,Vereinigte Arabische Emirate,996.0
+2019,Germany,Vereinigte Staaten,9782.0
+2019,Germany,Vereinigtes Königreich,6766.0
+2019,Germany,Vietnam,342.0
+2019,Germany,Zentralafrikanische Republik,18.0
+2019,Germany,Zypern,378.0
+2019,Germany,Ägypten,450.0
+2019,Germany,Äthiopien,126.0
+2019,Germany,Österreich,11904.0
+2019,Germany,Übriges Afrika,590.0
+2019,Germany,Übriges Amerika,808.0
+2019,Germany,Übriges Asien,1228.0
+2019,Germany,Übriges Europa,142.0
+2019,Germany,Übriges Ozeanien,49.0
+2020,Germany,Afghanistan,55.0
+2020,Germany,Albanien,48.0
+2020,Germany,Algerien,45.0
+2020,Germany,Andorra,5.0
+2020,Germany,Angola,17.0
+2020,Germany,Argentinien,159.0
+2020,Germany,Armenien,26.0
+2020,Germany,Aserbaidschan,23.0
+2020,Germany,Australien,1599.0
+2020,Germany,Belarus,96.0
+2020,Germany,Belgien,1854.0
+2020,Germany,"Bolivien, Plurinationaler Staat",126.0
+2020,Germany,Bosnien und Herzegowina,136.0
+2020,Germany,Brasilien,790.0
+2020,Germany,Bulgarien,587.0
+2020,Germany,Chile,220.0
+2020,Germany,China,987.0
+2020,Germany,Costa Rica,132.0
+2020,Germany,Cote d'Ivoire,17.0
+2020,Germany,Dänemark,1479.0
+2020,Germany,Estland,92.0
+2020,Germany,Finnland,407.0
+2020,Germany,Frankreich,4741.0
+2020,Germany,Georgien,81.0
+2020,Germany,Ghana,106.0
+2020,Germany,Griechenland,858.0
+2020,Germany,Honduras,9.0
+2020,Germany,Indien,274.0
+2020,Germany,Indonesien,222.0
+2020,Germany,Irak,425.0
+2020,Germany,"Iran, Islamische Republik",170.0
+2020,Germany,Irland,711.0
+2020,Germany,Island,95.0
+2020,Germany,Israel,296.0
+2020,Germany,Italien,2030.0
+2020,Germany,Japan,464.0
+2020,Germany,Jordanien,109.0
+2020,Germany,Kamerun,83.0
+2020,Germany,Kanada,1449.0
+2020,Germany,Kasachstan,157.0
+2020,Germany,Kenia,182.0
+2020,Germany,Kirgisistan,38.0
+2020,Germany,Kolumbien,278.0
+2020,Germany,"Kongo, Demokratische Republik",13.0
+2020,Germany,"Korea, Demokratische Volksrepublik",22.0
+2020,Germany,"Korea, Republik",217.0
+2020,Germany,Kosovo,76.0
+2020,Germany,Kroatien,411.0
+2020,Germany,Kuwait,13.0
+2020,Germany,Lettland,140.0
+2020,Germany,Libanon,330.0
+2020,Germany,Libyen,36.0
+2020,Germany,Litauen,89.0
+2020,Germany,Luxemburg,673.0
+2020,Germany,Malta,176.0
+2020,Germany,Marokko,238.0
+2020,Germany,Mexiko,527.0
+2020,Germany,Montenegro (ab 03.06.2006),25.0
+2020,Germany,Namibia,111.0
+2020,Germany,Neuseeland,592.0
+2020,Germany,Nicaragua,17.0
+2020,Germany,Niederlande,3411.0
+2020,Germany,Niger,18.0
+2020,Germany,Nigeria,80.0
+2020,Germany,Nordmazedonien,43.0
+2020,Germany,Norwegen,923.0
+2020,Germany,Pakistan,199.0
+2020,Germany,Paraguay,352.0
+2020,Germany,Peru,158.0
+2020,Germany,Philippinen,259.0
+2020,Germany,Polen,3934.0
+2020,Germany,Portugal,1461.0
+2020,Germany,Ruanda,34.0
+2020,Germany,Rumänien,826.0
+2020,Germany,Russische Föderation,1475.0
+2020,Germany,Saudi-Arabien,130.0
+2020,Germany,Schweden,1804.0
+2020,Germany,Schweiz,14638.0
+2020,Germany,Senegal,43.0
+2020,Germany,Serbien,168.0
+2020,Germany,Singapur,394.0
+2020,Germany,Slowakei,165.0
+2020,Germany,Slowenien,109.0
+2020,Germany,Somalia,12.0
+2020,Germany,Spanien,4631.0
+2020,Germany,Syrien,43.0
+2020,Germany,Südafrika,364.0
+2020,Germany,Tadschikistan,15.0
+2020,Germany,Tansania,69.0
+2020,Germany,Thailand,786.0
+2020,Germany,Tschechien,718.0
+2020,Germany,Tunesien,248.0
+2020,Germany,Türkei,4622.0
+2020,Germany,Uganda,67.0
+2020,Germany,Ukraine,240.0
+2020,Germany,Unbekanntes Ausland,1260.0
+2020,Germany,Ungarn,1131.0
+2020,Germany,Ungeklärt / Ohne Angabe,124472.0
+2020,Germany,Uruguay,68.0
+2020,Germany,Usbekistan,11.0
+2020,Germany,"Venezuela, Bolivarische Republik",44.0
+2020,Germany,Vereinigte Arabische Emirate,743.0
+2020,Germany,Vereinigte Staaten,5917.0
+2020,Germany,Vereinigtes Königreich,5109.0
+2020,Germany,Vietnam,195.0
+2020,Germany,Zentralafrikanische Republik,12.0
+2020,Germany,Zypern,437.0
+2020,Germany,Ägypten,407.0
+2020,Germany,Äthiopien,86.0
+2020,Germany,Österreich,10743.0
+2020,Germany,Übriges Afrika,429.0
+2020,Germany,Übriges Amerika,548.0
+2020,Germany,Übriges Asien,665.0
+2020,Germany,Übriges Europa,101.0
+2020,Germany,Übriges Ozeanien,35.0
+2021,Germany,Afghanistan,59.0
+2021,Germany,Albanien,59.0
+2021,Germany,Algerien,126.0
+2021,Germany,Andorra,19.0
+2021,Germany,Angola,24.0
+2021,Germany,Argentinien,254.0
+2021,Germany,Armenien,30.0
+2021,Germany,Aserbaidschan,29.0
+2021,Germany,Australien,1182.0
+2021,Germany,Belarus,178.0
+2021,Germany,Belgien,1925.0
+2021,Germany,"Bolivien, Plurinationaler Staat",266.0
+2021,Germany,Bosnien und Herzegowina,197.0
+2021,Germany,Brasilien,923.0
+2021,Germany,Bulgarien,961.0
+2021,Germany,Chile,264.0
+2021,Germany,China,1143.0
+2021,Germany,Costa Rica,418.0
+2021,Germany,Cote d'Ivoire,15.0
+2021,Germany,Dänemark,2132.0
+2021,Germany,Estland,135.0
+2021,Germany,Finnland,474.0
+2021,Germany,Frankreich,5415.0
+2021,Germany,Georgien,212.0
+2021,Germany,Ghana,127.0
+2021,Germany,Griechenland,1129.0
+2021,Germany,Honduras,8.0
+2021,Germany,Indien,407.0
+2021,Germany,Indonesien,361.0
+2021,Germany,Irak,502.0
+2021,Germany,"Iran, Islamische Republik",187.0
+2021,Germany,Irland,855.0
+2021,Germany,Island,92.0
+2021,Germany,Israel,451.0
+2021,Germany,Italien,2688.0
+2021,Germany,Japan,341.0
+2021,Germany,Jemen,11.0
+2021,Germany,Jordanien,226.0
+2021,Germany,Kamerun,91.0
+2021,Germany,Kanada,1579.0
+2021,Germany,Kasachstan,299.0
+2021,Germany,Kenia,266.0
+2021,Germany,Kirgisistan,80.0
+2021,Germany,Kolumbien,309.0
+2021,Germany,"Kongo, Demokratische Republik",37.0
+2021,Germany,"Kongo, Republik",4.0
+2021,Germany,"Korea, Demokratische Volksrepublik",15.0
+2021,Germany,"Korea, Republik",249.0
+2021,Germany,Kosovo,155.0
+2021,Germany,Kroatien,759.0
+2021,Germany,Kuwait,20.0
+2021,Germany,Lettland,124.0
+2021,Germany,Libanon,361.0
+2021,Germany,Libyen,88.0
+2021,Germany,Litauen,123.0
+2021,Germany,Luxemburg,618.0
+2021,Germany,Malta,219.0
+2021,Germany,Marokko,342.0
+2021,Germany,Mexiko,1068.0
+2021,Germany,Montenegro (ab 03.06.2006),63.0
+2021,Germany,Namibia,184.0
+2021,Germany,Neuseeland,439.0
+2021,Germany,Nicaragua,43.0
+2021,Germany,Niederlande,3602.0
+2021,Germany,Niger,15.0
+2021,Germany,Nigeria,132.0
+2021,Germany,Nordmazedonien,63.0
+2021,Germany,Norwegen,1107.0
+2021,Germany,Pakistan,281.0
+2021,Germany,Paraguay,1304.0
+2021,Germany,Peru,205.0
+2021,Germany,Philippinen,290.0
+2021,Germany,Polen,4466.0
+2021,Germany,Portugal,2070.0
+2021,Germany,Ruanda,40.0
+2021,Germany,Rumänien,1234.0
+2021,Germany,Russische Föderation,2283.0
+2021,Germany,Saudi-Arabien,192.0
+2021,Germany,Schweden,2616.0
+2021,Germany,Schweiz,16996.0
+2021,Germany,Senegal,50.0
+2021,Germany,Serbien,256.0
+2021,Germany,Singapur,418.0
+2021,Germany,Slowakei,160.0
+2021,Germany,Slowenien,151.0
+2021,Germany,Somalia,31.0
+2021,Germany,Spanien,6361.0
+2021,Germany,Syrien,55.0
+2021,Germany,Südafrika,553.0
+2021,Germany,Tadschikistan,19.0
+2021,Germany,Tansania,187.0
+2021,Germany,Thailand,1333.0
+2021,Germany,Tschechien,717.0
+2021,Germany,Tunesien,234.0
+2021,Germany,Türkei,5694.0
+2021,Germany,Uganda,123.0
+2021,Germany,Ukraine,350.0
+2021,Germany,Unbekanntes Ausland,2098.0
+2021,Germany,Ungarn,1486.0
+2021,Germany,Ungeklärt / Ohne Angabe,129084.0
+2021,Germany,Uruguay,106.0
+2021,Germany,Usbekistan,29.0
+2021,Germany,"Venezuela, Bolivarische Republik",72.0
+2021,Germany,Vereinigte Arabische Emirate,1512.0
+2021,Germany,Vereinigte Staaten,8400.0
+2021,Germany,Vereinigtes Königreich,4778.0
+2021,Germany,Vietnam,135.0
+2021,Germany,Zentralafrikanische Republik,13.0
+2021,Germany,Zypern,880.0
+2021,Germany,Ägypten,446.0
+2021,Germany,Äthiopien,92.0
+2021,Germany,Österreich,11383.0
+2021,Germany,Übriges Afrika,559.0
+2021,Germany,Übriges Amerika,891.0
+2021,Germany,Übriges Asien,723.0
+2021,Germany,Übriges Europa,150.0
+2021,Germany,Übriges Ozeanien,44.0
+2022,Germany,Afghanistan,65.0
+2022,Germany,Albanien,90.0
+2022,Germany,Algerien,141.0
+2022,Germany,Andorra,18.0
+2022,Germany,Angola,9.0
+2022,Germany,Argentinien,332.0
+2022,Germany,Armenien,55.0
+2022,Germany,Aserbaidschan,25.0
+2022,Germany,Australien,2856.0
+2022,Germany,Belarus,165.0
+2022,Germany,Belgien,1981.0
+2022,Germany,"Bolivien, Plurinationaler Staat",357.0
+2022,Germany,Bosnien und Herzegowina,185.0
+2022,Germany,Brasilien,1204.0
+2022,Germany,Bulgarien,1240.0
+2022,Germany,Chile,326.0
+2022,Germany,China,1011.0
+2022,Germany,Costa Rica,389.0
+2022,Germany,Cote d'Ivoire,37.0
+2022,Germany,Dänemark,3387.0
+2022,Germany,Estland,106.0
+2022,Germany,Finnland,487.0
+2022,Germany,Frankreich,6301.0
+2022,Germany,Georgien,243.0
+2022,Germany,Ghana,144.0
+2022,Germany,Griechenland,1441.0
+2022,Germany,Honduras,22.0
+2022,Germany,Indien,610.0
+2022,Germany,Indonesien,585.0
+2022,Germany,Irak,569.0
+2022,Germany,"Iran, Islamische Republik",220.0
+2022,Germany,Irland,1134.0
+2022,Germany,Island,125.0
+2022,Germany,Israel,496.0
+2022,Germany,Italien,3214.0
+2022,Germany,Japan,817.0
+2022,Germany,Jemen,10.0
+2022,Germany,Jordanien,238.0
+2022,Germany,Kamerun,81.0
+2022,Germany,Kanada,2173.0
+2022,Germany,Kasachstan,496.0
+2022,Germany,Kenia,200.0
+2022,Germany,Kirgisistan,68.0
+2022,Germany,Kolumbien,357.0
+2022,Germany,"Kongo, Demokratische Republik",25.0
+2022,Germany,"Kongo, Republik",9.0
+2022,Germany,"Korea, Demokratische Volksrepublik",17.0
+2022,Germany,"Korea, Republik",260.0
+2022,Germany,Kosovo,140.0
+2022,Germany,Kroatien,1100.0
+2022,Germany,Kuwait,48.0
+2022,Germany,Lettland,134.0
+2022,Germany,Libanon,426.0
+2022,Germany,Libyen,101.0
+2022,Germany,Litauen,127.0
+2022,Germany,Luxemburg,658.0
+2022,Germany,Malta,294.0
+2022,Germany,Marokko,457.0
+2022,Germany,Mexiko,1231.0
+2022,Germany,Montenegro (ab 03.06.2006),226.0
+2022,Germany,Namibia,178.0
+2022,Germany,Neuseeland,767.0
+2022,Germany,Nicaragua,41.0
+2022,Germany,Niederlande,3806.0
+2022,Germany,Niger,13.0
+2022,Germany,Nigeria,106.0
+2022,Germany,Nordmazedonien,82.0
+2022,Germany,Norwegen,1481.0
+2022,Germany,Pakistan,318.0
+2022,Germany,Paraguay,1573.0
+2022,Germany,Peru,292.0
+2022,Germany,Philippinen,542.0
+2022,Germany,Polen,4606.0
+2022,Germany,Portugal,2757.0
+2022,Germany,Ruanda,41.0
+2022,Germany,Rumänien,1516.0
+2022,Germany,Russische Föderation,2871.0
+2022,Germany,Saudi-Arabien,311.0
+2022,Germany,Schweden,3457.0
+2022,Germany,Schweiz,20107.0
+2022,Germany,Senegal,54.0
+2022,Germany,Serbien,385.0
+2022,Germany,Singapur,566.0
+2022,Germany,Slowakei,169.0
+2022,Germany,Slowenien,184.0
+2022,Germany,Somalia,46.0
+2022,Germany,Spanien,8658.0
+2022,Germany,Syrien,88.0
+2022,Germany,Südafrika,623.0
+2022,Germany,Tadschikistan,13.0
+2022,Germany,Tansania,235.0
+2022,Germany,Thailand,2057.0
+2022,Germany,Tschechien,784.0
+2022,Germany,Tunesien,317.0
+2022,Germany,Türkei,5722.0
+2022,Germany,Uganda,75.0
+2022,Germany,Ukraine,439.0
+2022,Germany,Unbekanntes Ausland,3146.0
+2022,Germany,Ungarn,2052.0
+2022,Germany,Ungeklärt / Ohne Angabe,124404.0
+2022,Germany,Uruguay,202.0
+2022,Germany,Usbekistan,40.0
+2022,Germany,"Venezuela, Bolivarische Republik",108.0
+2022,Germany,Vereinigte Arabische Emirate,1863.0
+2022,Germany,Vereinigte Staaten,9515.0
+2022,Germany,Vereinigtes Königreich,5014.0
+2022,Germany,Vietnam,335.0
+2022,Germany,Zentralafrikanische Republik,21.0
+2022,Germany,Zypern,951.0
+2022,Germany,Ägypten,622.0
+2022,Germany,Äthiopien,109.0
+2022,Germany,Österreich,12423.0
+2022,Germany,Übriges Afrika,544.0
+2022,Germany,Übriges Amerika,1059.0
+2022,Germany,Übriges Asien,1012.0
+2022,Germany,Übriges Europa,158.0
+2022,Germany,Übriges Ozeanien,46.0
+2023,Germany,Afghanistan,41.0
+2023,Germany,Albanien,82.0
+2023,Germany,Algerien,202.0
+2023,Germany,Andorra,25.0
+2023,Germany,Angola,6.0
+2023,Germany,Argentinien,333.0
+2023,Germany,Armenien,51.0
+2023,Germany,Aserbaidschan,31.0
+2023,Germany,Australien,3025.0
+2023,Germany,Belarus,115.0
+2023,Germany,Belgien,1913.0
+2023,Germany,"Bolivien, Plurinationaler Staat",253.0
+2023,Germany,Bosnien und Herzegowina,196.0
+2023,Germany,Brasilien,1140.0
+2023,Germany,Bulgarien,1041.0
+2023,Germany,Chile,351.0
+2023,Germany,China,1206.0
+2023,Germany,Costa Rica,341.0
+2023,Germany,Cote d'Ivoire,32.0
+2023,Germany,Dänemark,2996.0
+2023,Germany,Estland,106.0
+2023,Germany,Finnland,438.0
+2023,Germany,Frankreich,5826.0
+2023,Germany,Georgien,154.0
+2023,Germany,Ghana,149.0
+2023,Germany,Griechenland,1533.0
+2023,Germany,Honduras,23.0
+2023,Germany,Indien,654.0
+2023,Germany,Indonesien,589.0
+2023,Germany,Irak,803.0
+2023,Germany,"Iran, Islamische Republik",213.0
+2023,Germany,Irland,899.0
+2023,Germany,Island,148.0
+2023,Germany,Israel,475.0
+2023,Germany,Italien,3382.0
+2023,Germany,Japan,735.0
+2023,Germany,Jemen,15.0
+2023,Germany,Jordanien,238.0
+2023,Germany,Kamerun,79.0
+2023,Germany,Kanada,2137.0
+2023,Germany,Kasachstan,522.0
+2023,Germany,Kenia,265.0
+2023,Germany,Kirgisistan,74.0
+2023,Germany,Kolumbien,326.0
+2023,Germany,"Kongo, Demokratische Republik",23.0
+2023,Germany,"Korea, Demokratische Volksrepublik",26.0
+2023,Germany,"Korea, Republik",261.0
+2023,Germany,Kosovo,166.0
+2023,Germany,Kroatien,876.0
+2023,Germany,Kuwait,53.0
+2023,Germany,Lettland,132.0
+2023,Germany,Libanon,584.0
+2023,Germany,Libyen,109.0
+2023,Germany,Litauen,123.0
+2023,Germany,Luxemburg,626.0
+2023,Germany,Malta,293.0
+2023,Germany,Marokko,585.0
+2023,Germany,Mexiko,849.0
+2023,Germany,Montenegro (ab 03.06.2006),148.0
+2023,Germany,Namibia,191.0
+2023,Germany,Neuseeland,966.0
+2023,Germany,Nicaragua,40.0
+2023,Germany,Niederlande,3780.0
+2023,Germany,Niger,7.0
+2023,Germany,Nigeria,94.0
+2023,Germany,Nordmazedonien,86.0
+2023,Germany,Norwegen,1191.0
+2023,Germany,Pakistan,349.0
+2023,Germany,Paraguay,674.0
+2023,Germany,Peru,280.0
+2023,Germany,Philippinen,564.0
+2023,Germany,Polen,4080.0
+2023,Germany,Portugal,2569.0
+2023,Germany,Ruanda,23.0
+2023,Germany,Rumänien,1424.0
+2023,Germany,Russische Föderation,3153.0
+2023,Germany,Saudi-Arabien,402.0
+2023,Germany,Schweden,2545.0
+2023,Germany,Schweiz,20973.0
+2023,Germany,Senegal,83.0
+2023,Germany,Serbien,318.0
+2023,Germany,Singapur,503.0
+2023,Germany,Slowakei,198.0
+2023,Germany,Slowenien,193.0
+2023,Germany,Somalia,20.0
+2023,Germany,Spanien,8727.0
+2023,Germany,Syrien,147.0
+2023,Germany,Südafrika,654.0
+2023,Germany,Tadschikistan,22.0
+2023,Germany,Tansania,104.0
+2023,Germany,Thailand,2190.0
+2023,Germany,Tschechien,770.0
+2023,Germany,Tunesien,320.0
+2023,Germany,Türkei,5371.0
+2023,Germany,Uganda,84.0
+2023,Germany,Ukraine,330.0
+2023,Germany,Unbekanntes Ausland,2706.0
+2023,Germany,Ungarn,1703.0
+2023,Germany,Ungeklärt / Ohne Angabe,125684.0
+2023,Germany,Uruguay,136.0
+2023,Germany,Usbekistan,30.0
+2023,Germany,"Venezuela, Bolivarische Republik",79.0
+2023,Germany,Vereinigte Arabische Emirate,2285.0
+2023,Germany,Vereinigte Staaten,9182.0
+2023,Germany,Vereinigtes Königreich,4494.0
+2023,Germany,Vietnam,345.0
+2023,Germany,Zentralafrikanische Republik,10.0
+2023,Germany,Zypern,885.0
+2023,Germany,Ägypten,652.0
+2023,Germany,Äthiopien,115.0
+2023,Germany,Österreich,12504.0
+2023,Germany,Übriges Afrika,504.0
+2023,Germany,Übriges Amerika,785.0
+2023,Germany,Übriges Asien,1259.0
+2023,Germany,Übriges Europa,162.0
+2023,Germany,Übriges Ozeanien,66.0
+2024,Germany,Afghanistan,76.0
+2024,Germany,Albanien,86.0
+2024,Germany,Algerien,209.0
+2024,Germany,Andorra,21.0
+2024,Germany,Angola,22.0
+2024,Germany,Argentinien,294.0
+2024,Germany,Armenien,31.0
+2024,Germany,Aserbaidschan,35.0
+2024,Germany,Australien,2905.0
+2024,Germany,Belarus,119.0
+2024,Germany,Belgien,1874.0
+2024,Germany,"Bolivien, Plurinationaler Staat",223.0
+2024,Germany,Bosnien und Herzegowina,197.0
+2024,Germany,Brasilien,1166.0
+2024,Germany,Bulgarien,1240.0
+2024,Germany,Chile,369.0
+2024,Germany,China,1173.0
+2024,Germany,Costa Rica,238.0
+2024,Germany,Cote d'Ivoire,25.0
+2024,Germany,Dänemark,2857.0
+2024,Germany,Estland,95.0
+2024,Germany,Finnland,396.0
+2024,Germany,Frankreich,5543.0
+2024,Germany,Georgien,176.0
+2024,Germany,Ghana,142.0
+2024,Germany,Griechenland,1721.0
+2024,Germany,Honduras,17.0
+2024,Germany,Indien,667.0
+2024,Germany,Indonesien,656.0
+2024,Germany,Irak,918.0
+2024,Germany,"Iran, Islamische Republik",225.0
+2024,Germany,Irland,984.0
+2024,Germany,Island,104.0
+2024,Germany,Israel,441.0
+2024,Germany,Italien,3442.0
+2024,Germany,Japan,863.0
+2024,Germany,Jemen,34.0
+2024,Germany,Jordanien,376.0
+2024,Germany,Kamerun,106.0
+2024,Germany,Kanada,2004.0
+2024,Germany,Kasachstan,498.0
+2024,Germany,Kenia,253.0
+2024,Germany,Kirgisistan,96.0
+2024,Germany,Kolumbien,337.0
+2024,Germany,"Kongo, Demokratische Republik",26.0
+2024,Germany,"Kongo, Republik",11.0
+2024,Germany,"Korea, Demokratische Volksrepublik",21.0
+2024,Germany,"Korea, Republik",273.0
+2024,Germany,Kosovo,215.0
+2024,Germany,Kroatien,974.0
+2024,Germany,Kuwait,54.0
+2024,Germany,Lettland,147.0
+2024,Germany,Libanon,608.0
+2024,Germany,Libyen,164.0
+2024,Germany,Litauen,163.0
+2024,Germany,Luxemburg,654.0
+2024,Germany,Malta,317.0
+2024,Germany,Marokko,644.0
+2024,Germany,Mexiko,902.0
+2024,Germany,Montenegro (ab 03.06.2006),123.0
+2024,Germany,Namibia,190.0
+2024,Germany,Neuseeland,844.0
+2024,Germany,Nicaragua,36.0
+2024,Germany,Niederlande,3674.0
+2024,Germany,Niger,9.0
+2024,Germany,Nigeria,97.0
+2024,Germany,Nordmazedonien,96.0
+2024,Germany,Norwegen,1199.0
+2024,Germany,Pakistan,335.0
+2024,Germany,Paraguay,614.0
+2024,Germany,Peru,271.0
+2024,Germany,Philippinen,566.0
+2024,Germany,Polen,4300.0
+2024,Germany,Portugal,2427.0
+2024,Germany,Ruanda,22.0
+2024,Germany,Rumänien,1710.0
+2024,Germany,Russische Föderation,3210.0
+2024,Germany,Saudi-Arabien,599.0
+2024,Germany,Schweden,2478.0
+2024,Germany,Schweiz,20695.0
+2024,Germany,Senegal,54.0
+2024,Germany,Serbien,350.0
+2024,Germany,Singapur,422.0
+2024,Germany,Slowakei,167.0
+2024,Germany,Slowenien,191.0
+2024,Germany,Somalia,37.0
+2024,Germany,Spanien,8869.0
+2024,Germany,Sudan (ohne Südsudan) (ab 09.07.2011),5.0
+2024,Germany,Syrien,174.0
+2024,Germany,Südafrika,644.0
+2024,Germany,Südsudan (ab 09.07.2011),7.0
+2024,Germany,Tadschikistan,21.0
+2024,Germany,Tansania,125.0
+2024,Germany,Thailand,2314.0
+2024,Germany,Tschechien,762.0
+2024,Germany,Tunesien,400.0
+2024,Germany,Türkei,5203.0
+2024,Germany,Uganda,63.0
+2024,Germany,Ukraine,234.0
+2024,Germany,Unbekanntes Ausland,2607.0
+2024,Germany,Ungarn,1742.0
+2024,Germany,Ungeklärt / Ohne Angabe,128593.0
+2024,Germany,Uruguay,153.0
+2024,Germany,Usbekistan,30.0
+2024,Germany,"Venezuela, Bolivarische Republik",65.0
+2024,Germany,Vereinigte Arabische Emirate,2674.0
+2024,Germany,Vereinigte Staaten,9307.0
+2024,Germany,Vereinigtes Königreich,4450.0
+2024,Germany,Vietnam,376.0
+2024,Germany,Zentralafrikanische Republik,6.0
+2024,Germany,Zypern,1059.0
+2024,Germany,Ägypten,768.0
+2024,Germany,Äthiopien,108.0
+2024,Germany,Österreich,13308.0
+2024,Germany,Übriges Afrika,559.0
+2024,Germany,Übriges Amerika,792.0
+2024,Germany,Übriges Asien,1187.0
+2024,Germany,Übriges Europa,152.0
+2024,Germany,Übriges Ozeanien,86.0
+2000,Afghanistan,Germany,13.0
+2000,Albanien,Germany,45.0
+2000,Algerien,Germany,64.0
+2000,Andorra,Germany,12.0
+2000,Angola,Germany,17.0
+2000,Argentinien,Germany,489.0
+2000,Armenien,Germany,66.0
+2000,Aserbaidschan,Germany,35.0
+2000,Australien,Germany,1164.0
+2000,Belarus,Germany,218.0
+2000,Belgien,Germany,2162.0
+2000,"Bolivien, Plurinationaler Staat",Germany,181.0
+2000,Bosnien und Herzegowina,Germany,102.0
+2000,Brasilien,Germany,1278.0
+2000,Bulgarien,Germany,153.0
+2000,Chile,Germany,406.0
+2000,China,Germany,870.0
+2000,Costa Rica,Germany,156.0
+2000,Cote d'Ivoire,Germany,48.0
+2000,Dänemark,Germany,587.0
+2000,Estland,Germany,136.0
+2000,Finnland,Germany,215.0
+2000,Frankreich,Germany,5633.0
+2000,Georgien,Germany,62.0
+2000,Ghana,Germany,127.0
+2000,Griechenland,Germany,958.0
+2000,Honduras,Germany,57.0
+2000,Indien,Germany,453.0
+2000,Indonesien,Germany,282.0
+2000,Irak,Germany,48.0
+2000,"Iran, Islamische Republik",Germany,120.0
+2000,Irland,Germany,515.0
+2000,Island,Germany,50.0
+2000,Israel,Germany,384.0
+2000,Italien,Germany,2623.0
+2000,Japan,Germany,529.0
+2000,Jemen,Germany,20.0
+2000,Jordanien,Germany,131.0
+2000,Kamerun,Germany,73.0
+2000,Kanada,Germany,1264.0
+2000,Kasachstan,Germany,42657.0
+2000,Kenia,Germany,224.0
+2000,Kirgisistan,Germany,2125.0
+2000,Kolumbien,Germany,461.0
+2000,"Kongo, Demokratische Republik",Germany,8.0
+2000,"Kongo, Republik",Germany,14.0
+2000,"Korea, Demokratische Volksrepublik",Germany,30.0
+2000,"Korea, Republik",Germany,120.0
+2000,Kosovo,Germany,0.0
+2000,Kroatien,Germany,296.0
+2000,Kuwait,Germany,42.0
+2000,Lettland,Germany,239.0
+2000,Libanon,Germany,213.0
+2000,Libyen,Germany,39.0
+2000,Litauen,Germany,330.0
+2000,Luxemburg,Germany,512.0
+2000,Malta,Germany,49.0
+2000,Marokko,Germany,236.0
+2000,Mexiko,Germany,628.0
+2000,Montenegro (ab 03.06.2006),Germany,0.0
+2000,Namibia,Germany,344.0
+2000,Neuseeland,Germany,274.0
+2000,Nicaragua,Germany,53.0
+2000,Niederlande,Germany,3838.0
+2000,Niger,Germany,11.0
+2000,Nigeria,Germany,143.0
+2000,Nordmazedonien,Germany,30.0
+2000,Norwegen,Germany,338.0
+2000,Pakistan,Germany,265.0
+2000,Paraguay,Germany,403.0
+2000,Peru,Germany,244.0
+2000,Philippinen,Germany,482.0
+2000,Polen,Germany,19961.0
+2000,Portugal,Germany,874.0
+2000,Ruanda,Germany,10.0
+2000,Rumänien,Germany,1079.0
+2000,Russische Föderation,Germany,40081.0
+2000,Saudi-Arabien,Germany,204.0
+2000,Schweden,Germany,513.0
+2000,Schweiz,Germany,3731.0
+2000,Senegal,Germany,57.0
+2000,Serbien,Germany,0.0
+2000,Singapur,Germany,514.0
+2000,Slowakei,Germany,124.0
+2000,Slowenien,Germany,88.0
+2000,Somalia,Germany,2.0
+2000,Spanien,Germany,5747.0
+2000,Syrien,Germany,154.0
+2000,Südafrika,Germany,1260.0
+2000,Tadschikistan,Germany,44.0
+2000,Tansania,Germany,175.0
+2000,Thailand,Germany,711.0
+2000,Tschechien,Germany,911.0
+2000,Tunesien,Germany,271.0
+2000,Türkei,Germany,1385.0
+2000,Uganda,Germany,74.0
+2000,Ukraine,Germany,2997.0
+2000,Unbekanntes Ausland,Germany,336.0
+2000,Ungarn,Germany,823.0
+2000,Ungeklärt / Ohne Angabe,Germany,8075.0
+2000,Uruguay,Germany,89.0
+2000,Usbekistan,Germany,863.0
+2000,"Venezuela, Bolivarische Republik",Germany,328.0
+2000,Vereinigte Arabische Emirate,Germany,215.0
+2000,Vereinigte Staaten,Germany,11252.0
+2000,Vereinigtes Königreich,Germany,4657.0
+2000,Vietnam,Germany,106.0
+2000,Zentralafrikanische Republik,Germany,14.0
+2000,Zypern,Germany,156.0
+2000,Ägypten,Germany,366.0
+2000,Äthiopien,Germany,65.0
+2000,Österreich,Germany,3650.0
+2000,Übriges Afrika,Germany,753.0
+2000,Übriges Amerika,Germany,987.0
+2000,Übriges Asien,Germany,932.0
+2000,Übriges Europa,Germany,777.0
+2000,Übriges Ozeanien,Germany,104.0
+2001,Afghanistan,Germany,31.0
+2001,Albanien,Germany,29.0
+2001,Algerien,Germany,60.0
+2001,Andorra,Germany,7.0
+2001,Angola,Germany,15.0
+2001,Argentinien,Germany,618.0
+2001,Armenien,Germany,58.0
+2001,Aserbaidschan,Germany,69.0
+2001,Australien,Germany,1126.0
+2001,Belarus,Germany,205.0
+2001,Belgien,Germany,2147.0
+2001,"Bolivien, Plurinationaler Staat",Germany,182.0
+2001,Bosnien und Herzegowina,Germany,124.0
+2001,Brasilien,Germany,1368.0
+2001,Bulgarien,Germany,177.0
+2001,Chile,Germany,449.0
+2001,China,Germany,801.0
+2001,Costa Rica,Germany,129.0
+2001,Cote d'Ivoire,Germany,27.0
+2001,Dänemark,Germany,656.0
+2001,Estland,Germany,118.0
+2001,Finnland,Germany,187.0
+2001,Frankreich,Germany,5411.0
+2001,Georgien,Germany,71.0
+2001,Ghana,Germany,135.0
+2001,Griechenland,Germany,1009.0
+2001,Honduras,Germany,59.0
+2001,Indien,Germany,462.0
+2001,Indonesien,Germany,323.0
+2001,Irak,Germany,80.0
+2001,"Iran, Islamische Republik",Germany,111.0
+2001,Irland,Germany,611.0
+2001,Island,Germany,61.0
+2001,Israel,Germany,399.0
+2001,Italien,Germany,2559.0
+2001,Japan,Germany,484.0
+2001,Jemen,Germany,42.0
+2001,Jordanien,Germany,157.0
+2001,Kamerun,Germany,77.0
+2001,Kanada,Germany,1322.0
+2001,Kasachstan,Germany,41212.0
+2001,Kenia,Germany,228.0
+2001,Kirgisistan,Germany,1917.0
+2001,Kolumbien,Germany,385.0
+2001,"Kongo, Demokratische Republik",Germany,9.0
+2001,"Kongo, Republik",Germany,18.0
+2001,"Korea, Demokratische Volksrepublik",Germany,28.0
+2001,"Korea, Republik",Germany,127.0
+2001,Kosovo,Germany,0.0
+2001,Kroatien,Germany,247.0
+2001,Kuwait,Germany,23.0
+2001,Lettland,Germany,177.0
+2001,Libanon,Germany,240.0
+2001,Libyen,Germany,36.0
+2001,Litauen,Germany,256.0
+2001,Luxemburg,Germany,503.0
+2001,Malta,Germany,51.0
+2001,Marokko,Germany,191.0
+2001,Mexiko,Germany,621.0
+2001,Montenegro (ab 03.06.2006),Germany,0.0
+2001,Namibia,Germany,341.0
+2001,Neuseeland,Germany,338.0
+2001,Nicaragua,Germany,36.0
+2001,Niederlande,Germany,3762.0
+2001,Niger,Germany,24.0
+2001,Nigeria,Germany,159.0
+2001,Nordmazedonien,Germany,57.0
+2001,Norwegen,Germany,332.0
+2001,Pakistan,Germany,284.0
+2001,Paraguay,Germany,339.0
+2001,Peru,Germany,247.0
+2001,Philippinen,Germany,477.0
+2001,Polen,Germany,20872.0
+2001,Portugal,Germany,879.0
+2001,Ruanda,Germany,23.0
+2001,Rumänien,Germany,817.0
+2001,Russische Föderation,Germany,42425.0
+2001,Saudi-Arabien,Germany,182.0
+2001,Schweden,Germany,506.0
+2001,Schweiz,Germany,4093.0
+2001,Senegal,Germany,57.0
+2001,Serbien,Germany,0.0
+2001,Singapur,Germany,504.0
+2001,Slowakei,Germany,132.0
+2001,Slowenien,Germany,79.0
+2001,Somalia,Germany,17.0
+2001,Spanien,Germany,5909.0
+2001,Syrien,Germany,148.0
+2001,Südafrika,Germany,1186.0
+2001,Tadschikistan,Germany,61.0
+2001,Tansania,Germany,148.0
+2001,Thailand,Germany,698.0
+2001,Tschechien,Germany,908.0
+2001,Tunesien,Germany,244.0
+2001,Türkei,Germany,1514.0
+2001,Uganda,Germany,56.0
+2001,Ukraine,Germany,3347.0
+2001,Unbekanntes Ausland,Germany,196.0
+2001,Ungarn,Germany,766.0
+2001,Ungeklärt / Ohne Angabe,Germany,8096.0
+2001,Uruguay,Germany,114.0
+2001,Usbekistan,Germany,933.0
+2001,"Venezuela, Bolivarische Republik",Germany,287.0
+2001,Vereinigte Arabische Emirate,Germany,219.0
+2001,Vereinigte Staaten,Germany,11514.0
+2001,Vereinigtes Königreich,Germany,4594.0
+2001,Vietnam,Germany,143.0
+2001,Zentralafrikanische Republik,Germany,23.0
+2001,Zypern,Germany,131.0
+2001,Ägypten,Germany,391.0
+2001,Äthiopien,Germany,80.0
+2001,Österreich,Germany,3657.0
+2001,Übriges Afrika,Germany,700.0
+2001,Übriges Amerika,Germany,1044.0
+2001,Übriges Asien,Germany,882.0
+2001,Übriges Europa,Germany,670.0
+2001,Übriges Ozeanien,Germany,92.0
+2002,Afghanistan,Germany,20.0
+2002,Albanien,Germany,37.0
+2002,Algerien,Germany,341.0
+2002,Andorra,Germany,8.0
+2002,Angola,Germany,18.0
+2002,Argentinien,Germany,887.0
+2002,Armenien,Germany,88.0
+2002,Aserbaidschan,Germany,54.0
+2002,Australien,Germany,1205.0
+2002,Belarus,Germany,387.0
+2002,Belgien,Germany,1960.0
+2002,"Bolivien, Plurinationaler Staat",Germany,218.0
+2002,Bosnien und Herzegowina,Germany,96.0
+2002,Brasilien,Germany,1237.0
+2002,Bulgarien,Germany,190.0
+2002,Chile,Germany,416.0
+2002,China,Germany,823.0
+2002,Costa Rica,Germany,119.0
+2002,Cote d'Ivoire,Germany,42.0
+2002,Dänemark,Germany,595.0
+2002,Estland,Germany,105.0
+2002,Finnland,Germany,177.0
+2002,Frankreich,Germany,5412.0
+2002,Georgien,Germany,68.0
+2002,Ghana,Germany,122.0
+2002,Griechenland,Germany,902.0
+2002,Honduras,Germany,30.0
+2002,Indien,Germany,414.0
+2002,Indonesien,Germany,302.0
+2002,Irak,Germany,45.0
+2002,"Iran, Islamische Republik",Germany,137.0
+2002,Irland,Germany,537.0
+2002,Island,Germany,60.0
+2002,Israel,Germany,432.0
+2002,Italien,Germany,2503.0
+2002,Japan,Germany,520.0
+2002,Jemen,Germany,31.0
+2002,Jordanien,Germany,133.0
+2002,Kamerun,Germany,75.0
+2002,Kanada,Germany,1104.0
+2002,Kasachstan,Germany,33964.0
+2002,Kenia,Germany,188.0
+2002,Kirgisistan,Germany,1715.0
+2002,Kolumbien,Germany,311.0
+2002,"Kongo, Demokratische Republik",Germany,5.0
+2002,"Kongo, Republik",Germany,14.0
+2002,"Korea, Demokratische Volksrepublik",Germany,25.0
+2002,"Korea, Republik",Germany,119.0
+2002,Kosovo,Germany,0.0
+2002,Kroatien,Germany,252.0
+2002,Kuwait,Germany,22.0
+2002,Lettland,Germany,137.0
+2002,Libanon,Germany,229.0
+2002,Libyen,Germany,44.0
+2002,Litauen,Germany,305.0
+2002,Luxemburg,Germany,583.0
+2002,Malta,Germany,46.0
+2002,Marokko,Germany,228.0
+2002,Mexiko,Germany,589.0
+2002,Montenegro (ab 03.06.2006),Germany,0.0
+2002,Namibia,Germany,295.0
+2002,Neuseeland,Germany,306.0
+2002,Nicaragua,Germany,65.0
+2002,Niederlande,Germany,3772.0
+2002,Niger,Germany,20.0
+2002,Nigeria,Germany,137.0
+2002,Nordmazedonien,Germany,37.0
+2002,Norwegen,Germany,378.0
+2002,Pakistan,Germany,233.0
+2002,Paraguay,Germany,329.0
+2002,Peru,Germany,226.0
+2002,Philippinen,Germany,400.0
+2002,Polen,Germany,19502.0
+2002,Portugal,Germany,860.0
+2002,Ruanda,Germany,19.0
+2002,Rumänien,Germany,757.0
+2002,Russische Föderation,Germany,41587.0
+2002,Saudi-Arabien,Germany,186.0
+2002,Schweden,Germany,598.0
+2002,Schweiz,Germany,4271.0
+2002,Senegal,Germany,50.0
+2002,Serbien,Germany,0.0
+2002,Singapur,Germany,467.0
+2002,Slowakei,Germany,146.0
+2002,Slowenien,Germany,93.0
+2002,Somalia,Germany,1.0
+2002,Spanien,Germany,6193.0
+2002,Syrien,Germany,142.0
+2002,Südafrika,Germany,1033.0
+2002,Tadschikistan,Germany,61.0
+2002,Tansania,Germany,130.0
+2002,Thailand,Germany,761.0
+2002,Tschechien,Germany,799.0
+2002,Tunesien,Germany,245.0
+2002,Türkei,Germany,1461.0
+2002,Uganda,Germany,44.0
+2002,Ukraine,Germany,3729.0
+2002,Unbekanntes Ausland,Germany,188.0
+2002,Ungarn,Germany,680.0
+2002,Ungeklärt / Ohne Angabe,Germany,8669.0
+2002,Uruguay,Germany,118.0
+2002,Usbekistan,Germany,873.0
+2002,"Venezuela, Bolivarische Republik",Germany,277.0
+2002,Vereinigte Arabische Emirate,Germany,226.0
+2002,Vereinigte Staaten,Germany,11268.0
+2002,Vereinigtes Königreich,Germany,4464.0
+2002,Vietnam,Germany,134.0
+2002,Zentralafrikanische Republik,Germany,11.0
+2002,Zypern,Germany,96.0
+2002,Ägypten,Germany,54.0
+2002,Äthiopien,Germany,84.0
+2002,Österreich,Germany,3687.0
+2002,Übriges Afrika,Germany,684.0
+2002,Übriges Amerika,Germany,988.0
+2002,Übriges Asien,Germany,774.0
+2002,Übriges Europa,Germany,883.0
+2002,Übriges Ozeanien,Germany,85.0
+2003,Afghanistan,Germany,64.0
+2003,Albanien,Germany,33.0
+2003,Algerien,Germany,82.0
+2003,Andorra,Germany,19.0
+2003,Angola,Germany,15.0
+2003,Argentinien,Germany,465.0
+2003,Armenien,Germany,38.0
+2003,Aserbaidschan,Germany,46.0
+2003,Australien,Germany,1189.0
+2003,Belarus,Germany,295.0
+2003,Belgien,Germany,1929.0
+2003,"Bolivien, Plurinationaler Staat",Germany,217.0
+2003,Bosnien und Herzegowina,Germany,124.0
+2003,Brasilien,Germany,1287.0
+2003,Bulgarien,Germany,205.0
+2003,Chile,Germany,369.0
+2003,China,Germany,898.0
+2003,Costa Rica,Germany,105.0
+2003,Cote d'Ivoire,Germany,64.0
+2003,Dänemark,Germany,502.0
+2003,Estland,Germany,104.0
+2003,Finnland,Germany,159.0
+2003,Frankreich,Germany,5061.0
+2003,Georgien,Germany,85.0
+2003,Ghana,Germany,140.0
+2003,Griechenland,Germany,883.0
+2003,Honduras,Germany,35.0
+2003,Indien,Germany,387.0
+2003,Indonesien,Germany,251.0
+2003,Irak,Germany,64.0
+2003,"Iran, Islamische Republik",Germany,130.0
+2003,Irland,Germany,587.0
+2003,Island,Germany,49.0
+2003,Israel,Germany,365.0
+2003,Italien,Germany,2531.0
+2003,Japan,Germany,439.0
+2003,Jemen,Germany,33.0
+2003,Jordanien,Germany,138.0
+2003,Kamerun,Germany,55.0
+2003,Kanada,Germany,1155.0
+2003,Kasachstan,Germany,23557.0
+2003,Kenia,Germany,237.0
+2003,Kirgisistan,Germany,1822.0
+2003,Kolumbien,Germany,250.0
+2003,"Kongo, Demokratische Republik",Germany,5.0
+2003,"Kongo, Republik",Germany,17.0
+2003,"Korea, Demokratische Volksrepublik",Germany,38.0
+2003,"Korea, Republik",Germany,98.0
+2003,Kosovo,Germany,0.0
+2003,Kroatien,Germany,267.0
+2003,Kuwait,Germany,52.0
+2003,Lettland,Germany,98.0
+2003,Libanon,Germany,293.0
+2003,Libyen,Germany,28.0
+2003,Litauen,Germany,264.0
+2003,Luxemburg,Germany,518.0
+2003,Malta,Germany,51.0
+2003,Marokko,Germany,202.0
+2003,Mexiko,Germany,534.0
+2003,Montenegro (ab 03.06.2006),Germany,0.0
+2003,Namibia,Germany,253.0
+2003,Neuseeland,Germany,310.0
+2003,Nicaragua,Germany,39.0
+2003,Niederlande,Germany,3576.0
+2003,Niger,Germany,19.0
+2003,Nigeria,Germany,150.0
+2003,Nordmazedonien,Germany,62.0
+2003,Norwegen,Germany,367.0
+2003,Pakistan,Germany,229.0
+2003,Paraguay,Germany,376.0
+2003,Peru,Germany,260.0
+2003,Philippinen,Germany,449.0
+2003,Polen,Germany,16904.0
+2003,Portugal,Germany,768.0
+2003,Ruanda,Germany,12.0
+2003,Rumänien,Germany,600.0
+2003,Russische Föderation,Germany,36280.0
+2003,Saudi-Arabien,Germany,191.0
+2003,Schweden,Germany,534.0
+2003,Schweiz,Germany,4420.0
+2003,Senegal,Germany,49.0
+2003,Serbien,Germany,0.0
+2003,Singapur,Germany,462.0
+2003,Slowakei,Germany,118.0
+2003,Slowenien,Germany,61.0
+2003,Somalia,Germany,4.0
+2003,Spanien,Germany,6156.0
+2003,Syrien,Germany,168.0
+2003,Südafrika,Germany,819.0
+2003,Tadschikistan,Germany,57.0
+2003,Tansania,Germany,134.0
+2003,Thailand,Germany,732.0
+2003,Tschechien,Germany,702.0
+2003,Tunesien,Germany,247.0
+2003,Türkei,Germany,1492.0
+2003,Uganda,Germany,50.0
+2003,Ukraine,Germany,2877.0
+2003,Unbekanntes Ausland,Germany,0.0
+2003,Ungarn,Germany,709.0
+2003,Ungeklärt / Ohne Angabe,Germany,14151.0
+2003,Uruguay,Germany,93.0
+2003,Usbekistan,Germany,731.0
+2003,"Venezuela, Bolivarische Republik",Germany,330.0
+2003,Vereinigte Arabische Emirate,Germany,211.0
+2003,Vereinigte Staaten,Germany,10348.0
+2003,Vereinigtes Königreich,Germany,4186.0
+2003,Vietnam,Germany,112.0
+2003,Zentralafrikanische Republik,Germany,24.0
+2003,Zypern,Germany,126.0
+2003,Ägypten,Germany,298.0
+2003,Äthiopien,Germany,110.0
+2003,Österreich,Germany,3856.0
+2003,Übriges Afrika,Germany,671.0
+2003,Übriges Amerika,Germany,845.0
+2003,Übriges Asien,Germany,777.0
+2003,Übriges Europa,Germany,702.0
+2003,Übriges Ozeanien,Germany,81.0
+2004,Afghanistan,Germany,79.0
+2004,Albanien,Germany,66.0
+2004,Algerien,Germany,73.0
+2004,Andorra,Germany,13.0
+2004,Angola,Germany,10.0
+2004,Argentinien,Germany,316.0
+2004,Armenien,Germany,15.0
+2004,Aserbaidschan,Germany,59.0
+2004,Australien,Germany,1335.0
+2004,Belarus,Germany,361.0
+2004,Belgien,Germany,1893.0
+2004,"Bolivien, Plurinationaler Staat",Germany,180.0
+2004,Bosnien und Herzegowina,Germany,142.0
+2004,Brasilien,Germany,1137.0
+2004,Bulgarien,Germany,153.0
+2004,Chile,Germany,341.0
+2004,China,Germany,837.0
+2004,Costa Rica,Germany,94.0
+2004,Cote d'Ivoire,Germany,21.0
+2004,Dänemark,Germany,504.0
+2004,Estland,Germany,82.0
+2004,Finnland,Germany,182.0
+2004,Frankreich,Germany,5159.0
+2004,Georgien,Germany,88.0
+2004,Ghana,Germany,154.0
+2004,Griechenland,Germany,783.0
+2004,Honduras,Germany,47.0
+2004,Indien,Germany,378.0
+2004,Indonesien,Germany,258.0
+2004,Irak,Germany,48.0
+2004,"Iran, Islamische Republik",Germany,184.0
+2004,Irland,Germany,497.0
+2004,Island,Germany,47.0
+2004,Israel,Germany,289.0
+2004,Italien,Germany,2421.0
+2004,Japan,Germany,498.0
+2004,Jemen,Germany,26.0
+2004,Jordanien,Germany,149.0
+2004,Kamerun,Germany,67.0
+2004,Kanada,Germany,1038.0
+2004,Kasachstan,Germany,17750.0
+2004,Kenia,Germany,187.0
+2004,Kirgisistan,Germany,1430.0
+2004,Kolumbien,Germany,236.0
+2004,"Kongo, Demokratische Republik",Germany,13.0
+2004,"Kongo, Republik",Germany,11.0
+2004,"Korea, Demokratische Volksrepublik",Germany,53.0
+2004,"Korea, Republik",Germany,88.0
+2004,Kosovo,Germany,0.0
+2004,Kroatien,Germany,234.0
+2004,Kuwait,Germany,33.0
+2004,Lettland,Germany,104.0
+2004,Libanon,Germany,305.0
+2004,Libyen,Germany,34.0
+2004,Litauen,Germany,227.0
+2004,Luxemburg,Germany,571.0
+2004,Malta,Germany,36.0
+2004,Marokko,Germany,215.0
+2004,Mexiko,Germany,569.0
+2004,Montenegro (ab 03.06.2006),Germany,0.0
+2004,Namibia,Germany,203.0
+2004,Neuseeland,Germany,370.0
+2004,Nicaragua,Germany,40.0
+2004,Niederlande,Germany,3647.0
+2004,Niger,Germany,20.0
+2004,Nigeria,Germany,150.0
+2004,Nordmazedonien,Germany,33.0
+2004,Norwegen,Germany,327.0
+2004,Pakistan,Germany,241.0
+2004,Paraguay,Germany,255.0
+2004,Peru,Germany,216.0
+2004,Philippinen,Germany,377.0
+2004,Polen,Germany,14654.0
+2004,Portugal,Germany,742.0
+2004,Ruanda,Germany,18.0
+2004,Rumänien,Germany,586.0
+2004,Russische Föderation,Germany,30931.0
+2004,Saudi-Arabien,Germany,155.0
+2004,Schweden,Germany,570.0
+2004,Schweiz,Germany,4795.0
+2004,Senegal,Germany,47.0
+2004,Serbien,Germany,0.0
+2004,Singapur,Germany,320.0
+2004,Slowakei,Germany,138.0
+2004,Slowenien,Germany,90.0
+2004,Somalia,Germany,5.0
+2004,Spanien,Germany,5922.0
+2004,Syrien,Germany,150.0
+2004,Südafrika,Germany,843.0
+2004,Tadschikistan,Germany,38.0
+2004,Tansania,Germany,130.0
+2004,Thailand,Germany,720.0
+2004,Tschechien,Germany,738.0
+2004,Tunesien,Germany,225.0
+2004,Türkei,Germany,1533.0
+2004,Uganda,Germany,53.0
+2004,Ukraine,Germany,2497.0
+2004,Unbekanntes Ausland,Germany,0.0
+2004,Ungarn,Germany,621.0
+2004,Ungeklärt / Ohne Angabe,Germany,41117.0
+2004,Uruguay,Germany,56.0
+2004,Usbekistan,Germany,616.0
+2004,"Venezuela, Bolivarische Republik",Germany,184.0
+2004,Vereinigte Arabische Emirate,Germany,258.0
+2004,Vereinigte Staaten,Germany,9677.0
+2004,Vereinigtes Königreich,Germany,4049.0
+2004,Vietnam,Germany,108.0
+2004,Zentralafrikanische Republik,Germany,10.0
+2004,Zypern,Germany,113.0
+2004,Ägypten,Germany,347.0
+2004,Äthiopien,Germany,88.0
+2004,Österreich,Germany,4027.0
+2004,Übriges Afrika,Germany,572.0
+2004,Übriges Amerika,Germany,802.0
+2004,Übriges Asien,Germany,729.0
+2004,Übriges Europa,Germany,625.0
+2004,Übriges Ozeanien,Germany,95.0
+2005,Afghanistan,Germany,96.0
+2005,Albanien,Germany,29.0
+2005,Algerien,Germany,110.0
+2005,Andorra,Germany,9.0
+2005,Angola,Germany,10.0
+2005,Argentinien,Germany,324.0
+2005,Armenien,Germany,21.0
+2005,Aserbaidschan,Germany,55.0
+2005,Australien,Germany,1393.0
+2005,Belarus,Germany,274.0
+2005,Belgien,Germany,2033.0
+2005,"Bolivien, Plurinationaler Staat",Germany,180.0
+2005,Bosnien und Herzegowina,Germany,69.0
+2005,Brasilien,Germany,1269.0
+2005,Bulgarien,Germany,154.0
+2005,Chile,Germany,389.0
+2005,China,Germany,1099.0
+2005,Costa Rica,Germany,110.0
+2005,Cote d'Ivoire,Germany,26.0
+2005,Dänemark,Germany,547.0
+2005,Estland,Germany,76.0
+2005,Finnland,Germany,188.0
+2005,Frankreich,Germany,5593.0
+2005,Georgien,Germany,70.0
+2005,Ghana,Germany,124.0
+2005,Griechenland,Germany,772.0
+2005,Honduras,Germany,29.0
+2005,Indien,Germany,438.0
+2005,Indonesien,Germany,246.0
+2005,Irak,Germany,95.0
+2005,"Iran, Islamische Republik",Germany,209.0
+2005,Irland,Germany,506.0
+2005,Island,Germany,34.0
+2005,Israel,Germany,325.0
+2005,Italien,Germany,2498.0
+2005,Japan,Germany,456.0
+2005,Jemen,Germany,37.0
+2005,Jordanien,Germany,119.0
+2005,Kamerun,Germany,66.0
+2005,Kanada,Germany,1141.0
+2005,Kasachstan,Germany,10460.0
+2005,Kenia,Germany,231.0
+2005,Kirgisistan,Germany,774.0
+2005,Kolumbien,Germany,302.0
+2005,"Kongo, Demokratische Republik",Germany,18.0
+2005,"Kongo, Republik",Germany,11.0
+2005,"Korea, Demokratische Volksrepublik",Germany,33.0
+2005,"Korea, Republik",Germany,119.0
+2005,Kosovo,Germany,0.0
+2005,Kroatien,Germany,252.0
+2005,Kuwait,Germany,36.0
+2005,Lettland,Germany,83.0
+2005,Libanon,Germany,345.0
+2005,Libyen,Germany,30.0
+2005,Litauen,Germany,159.0
+2005,Luxemburg,Germany,567.0
+2005,Malta,Germany,44.0
+2005,Marokko,Germany,178.0
+2005,Mexiko,Germany,559.0
+2005,Montenegro (ab 03.06.2006),Germany,0.0
+2005,Namibia,Germany,181.0
+2005,Neuseeland,Germany,393.0
+2005,Nicaragua,Germany,53.0
+2005,Niederlande,Germany,3603.0
+2005,Niger,Germany,22.0
+2005,Nigeria,Germany,170.0
+2005,Nordmazedonien,Germany,42.0
+2005,Norwegen,Germany,381.0
+2005,Pakistan,Germany,289.0
+2005,Paraguay,Germany,274.0
+2005,Peru,Germany,228.0
+2005,Philippinen,Germany,427.0
+2005,Polen,Germany,12214.0
+2005,Portugal,Germany,725.0
+2005,Ruanda,Germany,12.0
+2005,Rumänien,Germany,514.0
+2005,Russische Föderation,Germany,20588.0
+2005,Saudi-Arabien,Germany,129.0
+2005,Schweden,Germany,623.0
+2005,Schweiz,Germany,5184.0
+2005,Senegal,Germany,61.0
+2005,Serbien,Germany,0.0
+2005,Singapur,Germany,294.0
+2005,Slowakei,Germany,137.0
+2005,Slowenien,Germany,71.0
+2005,Somalia,Germany,11.0
+2005,Spanien,Germany,5972.0
+2005,Syrien,Germany,99.0
+2005,Südafrika,Germany,862.0
+2005,Tadschikistan,Germany,67.0
+2005,Tansania,Germany,167.0
+2005,Thailand,Germany,796.0
+2005,Tschechien,Germany,658.0
+2005,Tunesien,Germany,238.0
+2005,Türkei,Germany,1592.0
+2005,Uganda,Germany,69.0
+2005,Ukraine,Germany,1512.0
+2005,Unbekanntes Ausland,Germany,0.0
+2005,Ungarn,Germany,635.0
+2005,Ungeklärt / Ohne Angabe,Germany,11144.0
+2005,Uruguay,Germany,54.0
+2005,Usbekistan,Germany,336.0
+2005,"Venezuela, Bolivarische Republik",Germany,197.0
+2005,Vereinigte Arabische Emirate,Germany,375.0
+2005,Vereinigte Staaten,Germany,8902.0
+2005,Vereinigtes Königreich,Germany,4388.0
+2005,Vietnam,Germany,111.0
+2005,Zentralafrikanische Republik,Germany,7.0
+2005,Zypern,Germany,107.0
+2005,Ägypten,Germany,403.0
+2005,Äthiopien,Germany,95.0
+2005,Österreich,Germany,4437.0
+2005,Übriges Afrika,Germany,637.0
+2005,Übriges Amerika,Germany,857.0
+2005,Übriges Asien,Germany,704.0
+2005,Übriges Europa,Germany,491.0
+2005,Übriges Ozeanien,Germany,93.0
+2006,Afghanistan,Germany,143.0
+2006,Albanien,Germany,31.0
+2006,Algerien,Germany,117.0
+2006,Andorra,Germany,8.0
+2006,Angola,Germany,19.0
+2006,Argentinien,Germany,288.0
+2006,Armenien,Germany,11.0
+2006,Aserbaidschan,Germany,26.0
+2006,Australien,Germany,1500.0
+2006,Belarus,Germany,99.0
+2006,Belgien,Germany,1799.0
+2006,"Bolivien, Plurinationaler Staat",Germany,164.0
+2006,Bosnien und Herzegowina,Germany,90.0
+2006,Brasilien,Germany,1196.0
+2006,Bulgarien,Germany,129.0
+2006,Chile,Germany,305.0
+2006,China,Germany,1342.0
+2006,Costa Rica,Germany,106.0
+2006,Cote d'Ivoire,Germany,12.0
+2006,Dänemark,Germany,482.0
+2006,Estland,Germany,44.0
+2006,Finnland,Germany,192.0
+2006,Frankreich,Germany,5462.0
+2006,Georgien,Germany,44.0
+2006,Ghana,Germany,158.0
+2006,Griechenland,Germany,768.0
+2006,Honduras,Germany,36.0
+2006,Indien,Germany,464.0
+2006,Indonesien,Germany,241.0
+2006,Irak,Germany,163.0
+2006,"Iran, Islamische Republik",Germany,234.0
+2006,Irland,Germany,632.0
+2006,Island,Germany,42.0
+2006,Israel,Germany,371.0
+2006,Italien,Germany,2480.0
+2006,Japan,Germany,508.0
+2006,Jemen,Germany,38.0
+2006,Jordanien,Germany,142.0
+2006,Kamerun,Germany,57.0
+2006,Kanada,Germany,1101.0
+2006,Kasachstan,Germany,2121.0
+2006,Kenia,Germany,226.0
+2006,Kirgisistan,Germany,225.0
+2006,Kolumbien,Germany,358.0
+2006,"Kongo, Demokratische Republik",Germany,21.0
+2006,"Kongo, Republik",Germany,10.0
+2006,"Korea, Demokratische Volksrepublik",Germany,30.0
+2006,"Korea, Republik",Germany,124.0
+2006,Kosovo,Germany,0.0
+2006,Kroatien,Germany,233.0
+2006,Kuwait,Germany,29.0
+2006,Lettland,Germany,68.0
+2006,Libanon,Germany,672.0
+2006,Libyen,Germany,33.0
+2006,Litauen,Germany,120.0
+2006,Luxemburg,Germany,609.0
+2006,Malta,Germany,56.0
+2006,Marokko,Germany,227.0
+2006,Mexiko,Germany,548.0
+2006,Montenegro (ab 03.06.2006),Germany,8.0
+2006,Namibia,Germany,184.0
+2006,Neuseeland,Germany,501.0
+2006,Nicaragua,Germany,34.0
+2006,Niederlande,Germany,3084.0
+2006,Niger,Germany,15.0
+2006,Nigeria,Germany,150.0
+2006,Nordmazedonien,Germany,46.0
+2006,Norwegen,Germany,406.0
+2006,Pakistan,Germany,280.0
+2006,Paraguay,Germany,274.0
+2006,Peru,Germany,216.0
+2006,Philippinen,Germany,390.0
+2006,Polen,Germany,11900.0
+2006,Portugal,Germany,723.0
+2006,Ruanda,Germany,28.0
+2006,Rumänien,Germany,491.0
+2006,Russische Föderation,Germany,6816.0
+2006,Saudi-Arabien,Germany,127.0
+2006,Schweden,Germany,612.0
+2006,Schweiz,Germany,5836.0
+2006,Senegal,Germany,50.0
+2006,Serbien,Germany,0.0
+2006,Singapur,Germany,320.0
+2006,Slowakei,Germany,155.0
+2006,Slowenien,Germany,71.0
+2006,Somalia,Germany,5.0
+2006,Spanien,Germany,6023.0
+2006,Syrien,Germany,146.0
+2006,Südafrika,Germany,860.0
+2006,Tadschikistan,Germany,19.0
+2006,Tansania,Germany,123.0
+2006,Thailand,Germany,849.0
+2006,Tschechien,Germany,624.0
+2006,Tunesien,Germany,255.0
+2006,Türkei,Germany,1860.0
+2006,Uganda,Germany,66.0
+2006,Ukraine,Germany,711.0
+2006,Unbekanntes Ausland,Germany,201.0
+2006,Ungarn,Germany,640.0
+2006,Ungeklärt / Ohne Angabe,Germany,9062.0
+2006,Uruguay,Germany,74.0
+2006,Usbekistan,Germany,103.0
+2006,"Venezuela, Bolivarische Republik",Germany,195.0
+2006,Vereinigte Arabische Emirate,Germany,433.0
+2006,Vereinigte Staaten,Germany,8815.0
+2006,Vereinigtes Königreich,Germany,4600.0
+2006,Vietnam,Germany,141.0
+2006,Zentralafrikanische Republik,Germany,5.0
+2006,Zypern,Germany,130.0
+2006,Ägypten,Germany,434.0
+2006,Äthiopien,Germany,94.0
+2006,Österreich,Germany,4889.0
+2006,Übriges Afrika,Germany,551.0
+2006,Übriges Amerika,Germany,791.0
+2006,Übriges Asien,Germany,711.0
+2006,Übriges Europa,Germany,428.0
+2006,Übriges Ozeanien,Germany,79.0
+2007,Afghanistan,Germany,153.0
+2007,Albanien,Germany,32.0
+2007,Algerien,Germany,129.0
+2007,Andorra,Germany,21.0
+2007,Angola,Germany,29.0
+2007,Argentinien,Germany,303.0
+2007,Armenien,Germany,19.0
+2007,Aserbaidschan,Germany,30.0
+2007,Australien,Germany,1732.0
+2007,Belarus,Germany,110.0
+2007,Belgien,Germany,1868.0
+2007,"Bolivien, Plurinationaler Staat",Germany,210.0
+2007,Bosnien und Herzegowina,Germany,124.0
+2007,Brasilien,Germany,1290.0
+2007,Bulgarien,Germany,198.0
+2007,Chile,Germany,390.0
+2007,China,Germany,1488.0
+2007,Costa Rica,Germany,111.0
+2007,Cote d'Ivoire,Germany,17.0
+2007,Dänemark,Germany,589.0
+2007,Estland,Germany,51.0
+2007,Finnland,Germany,190.0
+2007,Frankreich,Germany,5851.0
+2007,Georgien,Germany,44.0
+2007,Ghana,Germany,141.0
+2007,Griechenland,Germany,876.0
+2007,Honduras,Germany,36.0
+2007,Indien,Germany,488.0
+2007,Indonesien,Germany,297.0
+2007,Irak,Germany,231.0
+2007,"Iran, Islamische Republik",Germany,258.0
+2007,Irland,Germany,773.0
+2007,Island,Germany,55.0
+2007,Israel,Germany,325.0
+2007,Italien,Germany,2587.0
+2007,Japan,Germany,544.0
+2007,Jemen,Germany,32.0
+2007,Jordanien,Germany,198.0
+2007,Kamerun,Germany,79.0
+2007,Kanada,Germany,1544.0
+2007,Kasachstan,Germany,1867.0
+2007,Kenia,Germany,253.0
+2007,Kirgisistan,Germany,234.0
+2007,Kolumbien,Germany,319.0
+2007,"Kongo, Demokratische Republik",Germany,30.0
+2007,"Kongo, Republik",Germany,17.0
+2007,"Korea, Demokratische Volksrepublik",Germany,33.0
+2007,"Korea, Republik",Germany,149.0
+2007,Kosovo,Germany,0.0
+2007,Kroatien,Germany,266.0
+2007,Kuwait,Germany,57.0
+2007,Lettland,Germany,71.0
+2007,Libanon,Germany,367.0
+2007,Libyen,Germany,32.0
+2007,Litauen,Germany,123.0
+2007,Luxemburg,Germany,703.0
+2007,Malta,Germany,67.0
+2007,Marokko,Germany,239.0
+2007,Mexiko,Germany,557.0
+2007,Montenegro (ab 03.06.2006),Germany,14.0
+2007,Namibia,Germany,233.0
+2007,Neuseeland,Germany,508.0
+2007,Nicaragua,Germany,40.0
+2007,Niederlande,Germany,3012.0
+2007,Niger,Germany,8.0
+2007,Nigeria,Germany,150.0
+2007,Nordmazedonien,Germany,36.0
+2007,Norwegen,Germany,526.0
+2007,Pakistan,Germany,344.0
+2007,Paraguay,Germany,299.0
+2007,Peru,Germany,244.0
+2007,Philippinen,Germany,406.0
+2007,Polen,Germany,13622.0
+2007,Portugal,Germany,753.0
+2007,Ruanda,Germany,28.0
+2007,Rumänien,Germany,557.0
+2007,Russische Föderation,Germany,5527.0
+2007,Saudi-Arabien,Germany,135.0
+2007,Schweden,Germany,718.0
+2007,Schweiz,Germany,6860.0
+2007,Senegal,Germany,46.0
+2007,Serbien,Germany,0.0
+2007,Singapur,Germany,411.0
+2007,Slowakei,Germany,149.0
+2007,Slowenien,Germany,75.0
+2007,Somalia,Germany,3.0
+2007,Spanien,Germany,6944.0
+2007,Syrien,Germany,241.0
+2007,Südafrika,Germany,948.0
+2007,Tadschikistan,Germany,50.0
+2007,Tansania,Germany,150.0
+2007,Thailand,Germany,972.0
+2007,Tschechien,Germany,677.0
+2007,Tunesien,Germany,261.0
+2007,Türkei,Germany,2232.0
+2007,Uganda,Germany,85.0
+2007,Ukraine,Germany,603.0
+2007,Unbekanntes Ausland,Germany,225.0
+2007,Ungarn,Germany,717.0
+2007,Ungeklärt / Ohne Angabe,Germany,4209.0
+2007,Uruguay,Germany,62.0
+2007,Usbekistan,Germany,119.0
+2007,"Venezuela, Bolivarische Republik",Germany,215.0
+2007,Vereinigte Arabische Emirate,Germany,610.0
+2007,Vereinigte Staaten,Germany,9444.0
+2007,Vereinigtes Königreich,Germany,5000.0
+2007,Vietnam,Germany,139.0
+2007,Zentralafrikanische Republik,Germany,6.0
+2007,Zypern,Germany,161.0
+2007,Ägypten,Germany,462.0
+2007,Äthiopien,Germany,121.0
+2007,Österreich,Germany,5147.0
+2007,Übriges Afrika,Germany,594.0
+2007,Übriges Amerika,Germany,839.0
+2007,Übriges Asien,Germany,777.0
+2007,Übriges Europa,Germany,402.0
+2007,Übriges Ozeanien,Germany,71.0
+2008,Afghanistan,Germany,178.0
+2008,Albanien,Germany,39.0
+2008,Algerien,Germany,149.0
+2008,Andorra,Germany,14.0
+2008,Angola,Germany,27.0
+2008,Argentinien,Germany,367.0
+2008,Armenien,Germany,24.0
+2008,Aserbaidschan,Germany,28.0
+2008,Australien,Germany,2148.0
+2008,Belarus,Germany,89.0
+2008,Belgien,Germany,1995.0
+2008,"Bolivien, Plurinationaler Staat",Germany,194.0
+2008,Bosnien und Herzegowina,Germany,90.0
+2008,Brasilien,Germany,1255.0
+2008,Bulgarien,Germany,207.0
+2008,Chile,Germany,406.0
+2008,China,Germany,2072.0
+2008,Costa Rica,Germany,134.0
+2008,Cote d'Ivoire,Germany,17.0
+2008,Dänemark,Germany,754.0
+2008,Estland,Germany,46.0
+2008,Finnland,Germany,217.0
+2008,Frankreich,Germany,5844.0
+2008,Georgien,Germany,51.0
+2008,Ghana,Germany,151.0
+2008,Griechenland,Germany,860.0
+2008,Honduras,Germany,65.0
+2008,Indien,Germany,611.0
+2008,Indonesien,Germany,284.0
+2008,Irak,Germany,232.0
+2008,"Iran, Islamische Republik",Germany,288.0
+2008,Irland,Germany,954.0
+2008,Island,Germany,67.0
+2008,Israel,Germany,371.0
+2008,Italien,Germany,2640.0
+2008,Japan,Germany,568.0
+2008,Jemen,Germany,52.0
+2008,Jordanien,Germany,221.0
+2008,Kamerun,Germany,73.0
+2008,Kanada,Germany,1660.0
+2008,Kasachstan,Germany,1440.0
+2008,Kenia,Germany,268.0
+2008,Kirgisistan,Germany,164.0
+2008,Kolumbien,Germany,351.0
+2008,"Kongo, Demokratische Republik",Germany,32.0
+2008,"Kongo, Republik",Germany,7.0
+2008,"Korea, Demokratische Volksrepublik",Germany,42.0
+2008,"Korea, Republik",Germany,145.0
+2008,Kosovo,Germany,47.0
+2008,Kroatien,Germany,267.0
+2008,Kuwait,Germany,64.0
+2008,Lettland,Germany,66.0
+2008,Libanon,Germany,348.0
+2008,Libyen,Germany,41.0
+2008,Litauen,Germany,128.0
+2008,Luxemburg,Germany,701.0
+2008,Malta,Germany,53.0
+2008,Marokko,Germany,282.0
+2008,Mexiko,Germany,669.0
+2008,Montenegro (ab 03.06.2006),Germany,21.0
+2008,Namibia,Germany,249.0
+2008,Neuseeland,Germany,665.0
+2008,Nicaragua,Germany,61.0
+2008,Niederlande,Germany,2950.0
+2008,Niger,Germany,12.0
+2008,Nigeria,Germany,157.0
+2008,Nordmazedonien,Germany,53.0
+2008,Norwegen,Germany,707.0
+2008,Pakistan,Germany,435.0
+2008,Paraguay,Germany,344.0
+2008,Peru,Germany,224.0
+2008,Philippinen,Germany,445.0
+2008,Polen,Germany,12131.0
+2008,Portugal,Germany,734.0
+2008,Ruanda,Germany,34.0
+2008,Rumänien,Germany,628.0
+2008,Russische Föderation,Germany,4295.0
+2008,Saudi-Arabien,Germany,119.0
+2008,Schweden,Germany,727.0
+2008,Schweiz,Germany,8216.0
+2008,Senegal,Germany,65.0
+2008,Serbien,Germany,184.0
+2008,Singapur,Germany,437.0
+2008,Slowakei,Germany,190.0
+2008,Slowenien,Germany,72.0
+2008,Somalia,Germany,1.0
+2008,Spanien,Germany,7891.0
+2008,Syrien,Germany,258.0
+2008,Südafrika,Germany,1069.0
+2008,Tadschikistan,Germany,28.0
+2008,Tansania,Germany,147.0
+2008,Thailand,Germany,976.0
+2008,Tschechien,Germany,668.0
+2008,Tunesien,Germany,263.0
+2008,Türkei,Germany,2569.0
+2008,Uganda,Germany,84.0
+2008,Ukraine,Germany,604.0
+2008,Unbekanntes Ausland,Germany,288.0
+2008,Ungarn,Germany,772.0
+2008,Ungeklärt / Ohne Angabe,Germany,693.0
+2008,Uruguay,Germany,65.0
+2008,Usbekistan,Germany,157.0
+2008,"Venezuela, Bolivarische Republik",Germany,209.0
+2008,Vereinigte Arabische Emirate,Germany,774.0
+2008,Vereinigte Staaten,Germany,10524.0
+2008,Vereinigtes Königreich,Germany,5824.0
+2008,Vietnam,Germany,176.0
+2008,Zentralafrikanische Republik,Germany,11.0
+2008,Zypern,Germany,124.0
+2008,Ägypten,Germany,488.0
+2008,Äthiopien,Germany,144.0
+2008,Österreich,Germany,6202.0
+2008,Übriges Afrika,Germany,633.0
+2008,Übriges Amerika,Germany,787.0
+2008,Übriges Asien,Germany,903.0
+2008,Übriges Europa,Germany,203.0
+2008,Übriges Ozeanien,Germany,84.0
+2009,Afghanistan,Germany,157.0
+2009,Albanien,Germany,33.0
+2009,Algerien,Germany,185.0
+2009,Andorra,Germany,13.0
+2009,Angola,Germany,23.0
+2009,Argentinien,Germany,414.0
+2009,Armenien,Germany,49.0
+2009,Aserbaidschan,Germany,29.0
+2009,Australien,Germany,2439.0
+2009,Belarus,Germany,58.0
+2009,Belgien,Germany,1981.0
+2009,"Bolivien, Plurinationaler Staat",Germany,194.0
+2009,Bosnien und Herzegowina,Germany,122.0
+2009,Brasilien,Germany,1267.0
+2009,Bulgarien,Germany,283.0
+2009,Chile,Germany,426.0
+2009,China,Germany,2178.0
+2009,Costa Rica,Germany,168.0
+2009,Cote d'Ivoire,Germany,21.0
+2009,Dänemark,Germany,929.0
+2009,Estland,Germany,59.0
+2009,Finnland,Germany,301.0
+2009,Frankreich,Germany,6245.0
+2009,Georgien,Germany,64.0
+2009,Ghana,Germany,205.0
+2009,Griechenland,Germany,993.0
+2009,Honduras,Germany,61.0
+2009,Indien,Germany,752.0
+2009,Indonesien,Germany,314.0
+2009,Irak,Germany,212.0
+2009,"Iran, Islamische Republik",Germany,321.0
+2009,Irland,Germany,988.0
+2009,Island,Germany,74.0
+2009,Israel,Germany,431.0
+2009,Italien,Germany,2816.0
+2009,Japan,Germany,532.0
+2009,Jemen,Germany,56.0
+2009,Jordanien,Germany,228.0
+2009,Kamerun,Germany,56.0
+2009,Kanada,Germany,2058.0
+2009,Kasachstan,Germany,1309.0
+2009,Kenia,Germany,238.0
+2009,Kirgisistan,Germany,169.0
+2009,Kolumbien,Germany,339.0
+2009,"Kongo, Demokratische Republik",Germany,39.0
+2009,"Kongo, Republik",Germany,16.0
+2009,"Korea, Demokratische Volksrepublik",Germany,34.0
+2009,"Korea, Republik",Germany,136.0
+2009,Kosovo,Germany,119.0
+2009,Kroatien,Germany,361.0
+2009,Kuwait,Germany,52.0
+2009,Lettland,Germany,83.0
+2009,Libanon,Germany,503.0
+2009,Libyen,Germany,63.0
+2009,Litauen,Germany,138.0
+2009,Luxemburg,Germany,590.0
+2009,Malta,Germany,61.0
+2009,Marokko,Germany,309.0
+2009,Mexiko,Germany,760.0
+2009,Montenegro (ab 03.06.2006),Germany,22.0
+2009,Namibia,Germany,223.0
+2009,Neuseeland,Germany,860.0
+2009,Nicaragua,Germany,35.0
+2009,Niederlande,Germany,2966.0
+2009,Niger,Germany,15.0
+2009,Nigeria,Germany,157.0
+2009,Nordmazedonien,Germany,49.0
+2009,Norwegen,Germany,828.0
+2009,Pakistan,Germany,358.0
+2009,Paraguay,Germany,336.0
+2009,Peru,Germany,246.0
+2009,Philippinen,Germany,478.0
+2009,Polen,Germany,11846.0
+2009,Portugal,Germany,753.0
+2009,Ruanda,Germany,29.0
+2009,Rumänien,Germany,686.0
+2009,Russische Föderation,Germany,3735.0
+2009,Saudi-Arabien,Germany,150.0
+2009,Schweden,Germany,1040.0
+2009,Schweiz,Germany,9340.0
+2009,Senegal,Germany,69.0
+2009,Serbien,Germany,198.0
+2009,Singapur,Germany,583.0
+2009,Slowakei,Germany,162.0
+2009,Slowenien,Germany,83.0
+2009,Somalia,Germany,5.0
+2009,Spanien,Germany,8248.0
+2009,Syrien,Germany,252.0
+2009,Südafrika,Germany,1024.0
+2009,Tadschikistan,Germany,37.0
+2009,Tansania,Germany,133.0
+2009,Thailand,Germany,1123.0
+2009,Tschechien,Germany,780.0
+2009,Tunesien,Germany,301.0
+2009,Türkei,Germany,2906.0
+2009,Uganda,Germany,95.0
+2009,Ukraine,Germany,725.0
+2009,Unbekanntes Ausland,Germany,233.0
+2009,Ungarn,Germany,774.0
+2009,Ungeklärt / Ohne Angabe,Germany,554.0
+2009,Uruguay,Germany,81.0
+2009,Usbekistan,Germany,80.0
+2009,"Venezuela, Bolivarische Republik",Germany,266.0
+2009,Vereinigte Arabische Emirate,Germany,1040.0
+2009,Vereinigte Staaten,Germany,11166.0
+2009,Vereinigtes Königreich,Germany,6153.0
+2009,Vietnam,Germany,178.0
+2009,Zentralafrikanische Republik,Germany,10.0
+2009,Zypern,Germany,157.0
+2009,Ägypten,Germany,618.0
+2009,Äthiopien,Germany,219.0
+2009,Österreich,Germany,6569.0
+2009,Übriges Afrika,Germany,662.0
+2009,Übriges Amerika,Germany,901.0
+2009,Übriges Asien,Germany,880.0
+2009,Übriges Europa,Germany,150.0
+2009,Übriges Ozeanien,Germany,79.0
+2010,Afghanistan,Germany,197.0
+2010,Albanien,Germany,35.0
+2010,Algerien,Germany,125.0
+2010,Andorra,Germany,7.0
+2010,Angola,Germany,20.0
+2010,Argentinien,Germany,435.0
+2010,Armenien,Germany,40.0
+2010,Aserbaidschan,Germany,30.0
+2010,Australien,Germany,2480.0
+2010,Belarus,Germany,88.0
+2010,Belgien,Germany,1937.0
+2010,"Bolivien, Plurinationaler Staat",Germany,205.0
+2010,Bosnien und Herzegowina,Germany,130.0
+2010,Brasilien,Germany,1405.0
+2010,Bulgarien,Germany,272.0
+2010,Chile,Germany,450.0
+2010,China,Germany,2073.0
+2010,Costa Rica,Germany,138.0
+2010,Cote d'Ivoire,Germany,34.0
+2010,Dänemark,Germany,960.0
+2010,Estland,Germany,63.0
+2010,Finnland,Germany,273.0
+2010,Frankreich,Germany,6124.0
+2010,Georgien,Germany,32.0
+2010,Ghana,Germany,196.0
+2010,Griechenland,Germany,1194.0
+2010,Honduras,Germany,51.0
+2010,Indien,Germany,724.0
+2010,Indonesien,Germany,352.0
+2010,Irak,Germany,312.0
+2010,"Iran, Islamische Republik",Germany,324.0
+2010,Irland,Germany,833.0
+2010,Island,Germany,60.0
+2010,Israel,Germany,430.0
+2010,Italien,Germany,2668.0
+2010,Japan,Germany,581.0
+2010,Jemen,Germany,47.0
+2010,Jordanien,Germany,257.0
+2010,Kamerun,Germany,84.0
+2010,Kanada,Germany,2124.0
+2010,Kasachstan,Germany,991.0
+2010,Kenia,Germany,269.0
+2010,Kirgisistan,Germany,145.0
+2010,Kolumbien,Germany,407.0
+2010,"Kongo, Demokratische Republik",Germany,19.0
+2010,"Kongo, Republik",Germany,11.0
+2010,"Korea, Demokratische Volksrepublik",Germany,19.0
+2010,"Korea, Republik",Germany,142.0
+2010,Kosovo,Germany,109.0
+2010,Kroatien,Germany,330.0
+2010,Kuwait,Germany,40.0
+2010,Lettland,Germany,94.0
+2010,Libanon,Germany,570.0
+2010,Libyen,Germany,72.0
+2010,Litauen,Germany,136.0
+2010,Luxemburg,Germany,575.0
+2010,Malta,Germany,79.0
+2010,Marokko,Germany,267.0
+2010,Mexiko,Germany,741.0
+2010,Montenegro (ab 03.06.2006),Germany,20.0
+2010,Namibia,Germany,293.0
+2010,Neuseeland,Germany,858.0
+2010,Nicaragua,Germany,56.0
+2010,Niederlande,Germany,3042.0
+2010,Niger,Germany,19.0
+2010,Nigeria,Germany,192.0
+2010,Nordmazedonien,Germany,63.0
+2010,Norwegen,Germany,858.0
+2010,Pakistan,Germany,413.0
+2010,Paraguay,Germany,427.0
+2010,Peru,Germany,242.0
+2010,Philippinen,Germany,553.0
+2010,Polen,Germany,11135.0
+2010,Portugal,Germany,839.0
+2010,Ruanda,Germany,40.0
+2010,Rumänien,Germany,733.0
+2010,Russische Föderation,Germany,3351.0
+2010,Saudi-Arabien,Germany,175.0
+2010,Schweden,Germany,1048.0
+2010,Schweiz,Germany,9997.0
+2010,Senegal,Germany,69.0
+2010,Serbien,Germany,223.0
+2010,Singapur,Germany,506.0
+2010,Slowakei,Germany,179.0
+2010,Slowenien,Germany,101.0
+2010,Somalia,Germany,4.0
+2010,Spanien,Germany,7936.0
+2010,Syrien,Germany,266.0
+2010,Südafrika,Germany,1181.0
+2010,Tadschikistan,Germany,36.0
+2010,Tansania,Germany,172.0
+2010,Thailand,Germany,1219.0
+2010,Tschechien,Germany,661.0
+2010,Tunesien,Germany,346.0
+2010,Türkei,Germany,3220.0
+2010,Uganda,Germany,97.0
+2010,Ukraine,Germany,546.0
+2010,Unbekanntes Ausland,Germany,564.0
+2010,Ungarn,Germany,795.0
+2010,Ungeklärt / Ohne Angabe,Germany,489.0
+2010,Uruguay,Germany,76.0
+2010,Usbekistan,Germany,58.0
+2010,"Venezuela, Bolivarische Republik",Germany,273.0
+2010,Vereinigte Arabische Emirate,Germany,1119.0
+2010,Vereinigte Staaten,Germany,10408.0
+2010,Vereinigtes Königreich,Germany,6426.0
+2010,Vietnam,Germany,197.0
+2010,Zentralafrikanische Republik,Germany,6.0
+2010,Zypern,Germany,148.0
+2010,Ägypten,Germany,620.0
+2010,Äthiopien,Germany,194.0
+2010,Österreich,Germany,6537.0
+2010,Übriges Afrika,Germany,819.0
+2010,Übriges Amerika,Germany,899.0
+2010,Übriges Asien,Germany,936.0
+2010,Übriges Europa,Germany,177.0
+2010,Übriges Ozeanien,Germany,89.0
+2011,Afghanistan,Germany,210.0
+2011,Albanien,Germany,54.0
+2011,Algerien,Germany,175.0
+2011,Andorra,Germany,16.0
+2011,Angola,Germany,28.0
+2011,Argentinien,Germany,456.0
+2011,Armenien,Germany,30.0
+2011,Aserbaidschan,Germany,42.0
+2011,Australien,Germany,2462.0
+2011,Belarus,Germany,82.0
+2011,Belgien,Germany,1973.0
+2011,"Bolivien, Plurinationaler Staat",Germany,218.0
+2011,Bosnien und Herzegowina,Germany,115.0
+2011,Brasilien,Germany,1435.0
+2011,Bulgarien,Germany,293.0
+2011,Chile,Germany,432.0
+2011,China,Germany,2276.0
+2011,Costa Rica,Germany,178.0
+2011,Cote d'Ivoire,Germany,30.0
+2011,Dänemark,Germany,894.0
+2011,Estland,Germany,74.0
+2011,Finnland,Germany,263.0
+2011,Frankreich,Germany,6128.0
+2011,Georgien,Germany,67.0
+2011,Ghana,Germany,239.0
+2011,Griechenland,Germany,1485.0
+2011,Honduras,Germany,60.0
+2011,Indien,Germany,789.0
+2011,Indonesien,Germany,361.0
+2011,Irak,Germany,535.0
+2011,"Iran, Islamische Republik",Germany,335.0
+2011,Irland,Germany,830.0
+2011,Island,Germany,64.0
+2011,Israel,Germany,511.0
+2011,Italien,Germany,2716.0
+2011,Japan,Germany,995.0
+2011,Jemen,Germany,93.0
+2011,Jordanien,Germany,257.0
+2011,Kamerun,Germany,80.0
+2011,Kanada,Germany,2090.0
+2011,Kasachstan,Germany,1014.0
+2011,Kenia,Germany,300.0
+2011,Kirgisistan,Germany,118.0
+2011,Kolumbien,Germany,401.0
+2011,"Kongo, Demokratische Republik",Germany,52.0
+2011,"Kongo, Republik",Germany,16.0
+2011,"Korea, Demokratische Volksrepublik",Germany,22.0
+2011,"Korea, Republik",Germany,167.0
+2011,Kosovo,Germany,128.0
+2011,Kroatien,Germany,290.0
+2011,Kuwait,Germany,71.0
+2011,Lettland,Germany,102.0
+2011,Libanon,Germany,664.0
+2011,Libyen,Germany,150.0
+2011,Litauen,Germany,158.0
+2011,Luxemburg,Germany,627.0
+2011,Malta,Germany,79.0
+2011,Marokko,Germany,350.0
+2011,Mexiko,Germany,766.0
+2011,Montenegro (ab 03.06.2006),Germany,29.0
+2011,Namibia,Germany,299.0
+2011,Neuseeland,Germany,824.0
+2011,Nicaragua,Germany,54.0
+2011,Niederlande,Germany,3027.0
+2011,Niger,Germany,14.0
+2011,Nigeria,Germany,173.0
+2011,Nordmazedonien,Germany,87.0
+2011,Norwegen,Germany,825.0
+2011,Pakistan,Germany,404.0
+2011,Paraguay,Germany,393.0
+2011,Peru,Germany,352.0
+2011,Philippinen,Germany,519.0
+2011,Polen,Germany,9262.0
+2011,Portugal,Germany,825.0
+2011,Ruanda,Germany,38.0
+2011,Rumänien,Germany,773.0
+2011,Russische Föderation,Germany,3114.0
+2011,Saudi-Arabien,Germany,238.0
+2011,Schweden,Germany,983.0
+2011,Schweiz,Germany,10869.0
+2011,Senegal,Germany,72.0
+2011,Serbien,Germany,233.0
+2011,Singapur,Germany,547.0
+2011,Slowakei,Germany,147.0
+2011,Slowenien,Germany,95.0
+2011,Somalia,Germany,8.0
+2011,Spanien,Germany,7468.0
+2011,Syrien,Germany,457.0
+2011,Südafrika,Germany,1160.0
+2011,Tadschikistan,Germany,45.0
+2011,Tansania,Germany,142.0
+2011,Thailand,Germany,1284.0
+2011,Tschechien,Germany,697.0
+2011,Tunesien,Germany,370.0
+2011,Türkei,Germany,3166.0
+2011,Uganda,Germany,138.0
+2011,Ukraine,Germany,529.0
+2011,Unbekanntes Ausland,Germany,0.0
+2011,Ungarn,Germany,846.0
+2011,Ungeklärt / Ohne Angabe,Germany,1154.0
+2011,Uruguay,Germany,78.0
+2011,Usbekistan,Germany,37.0
+2011,"Venezuela, Bolivarische Republik",Germany,249.0
+2011,Vereinigte Arabische Emirate,Germany,1151.0
+2011,Vereinigte Staaten,Germany,10777.0
+2011,Vereinigtes Königreich,Germany,6487.0
+2011,Vietnam,Germany,237.0
+2011,Zentralafrikanische Republik,Germany,8.0
+2011,Zypern,Germany,193.0
+2011,Ägypten,Germany,777.0
+2011,Äthiopien,Germany,198.0
+2011,Österreich,Germany,6879.0
+2011,Übriges Afrika,Germany,736.0
+2011,Übriges Amerika,Germany,1036.0
+2011,Übriges Asien,Germany,1060.0
+2011,Übriges Europa,Germany,110.0
+2011,Übriges Ozeanien,Germany,85.0
+2012,Afghanistan,Germany,244.0
+2012,Albanien,Germany,55.0
+2012,Algerien,Germany,189.0
+2012,Andorra,Germany,12.0
+2012,Angola,Germany,20.0
+2012,Argentinien,Germany,445.0
+2012,Armenien,Germany,18.0
+2012,Aserbaidschan,Germany,35.0
+2012,Australien,Germany,2444.0
+2012,Belarus,Germany,84.0
+2012,Belgien,Germany,1969.0
+2012,"Bolivien, Plurinationaler Staat",Germany,216.0
+2012,Bosnien und Herzegowina,Germany,133.0
+2012,Brasilien,Germany,1520.0
+2012,Bulgarien,Germany,358.0
+2012,Chile,Germany,392.0
+2012,China,Germany,2528.0
+2012,Costa Rica,Germany,181.0
+2012,Cote d'Ivoire,Germany,14.0
+2012,Dänemark,Germany,853.0
+2012,Estland,Germany,64.0
+2012,Finnland,Germany,259.0
+2012,Frankreich,Germany,5725.0
+2012,Georgien,Germany,71.0
+2012,Ghana,Germany,237.0
+2012,Griechenland,Germany,1702.0
+2012,Honduras,Germany,45.0
+2012,Indien,Germany,822.0
+2012,Indonesien,Germany,332.0
+2012,Irak,Germany,638.0
+2012,"Iran, Islamische Republik",Germany,381.0
+2012,Irland,Germany,857.0
+2012,Island,Germany,49.0
+2012,Israel,Germany,543.0
+2012,Italien,Germany,2927.0
+2012,Japan,Germany,494.0
+2012,Jemen,Germany,14.0
+2012,Jordanien,Germany,241.0
+2012,Kamerun,Germany,91.0
+2012,Kanada,Germany,1980.0
+2012,Kasachstan,Germany,887.0
+2012,Kenia,Germany,273.0
+2012,Kirgisistan,Germany,129.0
+2012,Kolumbien,Germany,397.0
+2012,"Kongo, Demokratische Republik",Germany,38.0
+2012,"Kongo, Republik",Germany,28.0
+2012,"Korea, Demokratische Volksrepublik",Germany,35.0
+2012,"Korea, Republik",Germany,163.0
+2012,Kosovo,Germany,148.0
+2012,Kroatien,Germany,336.0
+2012,Kuwait,Germany,73.0
+2012,Lettland,Germany,99.0
+2012,Libanon,Germany,752.0
+2012,Libyen,Germany,47.0
+2012,Litauen,Germany,119.0
+2012,Luxemburg,Germany,706.0
+2012,Malta,Germany,92.0
+2012,Marokko,Germany,344.0
+2012,Mexiko,Germany,741.0
+2012,Montenegro (ab 03.06.2006),Germany,36.0
+2012,Namibia,Germany,284.0
+2012,Neuseeland,Germany,755.0
+2012,Nicaragua,Germany,61.0
+2012,Niederlande,Germany,3094.0
+2012,Niger,Germany,16.0
+2012,Nigeria,Germany,189.0
+2012,Nordmazedonien,Germany,72.0
+2012,Norwegen,Germany,849.0
+2012,Pakistan,Germany,409.0
+2012,Paraguay,Germany,396.0
+2012,Peru,Germany,300.0
+2012,Philippinen,Germany,533.0
+2012,Polen,Germany,7958.0
+2012,Portugal,Germany,847.0
+2012,Ruanda,Germany,52.0
+2012,Rumänien,Germany,810.0
+2012,Russische Föderation,Germany,2974.0
+2012,Saudi-Arabien,Germany,234.0
+2012,Schweden,Germany,977.0
+2012,Schweiz,Germany,11140.0
+2012,Senegal,Germany,87.0
+2012,Serbien,Germany,260.0
+2012,Singapur,Germany,678.0
+2012,Slowakei,Germany,152.0
+2012,Slowenien,Germany,90.0
+2012,Somalia,Germany,9.0
+2012,Spanien,Germany,7773.0
+2012,Syrien,Germany,828.0
+2012,Südafrika,Germany,987.0
+2012,Tadschikistan,Germany,28.0
+2012,Tansania,Germany,156.0
+2012,Thailand,Germany,1257.0
+2012,Tschechien,Germany,666.0
+2012,Tunesien,Germany,429.0
+2012,Türkei,Germany,3227.0
+2012,Uganda,Germany,90.0
+2012,Ukraine,Germany,545.0
+2012,Unbekanntes Ausland,Germany,0.0
+2012,Ungarn,Germany,935.0
+2012,Ungeklärt / Ohne Angabe,Germany,1040.0
+2012,Uruguay,Germany,100.0
+2012,Usbekistan,Germany,38.0
+2012,"Venezuela, Bolivarische Republik",Germany,217.0
+2012,Vereinigte Arabische Emirate,Germany,1119.0
+2012,Vereinigte Staaten,Germany,10116.0
+2012,Vereinigtes Königreich,Germany,6432.0
+2012,Vietnam,Germany,252.0
+2012,Zentralafrikanische Republik,Germany,10.0
+2012,Zypern,Germany,180.0
+2012,Ägypten,Germany,688.0
+2012,Äthiopien,Germany,150.0
+2012,Österreich,Germany,6915.0
+2012,Übriges Afrika,Germany,815.0
+2012,Übriges Amerika,Germany,942.0
+2012,Übriges Asien,Germany,1066.0
+2012,Übriges Europa,Germany,111.0
+2012,Übriges Ozeanien,Germany,65.0
+2013,Afghanistan,Germany,235.0
+2013,Albanien,Germany,54.0
+2013,Algerien,Germany,150.0
+2013,Andorra,Germany,12.0
+2013,Angola,Germany,28.0
+2013,Argentinien,Germany,444.0
+2013,Armenien,Germany,37.0
+2013,Aserbaidschan,Germany,24.0
+2013,Australien,Germany,2562.0
+2013,Belarus,Germany,135.0
+2013,Belgien,Germany,2041.0
+2013,"Bolivien, Plurinationaler Staat",Germany,229.0
+2013,Bosnien und Herzegowina,Germany,146.0
+2013,Brasilien,Germany,1532.0
+2013,Bulgarien,Germany,373.0
+2013,Chile,Germany,448.0
+2013,China,Germany,2662.0
+2013,Costa Rica,Germany,175.0
+2013,Cote d'Ivoire,Germany,20.0
+2013,Dänemark,Germany,912.0
+2013,Estland,Germany,63.0
+2013,Finnland,Germany,257.0
+2013,Frankreich,Germany,6051.0
+2013,Georgien,Germany,62.0
+2013,Ghana,Germany,239.0
+2013,Griechenland,Germany,1349.0
+2013,Honduras,Germany,46.0
+2013,Indien,Germany,914.0
+2013,Indonesien,Germany,369.0
+2013,Irak,Germany,787.0
+2013,"Iran, Islamische Republik",Germany,357.0
+2013,Irland,Germany,706.0
+2013,Island,Germany,66.0
+2013,Israel,Germany,540.0
+2013,Italien,Germany,3128.0
+2013,Japan,Germany,479.0
+2013,Jemen,Germany,22.0
+2013,Jordanien,Germany,322.0
+2013,Kamerun,Germany,102.0
+2013,Kanada,Germany,1882.0
+2013,Kasachstan,Germany,1254.0
+2013,Kenia,Germany,271.0
+2013,Kirgisistan,Germany,135.0
+2013,Kolumbien,Germany,389.0
+2013,"Kongo, Demokratische Republik",Germany,45.0
+2013,"Kongo, Republik",Germany,9.0
+2013,"Korea, Demokratische Volksrepublik",Germany,17.0
+2013,"Korea, Republik",Germany,217.0
+2013,Kosovo,Germany,156.0
+2013,Kroatien,Germany,355.0
+2013,Kuwait,Germany,66.0
+2013,Lettland,Germany,103.0
+2013,Libanon,Germany,835.0
+2013,Libyen,Germany,66.0
+2013,Litauen,Germany,119.0
+2013,Luxemburg,Germany,626.0
+2013,Malta,Germany,118.0
+2013,Marokko,Germany,419.0
+2013,Mexiko,Germany,754.0
+2013,Montenegro (ab 03.06.2006),Germany,25.0
+2013,Namibia,Germany,289.0
+2013,Neuseeland,Germany,831.0
+2013,Nicaragua,Germany,75.0
+2013,Niederlande,Germany,2980.0
+2013,Niger,Germany,11.0
+2013,Nigeria,Germany,205.0
+2013,Nordmazedonien,Germany,80.0
+2013,Norwegen,Germany,919.0
+2013,Pakistan,Germany,407.0
+2013,Paraguay,Germany,350.0
+2013,Peru,Germany,322.0
+2013,Philippinen,Germany,581.0
+2013,Polen,Germany,7900.0
+2013,Portugal,Germany,848.0
+2013,Ruanda,Germany,52.0
+2013,Rumänien,Germany,922.0
+2013,Russische Föderation,Germany,3211.0
+2013,Saudi-Arabien,Germany,228.0
+2013,Schweden,Germany,1139.0
+2013,Schweiz,Germany,11849.0
+2013,Senegal,Germany,59.0
+2013,Serbien,Germany,244.0
+2013,Singapur,Germany,661.0
+2013,Slowakei,Germany,188.0
+2013,Slowenien,Germany,117.0
+2013,Somalia,Germany,21.0
+2013,Spanien,Germany,7608.0
+2013,Syrien,Germany,312.0
+2013,Südafrika,Germany,1102.0
+2013,Tadschikistan,Germany,65.0
+2013,Tansania,Germany,171.0
+2013,Thailand,Germany,1372.0
+2013,Tschechien,Germany,669.0
+2013,Tunesien,Germany,504.0
+2013,Türkei,Germany,3660.0
+2013,Uganda,Germany,101.0
+2013,Ukraine,Germany,589.0
+2013,Unbekanntes Ausland,Germany,0.0
+2013,Ungarn,Germany,925.0
+2013,Ungeklärt / Ohne Angabe,Germany,1364.0
+2013,Uruguay,Germany,90.0
+2013,Usbekistan,Germany,53.0
+2013,"Venezuela, Bolivarische Republik",Germany,223.0
+2013,Vereinigte Arabische Emirate,Germany,1098.0
+2013,Vereinigte Staaten,Germany,10045.0
+2013,Vereinigtes Königreich,Germany,6362.0
+2013,Vietnam,Germany,282.0
+2013,Zentralafrikanische Republik,Germany,10.0
+2013,Zypern,Germany,195.0
+2013,Ägypten,Germany,795.0
+2013,Äthiopien,Germany,152.0
+2013,Österreich,Germany,6869.0
+2013,Übriges Afrika,Germany,799.0
+2013,Übriges Amerika,Germany,1146.0
+2013,Übriges Asien,Germany,1197.0
+2013,Übriges Europa,Germany,148.0
+2013,Übriges Ozeanien,Germany,91.0
+2014,Afghanistan,Germany,270.0
+2014,Albanien,Germany,58.0
+2014,Algerien,Germany,160.0
+2014,Andorra,Germany,3.0
+2014,Angola,Germany,26.0
+2014,Argentinien,Germany,479.0
+2014,Armenien,Germany,50.0
+2014,Aserbaidschan,Germany,40.0
+2014,Australien,Germany,2689.0
+2014,Belarus,Germany,157.0
+2014,Belgien,Germany,1977.0
+2014,"Bolivien, Plurinationaler Staat",Germany,262.0
+2014,Bosnien und Herzegowina,Germany,113.0
+2014,Brasilien,Germany,1620.0
+2014,Bulgarien,Germany,415.0
+2014,Chile,Germany,518.0
+2014,China,Germany,2832.0
+2014,Costa Rica,Germany,180.0
+2014,Cote d'Ivoire,Germany,34.0
+2014,Dänemark,Germany,855.0
+2014,Estland,Germany,64.0
+2014,Finnland,Germany,221.0
+2014,Frankreich,Germany,6000.0
+2014,Georgien,Germany,79.0
+2014,Ghana,Germany,279.0
+2014,Griechenland,Germany,1085.0
+2014,Honduras,Germany,39.0
+2014,Indien,Germany,842.0
+2014,Indonesien,Germany,408.0
+2014,Irak,Germany,1432.0
+2014,"Iran, Islamische Republik",Germany,340.0
+2014,Irland,Germany,723.0
+2014,Island,Germany,59.0
+2014,Israel,Germany,658.0
+2014,Italien,Germany,2973.0
+2014,Japan,Germany,497.0
+2014,Jemen,Germany,26.0
+2014,Jordanien,Germany,341.0
+2014,Kamerun,Germany,125.0
+2014,Kanada,Germany,1887.0
+2014,Kasachstan,Germany,2200.0
+2014,Kenia,Germany,321.0
+2014,Kirgisistan,Germany,162.0
+2014,Kolumbien,Germany,414.0
+2014,"Kongo, Demokratische Republik",Germany,41.0
+2014,"Kongo, Republik",Germany,21.0
+2014,"Korea, Demokratische Volksrepublik",Germany,32.0
+2014,"Korea, Republik",Germany,195.0
+2014,Kosovo,Germany,183.0
+2014,Kroatien,Germany,397.0
+2014,Kuwait,Germany,52.0
+2014,Lettland,Germany,89.0
+2014,Libanon,Germany,746.0
+2014,Libyen,Germany,127.0
+2014,Litauen,Germany,120.0
+2014,Luxemburg,Germany,653.0
+2014,Malta,Germany,113.0
+2014,Marokko,Germany,448.0
+2014,Mexiko,Germany,842.0
+2014,Montenegro (ab 03.06.2006),Germany,35.0
+2014,Namibia,Germany,270.0
+2014,Neuseeland,Germany,855.0
+2014,Nicaragua,Germany,70.0
+2014,Niederlande,Germany,2873.0
+2014,Niger,Germany,9.0
+2014,Nigeria,Germany,230.0
+2014,Nordmazedonien,Germany,77.0
+2014,Norwegen,Germany,865.0
+2014,Pakistan,Germany,504.0
+2014,Paraguay,Germany,354.0
+2014,Peru,Germany,378.0
+2014,Philippinen,Germany,576.0
+2014,Polen,Germany,6982.0
+2014,Portugal,Germany,806.0
+2014,Ruanda,Germany,54.0
+2014,Rumänien,Germany,930.0
+2014,Russische Föderation,Germany,4219.0
+2014,Saudi-Arabien,Germany,338.0
+2014,Schweden,Germany,1015.0
+2014,Schweiz,Germany,12024.0
+2014,Senegal,Germany,84.0
+2014,Serbien,Germany,253.0
+2014,Singapur,Germany,711.0
+2014,Slowakei,Germany,152.0
+2014,Slowenien,Germany,119.0
+2014,Somalia,Germany,19.0
+2014,Spanien,Germany,6715.0
+2014,Syrien,Germany,247.0
+2014,Südafrika,Germany,1144.0
+2014,Tadschikistan,Germany,48.0
+2014,Tansania,Germany,173.0
+2014,Thailand,Germany,1450.0
+2014,Tschechien,Germany,731.0
+2014,Tunesien,Germany,519.0
+2014,Türkei,Germany,4303.0
+2014,Uganda,Germany,127.0
+2014,Ukraine,Germany,990.0
+2014,Unbekanntes Ausland,Germany,2087.0
+2014,Ungarn,Germany,841.0
+2014,Ungeklärt / Ohne Angabe,Germany,216.0
+2014,Uruguay,Germany,75.0
+2014,Usbekistan,Germany,54.0
+2014,"Venezuela, Bolivarische Republik",Germany,296.0
+2014,Vereinigte Arabische Emirate,Germany,1240.0
+2014,Vereinigte Staaten,Germany,10357.0
+2014,Vereinigtes Königreich,Germany,5903.0
+2014,Vietnam,Germany,340.0
+2014,Zentralafrikanische Republik,Germany,16.0
+2014,Zypern,Germany,169.0
+2014,Ägypten,Germany,677.0
+2014,Äthiopien,Germany,164.0
+2014,Österreich,Germany,7009.0
+2014,Übriges Afrika,Germany,938.0
+2014,Übriges Amerika,Germany,1052.0
+2014,Übriges Asien,Germany,1300.0
+2014,Übriges Europa,Germany,156.0
+2014,Übriges Ozeanien,Germany,84.0
+2015,Afghanistan,Germany,317.0
+2015,Albanien,Germany,94.0
+2015,Algerien,Germany,182.0
+2015,Andorra,Germany,12.0
+2015,Angola,Germany,46.0
+2015,Argentinien,Germany,477.0
+2015,Armenien,Germany,70.0
+2015,Aserbaidschan,Germany,46.0
+2015,Australien,Germany,2621.0
+2015,Belarus,Germany,196.0
+2015,Belgien,Germany,1871.0
+2015,"Bolivien, Plurinationaler Staat",Germany,238.0
+2015,Bosnien und Herzegowina,Germany,136.0
+2015,Brasilien,Germany,1925.0
+2015,Bulgarien,Germany,353.0
+2015,Chile,Germany,621.0
+2015,China,Germany,2991.0
+2015,Costa Rica,Germany,185.0
+2015,Cote d'Ivoire,Germany,30.0
+2015,Dänemark,Germany,736.0
+2015,Estland,Germany,77.0
+2015,Finnland,Germany,281.0
+2015,Frankreich,Germany,5658.0
+2015,Georgien,Germany,83.0
+2015,Ghana,Germany,239.0
+2015,Griechenland,Germany,966.0
+2015,Honduras,Germany,51.0
+2015,Indien,Germany,829.0
+2015,Indonesien,Germany,405.0
+2015,Irak,Germany,1418.0
+2015,"Iran, Islamische Republik",Germany,416.0
+2015,Irland,Germany,705.0
+2015,Island,Germany,58.0
+2015,Israel,Germany,625.0
+2015,Italien,Germany,2600.0
+2015,Japan,Germany,532.0
+2015,Jemen,Germany,62.0
+2015,Jordanien,Germany,320.0
+2015,Kamerun,Germany,104.0
+2015,Kanada,Germany,1846.0
+2015,Kasachstan,Germany,2209.0
+2015,Kenia,Germany,296.0
+2015,Kirgisistan,Germany,192.0
+2015,Kolumbien,Germany,477.0
+2015,"Kongo, Demokratische Republik",Germany,44.0
+2015,"Kongo, Republik",Germany,19.0
+2015,"Korea, Demokratische Volksrepublik",Germany,18.0
+2015,"Korea, Republik",Germany,225.0
+2015,Kosovo,Germany,175.0
+2015,Kroatien,Germany,406.0
+2015,Kuwait,Germany,58.0
+2015,Lettland,Germany,87.0
+2015,Libanon,Germany,731.0
+2015,Libyen,Germany,33.0
+2015,Litauen,Germany,103.0
+2015,Luxemburg,Germany,635.0
+2015,Malta,Germany,150.0
+2015,Marokko,Germany,487.0
+2015,Mexiko,Germany,927.0
+2015,Montenegro (ab 03.06.2006),Germany,46.0
+2015,Namibia,Germany,262.0
+2015,Neuseeland,Germany,950.0
+2015,Nicaragua,Germany,66.0
+2015,Niederlande,Germany,2816.0
+2015,Niger,Germany,13.0
+2015,Nigeria,Germany,222.0
+2015,Nordmazedonien,Germany,99.0
+2015,Norwegen,Germany,864.0
+2015,Pakistan,Germany,454.0
+2015,Paraguay,Germany,346.0
+2015,Peru,Germany,362.0
+2015,Philippinen,Germany,645.0
+2015,Polen,Germany,5898.0
+2015,Portugal,Germany,782.0
+2015,Ruanda,Germany,45.0
+2015,Rumänien,Germany,855.0
+2015,Russische Föderation,Germany,4583.0
+2015,Saudi-Arabien,Germany,269.0
+2015,Schweden,Germany,1060.0
+2015,Schweiz,Germany,12064.0
+2015,Senegal,Germany,51.0
+2015,Serbien,Germany,259.0
+2015,Singapur,Germany,735.0
+2015,Slowakei,Germany,116.0
+2015,Slowenien,Germany,78.0
+2015,Somalia,Germany,11.0
+2015,Spanien,Germany,6088.0
+2015,Syrien,Germany,493.0
+2015,Südafrika,Germany,1199.0
+2015,Tadschikistan,Germany,52.0
+2015,Tansania,Germany,148.0
+2015,Thailand,Germany,1552.0
+2015,Tschechien,Germany,609.0
+2015,Tunesien,Germany,512.0
+2015,Türkei,Germany,4732.0
+2015,Uganda,Germany,83.0
+2015,Ukraine,Germany,1236.0
+2015,Unbekanntes Ausland,Germany,2013.0
+2015,Ungarn,Germany,755.0
+2015,Ungeklärt / Ohne Angabe,Germany,185.0
+2015,Uruguay,Germany,110.0
+2015,Usbekistan,Germany,107.0
+2015,"Venezuela, Bolivarische Republik",Germany,349.0
+2015,Vereinigte Arabische Emirate,Germany,1164.0
+2015,Vereinigte Staaten,Germany,10159.0
+2015,Vereinigtes Königreich,Germany,6043.0
+2015,Vietnam,Germany,276.0
+2015,Zentralafrikanische Republik,Germany,5.0
+2015,Zypern,Germany,177.0
+2015,Ägypten,Germany,704.0
+2015,Äthiopien,Germany,169.0
+2015,Österreich,Germany,6832.0
+2015,Übriges Afrika,Germany,789.0
+2015,Übriges Amerika,Germany,1019.0
+2015,Übriges Asien,Germany,1294.0
+2015,Übriges Europa,Germany,146.0
+2015,Übriges Ozeanien,Germany,68.0
+2016,Afghanistan,Germany,191.0
+2016,Albanien,Germany,70.0
+2016,Algerien,Germany,168.0
+2016,Andorra,Germany,6.0
+2016,Angola,Germany,39.0
+2016,Argentinien,Germany,486.0
+2016,Armenien,Germany,40.0
+2016,Aserbaidschan,Germany,39.0
+2016,Australien,Germany,2788.0
+2016,Belarus,Germany,251.0
+2016,Belgien,Germany,1972.0
+2016,"Bolivien, Plurinationaler Staat",Germany,241.0
+2016,Bosnien und Herzegowina,Germany,125.0
+2016,Brasilien,Germany,2029.0
+2016,Bulgarien,Germany,320.0
+2016,Chile,Germany,656.0
+2016,China,Germany,2973.0
+2016,Costa Rica,Germany,189.0
+2016,Cote d'Ivoire,Germany,35.0
+2016,Dänemark,Germany,798.0
+2016,Estland,Germany,40.0
+2016,Finnland,Germany,254.0
+2016,Frankreich,Germany,5505.0
+2016,Georgien,Germany,80.0
+2016,Ghana,Germany,213.0
+2016,Griechenland,Germany,912.0
+2016,Honduras,Germany,51.0
+2016,Indien,Germany,682.0
+2016,Indonesien,Germany,419.0
+2016,Irak,Germany,1259.0
+2016,"Iran, Islamische Republik",Germany,331.0
+2016,Irland,Germany,694.0
+2016,Island,Germany,81.0
+2016,Israel,Germany,576.0
+2016,Italien,Germany,2280.0
+2016,Japan,Germany,582.0
+2016,Jemen,Germany,5.0
+2016,Jordanien,Germany,282.0
+2016,Kamerun,Germany,97.0
+2016,Kanada,Germany,1736.0
+2016,Kasachstan,Germany,2367.0
+2016,Kenia,Germany,278.0
+2016,Kirgisistan,Germany,220.0
+2016,Kolumbien,Germany,454.0
+2016,"Kongo, Demokratische Republik",Germany,54.0
+2016,"Kongo, Republik",Germany,22.0
+2016,"Korea, Demokratische Volksrepublik",Germany,29.0
+2016,"Korea, Republik",Germany,221.0
+2016,Kosovo,Germany,147.0
+2016,Kroatien,Germany,321.0
+2016,Kuwait,Germany,91.0
+2016,Lettland,Germany,85.0
+2016,Libanon,Germany,665.0
+2016,Libyen,Germany,30.0
+2016,Litauen,Germany,98.0
+2016,Luxemburg,Germany,656.0
+2016,Malta,Germany,131.0
+2016,Marokko,Germany,412.0
+2016,Mexiko,Germany,893.0
+2016,Montenegro (ab 03.06.2006),Germany,39.0
+2016,Namibia,Germany,305.0
+2016,Neuseeland,Germany,924.0
+2016,Nicaragua,Germany,67.0
+2016,Niederlande,Germany,2666.0
+2016,Niger,Germany,9.0
+2016,Nigeria,Germany,223.0
+2016,Nordmazedonien,Germany,72.0
+2016,Norwegen,Germany,826.0
+2016,Pakistan,Germany,401.0
+2016,Paraguay,Germany,359.0
+2016,Peru,Germany,381.0
+2016,Philippinen,Germany,653.0
+2016,Polen,Germany,4305.0
+2016,Portugal,Germany,695.0
+2016,Ruanda,Germany,49.0
+2016,Rumänien,Germany,704.0
+2016,Russische Föderation,Germany,4466.0
+2016,Saudi-Arabien,Germany,343.0
+2016,Schweden,Germany,975.0
+2016,Schweiz,Germany,11216.0
+2016,Senegal,Germany,81.0
+2016,Serbien,Germany,238.0
+2016,Singapur,Germany,777.0
+2016,Slowakei,Germany,112.0
+2016,Slowenien,Germany,81.0
+2016,Somalia,Germany,16.0
+2016,Spanien,Germany,5197.0
+2016,Syrien,Germany,199.0
+2016,Südafrika,Germany,1197.0
+2016,Tadschikistan,Germany,31.0
+2016,Tansania,Germany,143.0
+2016,Thailand,Germany,1543.0
+2016,Tschechien,Germany,608.0
+2016,Tunesien,Germany,467.0
+2016,Türkei,Germany,4881.0
+2016,Uganda,Germany,110.0
+2016,Ukraine,Germany,1063.0
+2016,Unbekanntes Ausland,Germany,2041.0
+2016,Ungarn,Germany,607.0
+2016,Ungeklärt / Ohne Angabe,Germany,30594.0
+2016,Uruguay,Germany,111.0
+2016,Usbekistan,Germany,61.0
+2016,"Venezuela, Bolivarische Republik",Germany,326.0
+2016,Vereinigte Arabische Emirate,Germany,1445.0
+2016,Vereinigte Staaten,Germany,9815.0
+2016,Vereinigtes Königreich,Germany,6526.0
+2016,Vietnam,Germany,310.0
+2016,Zentralafrikanische Republik,Germany,16.0
+2016,Zypern,Germany,141.0
+2016,Ägypten,Germany,701.0
+2016,Äthiopien,Germany,141.0
+2016,Österreich,Germany,6521.0
+2016,Übriges Afrika,Germany,751.0
+2016,Übriges Amerika,Germany,1143.0
+2016,Übriges Asien,Germany,1472.0
+2016,Übriges Europa,Germany,140.0
+2016,Übriges Ozeanien,Germany,94.0
+2017,Afghanistan,Germany,130.0
+2017,Albanien,Germany,68.0
+2017,Algerien,Germany,164.0
+2017,Andorra,Germany,27.0
+2017,Angola,Germany,22.0
+2017,Argentinien,Germany,442.0
+2017,Armenien,Germany,40.0
+2017,Aserbaidschan,Germany,34.0
+2017,Australien,Germany,2829.0
+2017,Belarus,Germany,253.0
+2017,Belgien,Germany,1870.0
+2017,"Bolivien, Plurinationaler Staat",Germany,265.0
+2017,Bosnien und Herzegowina,Germany,125.0
+2017,Brasilien,Germany,2015.0
+2017,Bulgarien,Germany,327.0
+2017,Chile,Germany,544.0
+2017,China,Germany,2874.0
+2017,Costa Rica,Germany,170.0
+2017,Cote d'Ivoire,Germany,31.0
+2017,Dänemark,Germany,828.0
+2017,Estland,Germany,68.0
+2017,Finnland,Germany,305.0
+2017,Frankreich,Germany,5257.0
+2017,Georgien,Germany,94.0
+2017,Ghana,Germany,221.0
+2017,Griechenland,Germany,800.0
+2017,Honduras,Germany,35.0
+2017,Indien,Germany,747.0
+2017,Indonesien,Germany,450.0
+2017,Irak,Germany,1044.0
+2017,"Iran, Islamische Republik",Germany,315.0
+2017,Irland,Germany,737.0
+2017,Island,Germany,71.0
+2017,Israel,Germany,478.0
+2017,Italien,Germany,2328.0
+2017,Japan,Germany,611.0
+2017,Jemen,Germany,7.0
+2017,Jordanien,Germany,341.0
+2017,Kamerun,Germany,95.0
+2017,Kanada,Germany,1734.0
+2017,Kasachstan,Germany,2562.0
+2017,Kenia,Germany,260.0
+2017,Kirgisistan,Germany,140.0
+2017,Kolumbien,Germany,472.0
+2017,"Kongo, Demokratische Republik",Germany,32.0
+2017,"Kongo, Republik",Germany,16.0
+2017,"Korea, Demokratische Volksrepublik",Germany,17.0
+2017,"Korea, Republik",Germany,282.0
+2017,Kosovo,Germany,163.0
+2017,Kroatien,Germany,259.0
+2017,Kuwait,Germany,56.0
+2017,Lettland,Germany,82.0
+2017,Libanon,Germany,633.0
+2017,Libyen,Germany,42.0
+2017,Litauen,Germany,77.0
+2017,Luxemburg,Germany,608.0
+2017,Malta,Germany,158.0
+2017,Marokko,Germany,458.0
+2017,Mexiko,Germany,1060.0
+2017,Montenegro (ab 03.06.2006),Germany,30.0
+2017,Namibia,Germany,280.0
+2017,Neuseeland,Germany,1035.0
+2017,Nicaragua,Germany,62.0
+2017,Niederlande,Germany,2661.0
+2017,Niger,Germany,22.0
+2017,Nigeria,Germany,219.0
+2017,Nordmazedonien,Germany,103.0
+2017,Norwegen,Germany,844.0
+2017,Pakistan,Germany,432.0
+2017,Paraguay,Germany,362.0
+2017,Peru,Germany,404.0
+2017,Philippinen,Germany,587.0
+2017,Polen,Germany,3940.0
+2017,Portugal,Germany,752.0
+2017,Ruanda,Germany,27.0
+2017,Rumänien,Germany,670.0
+2017,Russische Föderation,Germany,4447.0
+2017,Saudi-Arabien,Germany,391.0
+2017,Schweden,Germany,947.0
+2017,Schweiz,Germany,11124.0
+2017,Senegal,Germany,77.0
+2017,Serbien,Germany,246.0
+2017,Singapur,Germany,726.0
+2017,Slowakei,Germany,135.0
+2017,Slowenien,Germany,72.0
+2017,Somalia,Germany,11.0
+2017,Spanien,Germany,5131.0
+2017,Syrien,Germany,88.0
+2017,Südafrika,Germany,1132.0
+2017,Tadschikistan,Germany,29.0
+2017,Tansania,Germany,181.0
+2017,Thailand,Germany,1602.0
+2017,Tschechien,Germany,586.0
+2017,Tunesien,Germany,471.0
+2017,Türkei,Germany,4891.0
+2017,Uganda,Germany,98.0
+2017,Ukraine,Germany,1186.0
+2017,Unbekanntes Ausland,Germany,1918.0
+2017,Ungarn,Germany,654.0
+2017,Ungeklärt / Ohne Angabe,Germany,51522.0
+2017,Uruguay,Germany,125.0
+2017,Usbekistan,Germany,60.0
+2017,"Venezuela, Bolivarische Republik",Germany,417.0
+2017,Vereinigte Arabische Emirate,Germany,1426.0
+2017,Vereinigte Staaten,Germany,10647.0
+2017,Vereinigtes Königreich,Germany,6583.0
+2017,Vietnam,Germany,322.0
+2017,Zentralafrikanische Republik,Germany,27.0
+2017,Zypern,Germany,142.0
+2017,Ägypten,Germany,623.0
+2017,Äthiopien,Germany,140.0
+2017,Österreich,Germany,6384.0
+2017,Übriges Afrika,Germany,725.0
+2017,Übriges Amerika,Germany,1172.0
+2017,Übriges Asien,Germany,1398.0
+2017,Übriges Europa,Germany,163.0
+2017,Übriges Ozeanien,Germany,81.0
+2018,Afghanistan,Germany,138.0
+2018,Albanien,Germany,62.0
+2018,Algerien,Germany,183.0
+2018,Andorra,Germany,14.0
+2018,Angola,Germany,22.0
+2018,Argentinien,Germany,467.0
+2018,Armenien,Germany,32.0
+2018,Aserbaidschan,Germany,46.0
+2018,Australien,Germany,2873.0
+2018,Belarus,Germany,220.0
+2018,Belgien,Germany,1754.0
+2018,"Bolivien, Plurinationaler Staat",Germany,277.0
+2018,Bosnien und Herzegowina,Germany,120.0
+2018,Brasilien,Germany,1791.0
+2018,Bulgarien,Germany,309.0
+2018,Chile,Germany,625.0
+2018,China,Germany,2626.0
+2018,Costa Rica,Germany,188.0
+2018,Cote d'Ivoire,Germany,37.0
+2018,Dänemark,Germany,841.0
+2018,Estland,Germany,66.0
+2018,Finnland,Germany,229.0
+2018,Frankreich,Germany,5126.0
+2018,Georgien,Germany,87.0
+2018,Ghana,Germany,179.0
+2018,Griechenland,Germany,766.0
+2018,Honduras,Germany,41.0
+2018,Indien,Germany,742.0
+2018,Indonesien,Germany,429.0
+2018,Irak,Germany,917.0
+2018,"Iran, Islamische Republik",Germany,422.0
+2018,Irland,Germany,713.0
+2018,Island,Germany,89.0
+2018,Israel,Germany,534.0
+2018,Italien,Germany,2149.0
+2018,Japan,Germany,652.0
+2018,Jemen,Germany,11.0
+2018,Jordanien,Germany,369.0
+2018,Kamerun,Germany,133.0
+2018,Kanada,Germany,1831.0
+2018,Kasachstan,Germany,2199.0
+2018,Kenia,Germany,234.0
+2018,Kirgisistan,Germany,166.0
+2018,Kolumbien,Germany,493.0
+2018,"Kongo, Demokratische Republik",Germany,32.0
+2018,"Kongo, Republik",Germany,15.0
+2018,"Korea, Demokratische Volksrepublik",Germany,17.0
+2018,"Korea, Republik",Germany,273.0
+2018,Kosovo,Germany,152.0
+2018,Kroatien,Germany,253.0
+2018,Kuwait,Germany,51.0
+2018,Lettland,Germany,102.0
+2018,Libanon,Germany,707.0
+2018,Libyen,Germany,45.0
+2018,Litauen,Germany,102.0
+2018,Luxemburg,Germany,634.0
+2018,Malta,Germany,161.0
+2018,Marokko,Germany,545.0
+2018,Mexiko,Germany,1115.0
+2018,Montenegro (ab 03.06.2006),Germany,33.0
+2018,Namibia,Germany,324.0
+2018,Neuseeland,Germany,1010.0
+2018,Nicaragua,Germany,140.0
+2018,Niederlande,Germany,2544.0
+2018,Niger,Germany,17.0
+2018,Nigeria,Germany,189.0
+2018,Nordmazedonien,Germany,77.0
+2018,Norwegen,Germany,777.0
+2018,Pakistan,Germany,378.0
+2018,Paraguay,Germany,345.0
+2018,Peru,Germany,391.0
+2018,Philippinen,Germany,621.0
+2018,Polen,Germany,3428.0
+2018,Portugal,Germany,982.0
+2018,Ruanda,Germany,37.0
+2018,Rumänien,Germany,744.0
+2018,Russische Föderation,Germany,4935.0
+2018,Saudi-Arabien,Germany,302.0
+2018,Schweden,Germany,1031.0
+2018,Schweiz,Germany,10681.0
+2018,Senegal,Germany,76.0
+2018,Serbien,Germany,230.0
+2018,Singapur,Germany,751.0
+2018,Slowakei,Germany,116.0
+2018,Slowenien,Germany,64.0
+2018,Somalia,Germany,18.0
+2018,Spanien,Germany,5487.0
+2018,Syrien,Germany,85.0
+2018,Südafrika,Germany,1216.0
+2018,Tadschikistan,Germany,33.0
+2018,Tansania,Germany,127.0
+2018,Thailand,Germany,1581.0
+2018,Tschechien,Germany,598.0
+2018,Tunesien,Germany,412.0
+2018,Türkei,Germany,5231.0
+2018,Uganda,Germany,86.0
+2018,Ukraine,Germany,1191.0
+2018,Unbekanntes Ausland,Germany,1617.0
+2018,Ungarn,Germany,656.0
+2018,Ungeklärt / Ohne Angabe,Germany,87968.0
+2018,Uruguay,Germany,121.0
+2018,Usbekistan,Germany,77.0
+2018,"Venezuela, Bolivarische Republik",Germany,339.0
+2018,Vereinigte Arabische Emirate,Germany,1376.0
+2018,Vereinigte Staaten,Germany,10144.0
+2018,Vereinigtes Königreich,Germany,6418.0
+2018,Vietnam,Germany,300.0
+2018,Zentralafrikanische Republik,Germany,19.0
+2018,Zypern,Germany,123.0
+2018,Ägypten,Germany,584.0
+2018,Äthiopien,Germany,165.0
+2018,Österreich,Germany,6468.0
+2018,Übriges Afrika,Germany,781.0
+2018,Übriges Amerika,Germany,1056.0
+2018,Übriges Asien,Germany,1394.0
+2018,Übriges Europa,Germany,157.0
+2018,Übriges Ozeanien,Germany,74.0
+2019,Afghanistan,Germany,125.0
+2019,Albanien,Germany,93.0
+2019,Algerien,Germany,188.0
+2019,Andorra,Germany,13.0
+2019,Angola,Germany,33.0
+2019,Argentinien,Germany,544.0
+2019,Armenien,Germany,38.0
+2019,Aserbaidschan,Germany,58.0
+2019,Australien,Germany,2714.0
+2019,Belarus,Germany,262.0
+2019,Belgien,Germany,1793.0
+2019,"Bolivien, Plurinationaler Staat",Germany,269.0
+2019,Bosnien und Herzegowina,Germany,127.0
+2019,Brasilien,Germany,1702.0
+2019,Bulgarien,Germany,326.0
+2019,Chile,Germany,696.0
+2019,China,Germany,2592.0
+2019,Costa Rica,Germany,212.0
+2019,Cote d'Ivoire,Germany,39.0
+2019,Dänemark,Germany,768.0
+2019,Estland,Germany,60.0
+2019,Finnland,Germany,241.0
+2019,Frankreich,Germany,5016.0
+2019,Georgien,Germany,110.0
+2019,Ghana,Germany,225.0
+2019,Griechenland,Germany,742.0
+2019,Honduras,Germany,33.0
+2019,Indien,Germany,683.0
+2019,Indonesien,Germany,449.0
+2019,Irak,Germany,742.0
+2019,"Iran, Islamische Republik",Germany,369.0
+2019,Irland,Germany,701.0
+2019,Island,Germany,75.0
+2019,Israel,Germany,508.0
+2019,Italien,Germany,1999.0
+2019,Japan,Germany,696.0
+2019,Jemen,Germany,17.0
+2019,Jordanien,Germany,336.0
+2019,Kamerun,Germany,136.0
+2019,Kanada,Germany,1776.0
+2019,Kasachstan,Germany,2465.0
+2019,Kenia,Germany,336.0
+2019,Kirgisistan,Germany,182.0
+2019,Kolumbien,Germany,598.0
+2019,"Kongo, Demokratische Republik",Germany,38.0
+2019,"Kongo, Republik",Germany,17.0
+2019,"Korea, Demokratische Volksrepublik",Germany,13.0
+2019,"Korea, Republik",Germany,249.0
+2019,Kosovo,Germany,159.0
+2019,Kroatien,Germany,299.0
+2019,Kuwait,Germany,77.0
+2019,Lettland,Germany,108.0
+2019,Libanon,Germany,814.0
+2019,Libyen,Germany,38.0
+2019,Litauen,Germany,89.0
+2019,Luxemburg,Germany,546.0
+2019,Malta,Germany,234.0
+2019,Marokko,Germany,507.0
+2019,Mexiko,Germany,1293.0
+2019,Montenegro (ab 03.06.2006),Germany,43.0
+2019,Namibia,Germany,334.0
+2019,Neuseeland,Germany,990.0
+2019,Nicaragua,Germany,66.0
+2019,Niederlande,Germany,2693.0
+2019,Niger,Germany,17.0
+2019,Nigeria,Germany,158.0
+2019,Nordmazedonien,Germany,78.0
+2019,Norwegen,Germany,756.0
+2019,Pakistan,Germany,410.0
+2019,Paraguay,Germany,384.0
+2019,Peru,Germany,479.0
+2019,Philippinen,Germany,610.0
+2019,Polen,Germany,2946.0
+2019,Portugal,Germany,1085.0
+2019,Ruanda,Germany,49.0
+2019,Rumänien,Germany,675.0
+2019,Russische Föderation,Germany,4903.0
+2019,Saudi-Arabien,Germany,216.0
+2019,Schweden,Germany,972.0
+2019,Schweiz,Germany,10523.0
+2019,Senegal,Germany,57.0
+2019,Serbien,Germany,289.0
+2019,Singapur,Germany,693.0
+2019,Slowakei,Germany,93.0
+2019,Slowenien,Germany,62.0
+2019,Somalia,Germany,25.0
+2019,Spanien,Germany,5437.0
+2019,Syrien,Germany,89.0
+2019,Südafrika,Germany,1281.0
+2019,Tadschikistan,Germany,18.0
+2019,Tansania,Germany,131.0
+2019,Thailand,Germany,1708.0
+2019,Tschechien,Germany,649.0
+2019,Tunesien,Germany,425.0
+2019,Türkei,Germany,5620.0
+2019,Uganda,Germany,116.0
+2019,Ukraine,Germany,963.0
+2019,Unbekanntes Ausland,Germany,1528.0
+2019,Ungarn,Germany,683.0
+2019,Ungeklärt / Ohne Angabe,Germany,99875.0
+2019,Uruguay,Germany,102.0
+2019,Usbekistan,Germany,64.0
+2019,"Venezuela, Bolivarische Republik",Germany,298.0
+2019,Vereinigte Arabische Emirate,Germany,1309.0
+2019,Vereinigte Staaten,Germany,9498.0
+2019,Vereinigtes Königreich,Germany,6385.0
+2019,Vietnam,Germany,354.0
+2019,Zentralafrikanische Republik,Germany,17.0
+2019,Zypern,Germany,163.0
+2019,Ägypten,Germany,606.0
+2019,Äthiopien,Germany,172.0
+2019,Österreich,Germany,6631.0
+2019,Übriges Afrika,Germany,787.0
+2019,Übriges Amerika,Germany,1032.0
+2019,Übriges Asien,Germany,1310.0
+2019,Übriges Europa,Germany,152.0
+2019,Übriges Ozeanien,Germany,92.0
+2020,Afghanistan,Germany,111.0
+2020,Albanien,Germany,60.0
+2020,Algerien,Germany,156.0
+2020,Andorra,Germany,11.0
+2020,Angola,Germany,23.0
+2020,Argentinien,Germany,460.0
+2020,Armenien,Germany,32.0
+2020,Aserbaidschan,Germany,43.0
+2020,Australien,Germany,2019.0
+2020,Belarus,Germany,198.0
+2020,Belgien,Germany,1677.0
+2020,"Bolivien, Plurinationaler Staat",Germany,250.0
+2020,Bosnien und Herzegowina,Germany,101.0
+2020,Brasilien,Germany,1295.0
+2020,Bulgarien,Germany,334.0
+2020,Chile,Germany,589.0
+2020,China,Germany,2417.0
+2020,Costa Rica,Germany,169.0
+2020,Cote d'Ivoire,Germany,27.0
+2020,Dänemark,Germany,785.0
+2020,Estland,Germany,53.0
+2020,Finnland,Germany,199.0
+2020,Frankreich,Germany,4673.0
+2020,Georgien,Germany,80.0
+2020,Ghana,Germany,170.0
+2020,Griechenland,Germany,607.0
+2020,Honduras,Germany,26.0
+2020,Indien,Germany,628.0
+2020,Indonesien,Germany,385.0
+2020,Irak,Germany,576.0
+2020,"Iran, Islamische Republik",Germany,272.0
+2020,Irland,Germany,664.0
+2020,Island,Germany,65.0
+2020,Israel,Germany,405.0
+2020,Italien,Germany,1830.0
+2020,Japan,Germany,600.0
+2020,Jordanien,Germany,240.0
+2020,Kamerun,Germany,78.0
+2020,Kanada,Germany,1517.0
+2020,Kasachstan,Germany,1867.0
+2020,Kenia,Germany,294.0
+2020,Kirgisistan,Germany,104.0
+2020,Kolumbien,Germany,486.0
+2020,"Kongo, Demokratische Republik",Germany,27.0
+2020,"Korea, Demokratische Volksrepublik",Germany,11.0
+2020,"Korea, Republik",Germany,206.0
+2020,Kosovo,Germany,163.0
+2020,Kroatien,Germany,245.0
+2020,Kuwait,Germany,65.0
+2020,Lettland,Germany,99.0
+2020,Libanon,Germany,1057.0
+2020,Libyen,Germany,25.0
+2020,Litauen,Germany,76.0
+2020,Luxemburg,Germany,631.0
+2020,Malta,Germany,202.0
+2020,Marokko,Germany,424.0
+2020,Mexiko,Germany,1100.0
+2020,Montenegro (ab 03.06.2006),Germany,32.0
+2020,Namibia,Germany,303.0
+2020,Neuseeland,Germany,793.0
+2020,Nicaragua,Germany,42.0
+2020,Niederlande,Germany,2706.0
+2020,Niger,Germany,15.0
+2020,Nigeria,Germany,155.0
+2020,Nordmazedonien,Germany,58.0
+2020,Norwegen,Germany,694.0
+2020,Pakistan,Germany,335.0
+2020,Paraguay,Germany,270.0
+2020,Peru,Germany,389.0
+2020,Philippinen,Germany,542.0
+2020,Polen,Germany,2276.0
+2020,Portugal,Germany,986.0
+2020,Ruanda,Germany,27.0
+2020,Rumänien,Germany,628.0
+2020,Russische Föderation,Germany,3194.0
+2020,Saudi-Arabien,Germany,200.0
+2020,Schweden,Germany,972.0
+2020,Schweiz,Germany,9726.0
+2020,Senegal,Germany,75.0
+2020,Serbien,Germany,183.0
+2020,Singapur,Germany,689.0
+2020,Slowakei,Germany,108.0
+2020,Slowenien,Germany,62.0
+2020,Somalia,Germany,12.0
+2020,Spanien,Germany,5206.0
+2020,Syrien,Germany,78.0
+2020,Südafrika,Germany,1088.0
+2020,Tadschikistan,Germany,27.0
+2020,Tansania,Germany,129.0
+2020,Thailand,Germany,1317.0
+2020,Tschechien,Germany,596.0
+2020,Tunesien,Germany,328.0
+2020,Türkei,Germany,4462.0
+2020,Uganda,Germany,88.0
+2020,Ukraine,Germany,677.0
+2020,Unbekanntes Ausland,Germany,1148.0
+2020,Ungarn,Germany,611.0
+2020,Ungeklärt / Ohne Angabe,Germany,92247.0
+2020,Uruguay,Germany,96.0
+2020,Usbekistan,Germany,37.0
+2020,"Venezuela, Bolivarische Republik",Germany,124.0
+2020,Vereinigte Arabische Emirate,Germany,1267.0
+2020,Vereinigte Staaten,Germany,9073.0
+2020,Vereinigtes Königreich,Germany,6068.0
+2020,Vietnam,Germany,364.0
+2020,Zentralafrikanische Republik,Germany,20.0
+2020,Zypern,Germany,194.0
+2020,Ägypten,Germany,579.0
+2020,Äthiopien,Germany,176.0
+2020,Österreich,Germany,6334.0
+2020,Übriges Afrika,Germany,716.0
+2020,Übriges Amerika,Germany,866.0
+2020,Übriges Asien,Germany,1415.0
+2020,Übriges Europa,Germany,95.0
+2020,Übriges Ozeanien,Germany,61.0
+2021,Afghanistan,Germany,168.0
+2021,Albanien,Germany,55.0
+2021,Algerien,Germany,152.0
+2021,Andorra,Germany,7.0
+2021,Angola,Germany,29.0
+2021,Argentinien,Germany,565.0
+2021,Armenien,Germany,42.0
+2021,Aserbaidschan,Germany,42.0
+2021,Australien,Germany,1085.0
+2021,Belarus,Germany,159.0
+2021,Belgien,Germany,1746.0
+2021,"Bolivien, Plurinationaler Staat",Germany,228.0
+2021,Bosnien und Herzegowina,Germany,104.0
+2021,Brasilien,Germany,1090.0
+2021,Bulgarien,Germany,296.0
+2021,Chile,Germany,540.0
+2021,China,Germany,1565.0
+2021,Costa Rica,Germany,144.0
+2021,Cote d'Ivoire,Germany,28.0
+2021,Dänemark,Germany,720.0
+2021,Estland,Germany,52.0
+2021,Finnland,Germany,208.0
+2021,Frankreich,Germany,4292.0
+2021,Georgien,Germany,78.0
+2021,Ghana,Germany,167.0
+2021,Griechenland,Germany,552.0
+2021,Honduras,Germany,38.0
+2021,Indien,Germany,360.0
+2021,Indonesien,Germany,240.0
+2021,Irak,Germany,628.0
+2021,"Iran, Islamische Republik",Germany,254.0
+2021,Irland,Germany,693.0
+2021,Island,Germany,56.0
+2021,Israel,Germany,439.0
+2021,Italien,Germany,1661.0
+2021,Japan,Germany,502.0
+2021,Jemen,Germany,5.0
+2021,Jordanien,Germany,216.0
+2021,Kamerun,Germany,82.0
+2021,Kanada,Germany,1242.0
+2021,Kasachstan,Germany,2867.0
+2021,Kenia,Germany,209.0
+2021,Kirgisistan,Germany,197.0
+2021,Kolumbien,Germany,409.0
+2021,"Kongo, Demokratische Republik",Germany,32.0
+2021,"Kongo, Republik",Germany,4.0
+2021,"Korea, Demokratische Volksrepublik",Germany,14.0
+2021,"Korea, Republik",Germany,208.0
+2021,Kosovo,Germany,117.0
+2021,Kroatien,Germany,250.0
+2021,Kuwait,Germany,30.0
+2021,Lettland,Germany,111.0
+2021,Libanon,Germany,792.0
+2021,Libyen,Germany,25.0
+2021,Litauen,Germany,72.0
+2021,Luxemburg,Germany,585.0
+2021,Malta,Germany,141.0
+2021,Marokko,Germany,367.0
+2021,Mexiko,Germany,961.0
+2021,Montenegro (ab 03.06.2006),Germany,44.0
+2021,Namibia,Germany,229.0
+2021,Neuseeland,Germany,351.0
+2021,Nicaragua,Germany,49.0
+2021,Niederlande,Germany,2699.0
+2021,Niger,Germany,21.0
+2021,Nigeria,Germany,172.0
+2021,Nordmazedonien,Germany,61.0
+2021,Norwegen,Germany,573.0
+2021,Pakistan,Germany,317.0
+2021,Paraguay,Germany,305.0
+2021,Peru,Germany,384.0
+2021,Philippinen,Germany,429.0
+2021,Polen,Germany,1915.0
+2021,Portugal,Germany,953.0
+2021,Ruanda,Germany,39.0
+2021,Rumänien,Germany,545.0
+2021,Russische Föderation,Germany,4848.0
+2021,Saudi-Arabien,Germany,180.0
+2021,Schweden,Germany,1067.0
+2021,Schweiz,Germany,9447.0
+2021,Senegal,Germany,50.0
+2021,Serbien,Germany,164.0
+2021,Singapur,Germany,667.0
+2021,Slowakei,Germany,85.0
+2021,Slowenien,Germany,59.0
+2021,Somalia,Germany,15.0
+2021,Spanien,Germany,4270.0
+2021,Syrien,Germany,102.0
+2021,Südafrika,Germany,950.0
+2021,Tadschikistan,Germany,19.0
+2021,Tansania,Germany,98.0
+2021,Thailand,Germany,894.0
+2021,Tschechien,Germany,502.0
+2021,Tunesien,Germany,368.0
+2021,Türkei,Germany,5132.0
+2021,Uganda,Germany,114.0
+2021,Ukraine,Germany,808.0
+2021,Unbekanntes Ausland,Germany,1090.0
+2021,Ungarn,Germany,554.0
+2021,Ungeklärt / Ohne Angabe,Germany,91486.0
+2021,Uruguay,Germany,68.0
+2021,Usbekistan,Germany,52.0
+2021,"Venezuela, Bolivarische Republik",Germany,176.0
+2021,Vereinigte Arabische Emirate,Germany,954.0
+2021,Vereinigte Staaten,Germany,7459.0
+2021,Vereinigtes Königreich,Germany,4841.0
+2021,Vietnam,Germany,254.0
+2021,Zentralafrikanische Republik,Germany,11.0
+2021,Zypern,Germany,214.0
+2021,Ägypten,Germany,473.0
+2021,Äthiopien,Germany,175.0
+2021,Österreich,Germany,6415.0
+2021,Übriges Afrika,Germany,565.0
+2021,Übriges Amerika,Germany,859.0
+2021,Übriges Asien,Germany,985.0
+2021,Übriges Europa,Germany,125.0
+2021,Übriges Ozeanien,Germany,48.0
+2022,Afghanistan,Germany,160.0
+2022,Albanien,Germany,56.0
+2022,Algerien,Germany,173.0
+2022,Andorra,Germany,8.0
+2022,Angola,Germany,14.0
+2022,Argentinien,Germany,458.0
+2022,Armenien,Germany,40.0
+2022,Aserbaidschan,Germany,39.0
+2022,Australien,Germany,1623.0
+2022,Belarus,Germany,261.0
+2022,Belgien,Germany,1514.0
+2022,"Bolivien, Plurinationaler Staat",Germany,214.0
+2022,Bosnien und Herzegowina,Germany,105.0
+2022,Brasilien,Germany,1125.0
+2022,Bulgarien,Germany,365.0
+2022,Chile,Germany,533.0
+2022,China,Germany,1949.0
+2022,Costa Rica,Germany,209.0
+2022,Cote d'Ivoire,Germany,44.0
+2022,Dänemark,Germany,808.0
+2022,Estland,Germany,49.0
+2022,Finnland,Germany,244.0
+2022,Frankreich,Germany,4067.0
+2022,Georgien,Germany,129.0
+2022,Ghana,Germany,219.0
+2022,Griechenland,Germany,679.0
+2022,Honduras,Germany,27.0
+2022,Indien,Germany,393.0
+2022,Indonesien,Germany,270.0
+2022,Irak,Germany,682.0
+2022,"Iran, Islamische Republik",Germany,272.0
+2022,Irland,Germany,635.0
+2022,Island,Germany,55.0
+2022,Israel,Germany,412.0
+2022,Italien,Germany,1746.0
+2022,Japan,Germany,482.0
+2022,Jemen,Germany,19.0
+2022,Jordanien,Germany,271.0
+2022,Kamerun,Germany,94.0
+2022,Kanada,Germany,1224.0
+2022,Kasachstan,Germany,2738.0
+2022,Kenia,Germany,262.0
+2022,Kirgisistan,Germany,124.0
+2022,Kolumbien,Germany,419.0
+2022,"Kongo, Demokratische Republik",Germany,31.0
+2022,"Kongo, Republik",Germany,14.0
+2022,"Korea, Demokratische Volksrepublik",Germany,17.0
+2022,"Korea, Republik",Germany,238.0
+2022,Kosovo,Germany,144.0
+2022,Kroatien,Germany,350.0
+2022,Kuwait,Germany,39.0
+2022,Lettland,Germany,113.0
+2022,Libanon,Germany,589.0
+2022,Libyen,Germany,53.0
+2022,Litauen,Germany,80.0
+2022,Luxemburg,Germany,495.0
+2022,Malta,Germany,142.0
+2022,Marokko,Germany,412.0
+2022,Mexiko,Germany,967.0
+2022,Montenegro (ab 03.06.2006),Germany,61.0
+2022,Namibia,Germany,233.0
+2022,Neuseeland,Germany,500.0
+2022,Nicaragua,Germany,39.0
+2022,Niederlande,Germany,2344.0
+2022,Niger,Germany,30.0
+2022,Nigeria,Germany,238.0
+2022,Nordmazedonien,Germany,65.0
+2022,Norwegen,Germany,629.0
+2022,Pakistan,Germany,365.0
+2022,Paraguay,Germany,423.0
+2022,Peru,Germany,376.0
+2022,Philippinen,Germany,398.0
+2022,Polen,Germany,2170.0
+2022,Portugal,Germany,1209.0
+2022,Ruanda,Germany,43.0
+2022,Rumänien,Germany,679.0
+2022,Russische Föderation,Germany,5622.0
+2022,Saudi-Arabien,Germany,150.0
+2022,Schweden,Germany,1155.0
+2022,Schweiz,Germany,8581.0
+2022,Senegal,Germany,55.0
+2022,Serbien,Germany,213.0
+2022,Singapur,Germany,525.0
+2022,Slowakei,Germany,92.0
+2022,Slowenien,Germany,95.0
+2022,Somalia,Germany,18.0
+2022,Spanien,Germany,4443.0
+2022,Syrien,Germany,156.0
+2022,Südafrika,Germany,986.0
+2022,Tadschikistan,Germany,20.0
+2022,Tansania,Germany,111.0
+2022,Thailand,Germany,1092.0
+2022,Tschechien,Germany,485.0
+2022,Tunesien,Germany,394.0
+2022,Türkei,Germany,5974.0
+2022,Uganda,Germany,82.0
+2022,Ukraine,Germany,2265.0
+2022,Unbekanntes Ausland,Germany,1255.0
+2022,Ungarn,Germany,652.0
+2022,Ungeklärt / Ohne Angabe,Germany,89397.0
+2022,Uruguay,Germany,79.0
+2022,Usbekistan,Germany,33.0
+2022,"Venezuela, Bolivarische Republik",Germany,115.0
+2022,Vereinigte Arabische Emirate,Germany,909.0
+2022,Vereinigte Staaten,Germany,6959.0
+2022,Vereinigtes Königreich,Germany,4045.0
+2022,Vietnam,Germany,253.0
+2022,Zentralafrikanische Republik,Germany,7.0
+2022,Zypern,Germany,320.0
+2022,Ägypten,Germany,551.0
+2022,Äthiopien,Germany,123.0
+2022,Österreich,Germany,6255.0
+2022,Übriges Afrika,Germany,677.0
+2022,Übriges Amerika,Germany,925.0
+2022,Übriges Asien,Germany,843.0
+2022,Übriges Europa,Germany,100.0
+2022,Übriges Ozeanien,Germany,45.0
+2023,Afghanistan,Germany,105.0
+2023,Albanien,Germany,77.0
+2023,Algerien,Germany,224.0
+2023,Andorra,Germany,14.0
+2023,Angola,Germany,17.0
+2023,Argentinien,Germany,478.0
+2023,Armenien,Germany,53.0
+2023,Aserbaidschan,Germany,38.0
+2023,Australien,Germany,1825.0
+2023,Belarus,Germany,162.0
+2023,Belgien,Germany,1427.0
+2023,"Bolivien, Plurinationaler Staat",Germany,277.0
+2023,Bosnien und Herzegowina,Germany,124.0
+2023,Brasilien,Germany,1240.0
+2023,Bulgarien,Germany,454.0
+2023,Chile,Germany,499.0
+2023,China,Germany,1645.0
+2023,Costa Rica,Germany,235.0
+2023,Cote d'Ivoire,Germany,28.0
+2023,Dänemark,Germany,975.0
+2023,Estland,Germany,65.0
+2023,Finnland,Germany,228.0
+2023,Frankreich,Germany,4120.0
+2023,Georgien,Germany,168.0
+2023,Ghana,Germany,226.0
+2023,Griechenland,Germany,799.0
+2023,Honduras,Germany,30.0
+2023,Indien,Germany,442.0
+2023,Indonesien,Germany,419.0
+2023,Irak,Germany,580.0
+2023,"Iran, Islamische Republik",Germany,304.0
+2023,Irland,Germany,642.0
+2023,Island,Germany,78.0
+2023,Israel,Germany,775.0
+2023,Italien,Germany,1914.0
+2023,Japan,Germany,592.0
+2023,Jemen,Germany,15.0
+2023,Jordanien,Germany,286.0
+2023,Kamerun,Germany,123.0
+2023,Kanada,Germany,1495.0
+2023,Kasachstan,Germany,2744.0
+2023,Kenia,Germany,221.0
+2023,Kirgisistan,Germany,230.0
+2023,Kolumbien,Germany,489.0
+2023,"Kongo, Demokratische Republik",Germany,29.0
+2023,"Korea, Demokratische Volksrepublik",Germany,9.0
+2023,"Korea, Republik",Germany,270.0
+2023,Kosovo,Germany,145.0
+2023,Kroatien,Germany,391.0
+2023,Kuwait,Germany,34.0
+2023,Lettland,Germany,131.0
+2023,Libanon,Germany,616.0
+2023,Libyen,Germany,49.0
+2023,Litauen,Germany,82.0
+2023,Luxemburg,Germany,481.0
+2023,Malta,Germany,158.0
+2023,Marokko,Germany,450.0
+2023,Mexiko,Germany,992.0
+2023,Montenegro (ab 03.06.2006),Germany,75.0
+2023,Namibia,Germany,215.0
+2023,Neuseeland,Germany,658.0
+2023,Nicaragua,Germany,43.0
+2023,Niederlande,Germany,2373.0
+2023,Niger,Germany,27.0
+2023,Nigeria,Germany,201.0
+2023,Nordmazedonien,Germany,56.0
+2023,Norwegen,Germany,694.0
+2023,Pakistan,Germany,482.0
+2023,Paraguay,Germany,566.0
+2023,Peru,Germany,345.0
+2023,Philippinen,Germany,492.0
+2023,Polen,Germany,1961.0
+2023,Portugal,Germany,1426.0
+2023,Ruanda,Germany,30.0
+2023,Rumänien,Germany,640.0
+2023,Russische Föderation,Germany,4967.0
+2023,Saudi-Arabien,Germany,150.0
+2023,Schweden,Germany,1201.0
+2023,Schweiz,Germany,8340.0
+2023,Senegal,Germany,90.0
+2023,Serbien,Germany,207.0
+2023,Singapur,Germany,531.0
+2023,Slowakei,Germany,96.0
+2023,Slowenien,Germany,71.0
+2023,Somalia,Germany,16.0
+2023,Spanien,Germany,4817.0
+2023,Syrien,Germany,126.0
+2023,Südafrika,Germany,797.0
+2023,Tadschikistan,Germany,21.0
+2023,Tansania,Germany,127.0
+2023,Thailand,Germany,1229.0
+2023,Tschechien,Germany,505.0
+2023,Tunesien,Germany,350.0
+2023,Türkei,Germany,6907.0
+2023,Uganda,Germany,119.0
+2023,Ukraine,Germany,369.0
+2023,Unbekanntes Ausland,Germany,1110.0
+2023,Ungarn,Germany,787.0
+2023,Ungeklärt / Ohne Angabe,Germany,95026.0
+2023,Uruguay,Germany,105.0
+2023,Usbekistan,Germany,56.0
+2023,"Venezuela, Bolivarische Republik",Germany,133.0
+2023,Vereinigte Arabische Emirate,Germany,854.0
+2023,Vereinigte Staaten,Germany,6887.0
+2023,Vereinigtes Königreich,Germany,3814.0
+2023,Vietnam,Germany,307.0
+2023,Zentralafrikanische Republik,Germany,13.0
+2023,Zypern,Germany,349.0
+2023,Ägypten,Germany,551.0
+2023,Äthiopien,Germany,114.0
+2023,Österreich,Germany,6155.0
+2023,Übriges Afrika,Germany,836.0
+2023,Übriges Amerika,Germany,971.0
+2023,Übriges Asien,Germany,1044.0
+2023,Übriges Europa,Germany,137.0
+2023,Übriges Ozeanien,Germany,58.0
+2024,Afghanistan,Germany,98.0
+2024,Albanien,Germany,77.0
+2024,Algerien,Germany,161.0
+2024,Andorra,Germany,11.0
+2024,Angola,Germany,33.0
+2024,Argentinien,Germany,366.0
+2024,Armenien,Germany,45.0
+2024,Aserbaidschan,Germany,34.0
+2024,Australien,Germany,2175.0
+2024,Belarus,Germany,114.0
+2024,Belgien,Germany,1442.0
+2024,"Bolivien, Plurinationaler Staat",Germany,274.0
+2024,Bosnien und Herzegowina,Germany,104.0
+2024,Brasilien,Germany,1118.0
+2024,Bulgarien,Germany,445.0
+2024,Chile,Germany,481.0
+2024,China,Germany,1390.0
+2024,Costa Rica,Germany,244.0
+2024,Cote d'Ivoire,Germany,32.0
+2024,Dänemark,Germany,1075.0
+2024,Estland,Germany,74.0
+2024,Finnland,Germany,263.0
+2024,Frankreich,Germany,4239.0
+2024,Georgien,Germany,149.0
+2024,Ghana,Germany,203.0
+2024,Griechenland,Germany,773.0
+2024,Honduras,Germany,22.0
+2024,Indien,Germany,488.0
+2024,Indonesien,Germany,439.0
+2024,Irak,Germany,626.0
+2024,"Iran, Islamische Republik",Germany,255.0
+2024,Irland,Germany,653.0
+2024,Island,Germany,63.0
+2024,Israel,Germany,553.0
+2024,Italien,Germany,1920.0
+2024,Japan,Germany,601.0
+2024,Jemen,Germany,20.0
+2024,Jordanien,Germany,239.0
+2024,Kamerun,Germany,146.0
+2024,Kanada,Germany,1645.0
+2024,Kasachstan,Germany,1699.0
+2024,Kenia,Germany,260.0
+2024,Kirgisistan,Germany,152.0
+2024,Kolumbien,Germany,399.0
+2024,"Kongo, Demokratische Republik",Germany,38.0
+2024,"Kongo, Republik",Germany,5.0
+2024,"Korea, Demokratische Volksrepublik",Germany,18.0
+2024,"Korea, Republik",Germany,245.0
+2024,Kosovo,Germany,142.0
+2024,Kroatien,Germany,370.0
+2024,Kuwait,Germany,36.0
+2024,Lettland,Germany,99.0
+2024,Libanon,Germany,1191.0
+2024,Libyen,Germany,68.0
+2024,Litauen,Germany,69.0
+2024,Luxemburg,Germany,435.0
+2024,Malta,Germany,167.0
+2024,Marokko,Germany,432.0
+2024,Mexiko,Germany,876.0
+2024,Montenegro (ab 03.06.2006),Germany,69.0
+2024,Namibia,Germany,209.0
+2024,Neuseeland,Germany,752.0
+2024,Nicaragua,Germany,42.0
+2024,Niederlande,Germany,2421.0
+2024,Niger,Germany,14.0
+2024,Nigeria,Germany,212.0
+2024,Nordmazedonien,Germany,52.0
+2024,Norwegen,Germany,739.0
+2024,Pakistan,Germany,410.0
+2024,Paraguay,Germany,528.0
+2024,Peru,Germany,319.0
+2024,Philippinen,Germany,485.0
+2024,Polen,Germany,1786.0
+2024,Portugal,Germany,1354.0
+2024,Ruanda,Germany,53.0
+2024,Rumänien,Germany,764.0
+2024,Russische Föderation,Germany,3682.0
+2024,Saudi-Arabien,Germany,213.0
+2024,Schweden,Germany,1187.0
+2024,Schweiz,Germany,8378.0
+2024,Senegal,Germany,72.0
+2024,Serbien,Germany,220.0
+2024,Singapur,Germany,438.0
+2024,Slowakei,Germany,81.0
+2024,Slowenien,Germany,99.0
+2024,Somalia,Germany,23.0
+2024,Spanien,Germany,4954.0
+2024,Sudan (ohne Südsudan) (ab 09.07.2011),Germany,19.0
+2024,Syrien,Germany,140.0
+2024,Südafrika,Germany,779.0
+2024,Südsudan (ab 09.07.2011),Germany,10.0
+2024,Tadschikistan,Germany,29.0
+2024,Tansania,Germany,158.0
+2024,Thailand,Germany,1333.0
+2024,Tschechien,Germany,538.0
+2024,Tunesien,Germany,373.0
+2024,Türkei,Germany,5502.0
+2024,Uganda,Germany,103.0
+2024,Ukraine,Germany,310.0
+2024,Unbekanntes Ausland,Germany,1039.0
+2024,Ungarn,Germany,721.0
+2024,Ungeklärt / Ohne Angabe,Germany,96241.0
+2024,Uruguay,Germany,120.0
+2024,Usbekistan,Germany,61.0
+2024,"Venezuela, Bolivarische Republik",Germany,107.0
+2024,Vereinigte Arabische Emirate,Germany,1021.0
+2024,Vereinigte Staaten,Germany,6835.0
+2024,Vereinigtes Königreich,Germany,3659.0
+2024,Vietnam,Germany,286.0
+2024,Zentralafrikanische Republik,Germany,8.0
+2024,Zypern,Germany,349.0
+2024,Ägypten,Germany,619.0
+2024,Äthiopien,Germany,104.0
+2024,Österreich,Germany,6520.0
+2024,Übriges Afrika,Germany,634.0
+2024,Übriges Amerika,Germany,893.0
+2024,Übriges Asien,Germany,1094.0
+2024,Übriges Europa,Germany,94.0
+2024,Übriges Ozeanien,Germany,61.0

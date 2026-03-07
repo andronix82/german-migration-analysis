@@ -14,8 +14,6 @@ Primary publication source:
 
 - Source: [Statistischer Bericht – Wanderungen 2024](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Wanderungen/Publikationen/Downloads-Wanderungen/statistischer-bericht-wanderungen-2010120247005.html?templateQueryString=wanderungen+altersgruppen)
 
-This report provides aggregated migration statistics and serves as a reference for validating extracted data.
-
 ---
 
 ### GENESIS Database
@@ -30,19 +28,11 @@ Tables used:
 - **12711-0006** — Migration of German citizens by destination country  
 - **12711-0008** — Migration of German citizens by age group  
 
-Extraction filters used in GENESIS:
-
-![filter_genesis_destatis_12711_0006_destination_country](images/filter_genesis_destatis_12711_0006_destination_country.png)
-
-![filter_genisis_destatis_12711_0008_age_groups](images/filter_genisis_destatis_12711_0008_age_groups.png)
-
 Raw exports were stored in: `/data/raw`
 
 ---
 
 ## Step 2 — Cleaning Raw Data
-
-The exported GENESIS tables were transformed into a standardized long-format structure.
 
 Cleaning steps included:
 
@@ -52,75 +42,31 @@ Cleaning steps included:
 - Removing metadata rows and unnecessary header levels
 - Validating missing values and formatting consistency
 
-Standard column structure: 
-
-- year
-- direction
-- value
-- dimension_type
-- dimension_value
-
-
-Cleaned datasets were saved as:
-
-- `migration_totals_long_clean.csv`
-- `migration_country_long_clean.csv`
-- `migration_age_long_clean.csv`
-
-Stored in: `/data/processed`
+Cleaned datasets saved in: `/data/processed`
 
 ---
 
 ## Step 3 — Dataset Integration
 
-The three cleaned datasets were combined into a unified **master dataset**.
+Combined datasets into a unified **master dataset**:
 
-Output file: `migration_master_dataset.csv`
-
-Dataset structure:
-
-- year
-- dimension_type
-- dimension_value
-- direction
-- value
-
-
-Dimension types:
-
-| dimension_type | description |
-|----------------|-------------|
-| global | total migration flows |
-| country | migration by destination country |
-| age | migration by age group |
-
-The long-format structure allows flexible pivoting for different analytical perspectives.
+- `migration_master_dataset.csv`
+- Structure: year, dimension_type, dimension_value, direction, value
+- Dimension types: global, country, age
 
 ---
 
 ## Step 4 — Feature Engineering
 
-Additional analytical variables were derived from the master dataset.
-
 ### Net Migration
-
-Net migration measures the difference between immigration and emigration.
-
-Formula:
 
 *Net Migration = Immigration − Emigration*
 
----
-
 ### Return Rate
-
-Return rate measures how many emigrants return relative to those who leave.
-
-Formula:
 
 *Return Rate = Immigration ÷ Emigration*
 
-Return rates were calculated on three aggregation levels:
+Calculated at:
 
 - Global
 - By country
@@ -136,8 +82,6 @@ Generated datasets:
 
 ## Step 5 — Exploratory Data Analysis (EDA)
 
-Initial exploratory analysis focuses on identifying trends and structural changes in migration flows.
-
 EDA includes:
 
 - Time-series visualization of **immigration and emigration**
@@ -145,27 +89,31 @@ EDA includes:
 - Analysis of **return rate trends**
 - Identification of **peak years and anomalies**
 
-The exploratory analysis is performed in: `/notebooks/01_eda_migration.ipynb`
+---
+
+## Step 6 — Country-Level Analysis (Block 2)
+
+Country-level analysis added after initial EDA:
+
+- Top destination countries: Switzerland, United States, Austria  
+- Return rates highlight temporary vs permanent migration:
+  - Highest return rate: Kazakhstan  
+  - Lowest return rate: Switzerland  
+- Migration flow volatility observed for key countries, especially Switzerland
+
+This step allows deeper insights into **destination-specific migration trends** and **country-level volatility**, which is critical for workforce and talent planning.
+
+---
+
+### Methodological Break in 2016
+
+Statistical recording of emigration changed in 2016, including systematic inclusion of unknown destinations and register cleanups. This must be considered when interpreting trends.
 
 ---
 
 ## Next Steps
 
-Further analysis will extend the project in several directions:
-
-1. **Country-Level Migration Analysis**
-   - Identify major destination countries
-   - Analyze migration concentration patterns
-
-2. **Age Structure Analysis**
-   - Detect demographic shifts in migration behaviour
-   - Identify potential brain drain patterns
-
-3. **Integration of Secondary Data**
-   - Economic indicators
-   - Labour market data
-   - Cost of living indices
-
-4. **Visualization and Dashboard Development**
-   - Interactive Tableau dashboard
-   - Migration trend storytelling
+1. Age structure analysis
+2. Integration of secondary socio-economic data
+3. Dashboard creation
+4. Migration Network analysis (Block 3)

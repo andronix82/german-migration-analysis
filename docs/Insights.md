@@ -7,68 +7,64 @@ Insights will be updated as the analysis progresses.
 
 ---
 
-## Initial Global Migration Trends (2000–2023)
-
-The first exploratory analysis focused on the **global migration balance of German citizens**.
+## Global Migration Trends (2000–2023)
 
 ### Net Migration
 
-- The **highest net migration** was observed in **2001**.
-- The **lowest net migration** occurred in **2016**.
-- In most years, **immigration exceeded emigration**, resulting in positive net migration.
-
-This suggests that a large share of German emigrants eventually return to Germany.
-
----
+- Highest net migration: **2001**  
+- Lowest net migration: **2016**  
+- In most years, immigration exceeded emigration → positive net migration
 
 ### Return Rate
 
-Return Rate is defined as:
+- Defined as: *Return Rate = Immigration ÷ Emigration*  
+- Highest return rate: **2001**  
+- Lowest return rate: **2016**  
+- Strongest relative increase: **2017**
 
-*Return Rate = Immigration ÷ Emigration*
+---
 
-Key observations:
+## Country-Level Insights (Block 2)
 
-- **Highest return rate:** 2001  
-- **Lowest return rate:** 2016  
-- **Strongest relative increase in return rate:** 2017
+Key destination countries for German emigrants:
 
-The return rate varies significantly between years, indicating that **external factors likely influence migration behaviour**.
+| Country       | Return Rate | Volatility | Observation |
+|---------------|------------|------------|-------------|
+| Switzerland   | Low        | High       | High emigration but few returns; long-term moves |
+| United States | Medium     | Medium     | Steady destination, moderate returns |
+| Austria       | Medium     | Medium     | Consistent destination with moderate returns |
+| Kazakhstan    | Very High  | Low        | Mostly temporary emigration |
+
+Observations:
+
+- Migration flows to Switzerland dominate numerically, but returns are rare → indicates permanent relocation.  
+- Smaller destinations like Kazakhstan have very high return rates → indicative of temporary work/study migration.  
+- Volatility in migration flows is highest for Switzerland → may reflect economic or regulatory factors affecting movement.
 
 ---
 
 ### Structural Changes in Migration Flows
 
-Visual inspection of migration trends indicates several potential structural shifts:
-- **2001-2006:** Return rate decreased significantly and remained permanently below 1.
-- **2005:** Since this year, emigration has been higher than immigration. Immigration has declined significantly.
-- **2015-2019:** High sustained increase in immigration. 
-- **2016:** Major peak in emigration. Emigration has remained high.
-- **2020:** Declining migration activity.
-- **2021:** Emigration has returned to a high level. Immigration remained reduced.
-
-These periods may correspond to **economic, political, or global events**, which will be examined in later stages of the project.
+- 2001–2006: Return rate decreased, remained below 1  
+- 2005: Emigration exceeded immigration, sustained decline in immigration  
+- 2015–2019: High sustained increase in immigration  
+- 2016: Major peak in emigration (methodological break)  
+- 2020: Decline in migration activity  
+- 2021: Emigration returned to high levels, immigration reduced  
 
 ---
 
-## Current Insight Status
+### Methodological Break in 2016
 
-At this stage, the analysis focuses only on **global migration flows**.
-
-Further insights will be developed through:
-
-- **Country-level migration analysis**
-- **Age-group migration patterns**
-- **Integration of external socio-economic indicators**
+- Spike in emigration due to **inclusion of unknown destinations** and **register corrections**  
+- 2016 data not directly comparable with previous years
 
 ---
 
-## Upcoming Analytical Steps
+## Next Analytical Steps
 
-Next analytical steps include:
-
-1. Destination country analysis
-2. Age-group migration analysis
-3. Migration concentration analysis
-4. Integration of external explanatory variables
-5. Dashboard creation and data storytelling
+1. Age-group migration analysis  
+2. Migration concentration analysis  
+3. Integration of external explanatory variables  
+4. Dashboard creation and data storytelling  
+5. Migration Network (Block 3)

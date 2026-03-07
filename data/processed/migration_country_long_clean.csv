@@ -57,8 +57,6 @@ year,dimension_type,dimension_value,direction,value
 2000,country,Indien,immigration,453
 2000,country,Indonesien,emigration,251
 2000,country,Indonesien,immigration,282
-2000,country,Insgesamt,emigration,111244
-2000,country,Insgesamt,immigration,191909
 2000,country,Irak,emigration,12
 2000,country,Irak,immigration,48
 2000,country,"Iran, Islamische Republik",emigration,82
@@ -293,8 +291,6 @@ year,dimension_type,dimension_value,direction,value
 2001,country,Indien,immigration,462
 2001,country,Indonesien,emigration,276
 2001,country,Indonesien,immigration,323
-2001,country,Insgesamt,emigration,109507
-2001,country,Insgesamt,immigration,193958
 2001,country,Irak,emigration,17
 2001,country,Irak,immigration,80
 2001,country,"Iran, Islamische Republik",emigration,90
@@ -529,8 +525,6 @@ year,dimension_type,dimension_value,direction,value
 2002,country,Indien,immigration,414
 2002,country,Indonesien,emigration,212
 2002,country,Indonesien,immigration,302
-2002,country,Insgesamt,emigration,117683
-2002,country,Insgesamt,immigration,184202
 2002,country,Irak,emigration,24
 2002,country,Irak,immigration,45
 2002,country,"Iran, Islamische Republik",emigration,155
@@ -765,8 +759,6 @@ year,dimension_type,dimension_value,direction,value
 2003,country,Indien,immigration,387
 2003,country,Indonesien,emigration,196
 2003,country,Indonesien,immigration,251
-2003,country,Insgesamt,emigration,127267
-2003,country,Insgesamt,immigration,167216
 2003,country,Irak,emigration,72
 2003,country,Irak,immigration,64
 2003,country,"Iran, Islamische Republik",emigration,194
@@ -1001,8 +993,6 @@ year,dimension_type,dimension_value,direction,value
 2004,country,Indien,immigration,378
 2004,country,Indonesien,emigration,220
 2004,country,Indonesien,immigration,258
-2004,country,Insgesamt,emigration,150667
-2004,country,Insgesamt,immigration,177993
 2004,country,Irak,emigration,162
 2004,country,Irak,immigration,48
 2004,country,"Iran, Islamische Republik",emigration,313
@@ -1237,8 +1227,6 @@ year,dimension_type,dimension_value,direction,value
 2005,country,Indien,immigration,438
 2005,country,Indonesien,emigration,309
 2005,country,Indonesien,immigration,246
-2005,country,Insgesamt,emigration,144815
-2005,country,Insgesamt,immigration,128051
 2005,country,Irak,emigration,217
 2005,country,Irak,immigration,95
 2005,country,"Iran, Islamische Republik",emigration,313
@@ -1473,8 +1461,6 @@ year,dimension_type,dimension_value,direction,value
 2006,country,Indien,immigration,464
 2006,country,Indonesien,emigration,346
 2006,country,Indonesien,immigration,241
-2006,country,Insgesamt,emigration,155290
-2006,country,Insgesamt,immigration,103388
 2006,country,Irak,emigration,309
 2006,country,Irak,immigration,163
 2006,country,"Iran, Islamische Republik",emigration,306
@@ -1709,8 +1695,6 @@ year,dimension_type,dimension_value,direction,value
 2007,country,Indien,immigration,488
 2007,country,Indonesien,emigration,281
 2007,country,Indonesien,immigration,297
-2007,country,Insgesamt,emigration,161105
-2007,country,Insgesamt,immigration,106014
 2007,country,Irak,emigration,278
 2007,country,Irak,immigration,231
 2007,country,"Iran, Islamische Republik",emigration,354
@@ -1945,8 +1929,6 @@ year,dimension_type,dimension_value,direction,value
 2008,country,Indien,immigration,611
 2008,country,Indonesien,emigration,308
 2008,country,Indonesien,immigration,284
-2008,country,Insgesamt,emigration,174759
-2008,country,Insgesamt,immigration,108331
 2008,country,Irak,emigration,340
 2008,country,Irak,immigration,232
 2008,country,"Iran, Islamische Republik",emigration,340
@@ -2181,8 +2163,6 @@ year,dimension_type,dimension_value,direction,value
 2009,country,Indien,immigration,752
 2009,country,Indonesien,emigration,321
 2009,country,Indonesien,immigration,314
-2009,country,Insgesamt,emigration,154988
-2009,country,Insgesamt,immigration,114700
 2009,country,Irak,emigration,517
 2009,country,Irak,immigration,212
 2009,country,"Iran, Islamische Republik",emigration,393
@@ -2417,8 +2397,6 @@ year,dimension_type,dimension_value,direction,value
 2010,country,Indien,immigration,724
 2010,country,Indonesien,emigration,363
 2010,country,Indonesien,immigration,352
-2010,country,Insgesamt,emigration,141000
-2010,country,Insgesamt,immigration,114752
 2010,country,Irak,emigration,766
 2010,country,Irak,immigration,312
 2010,country,"Iran, Islamische Republik",emigration,380
@@ -2653,8 +2631,6 @@ year,dimension_type,dimension_value,direction,value
 2011,country,Indien,immigration,789
 2011,country,Indonesien,emigration,318
 2011,country,Indonesien,immigration,361
-2011,country,Insgesamt,emigration,140132
-2011,country,Insgesamt,immigration,116604
 2011,country,Irak,emigration,1024
 2011,country,Irak,immigration,535
 2011,country,"Iran, Islamische Republik",emigration,367
@@ -2889,8 +2865,6 @@ year,dimension_type,dimension_value,direction,value
 2012,country,Indien,immigration,822
 2012,country,Indonesien,emigration,365
 2012,country,Indonesien,immigration,332
-2012,country,Insgesamt,emigration,133232
-2012,country,Insgesamt,immigration,115028
 2012,country,Irak,emigration,1268
 2012,country,Irak,immigration,638
 2012,country,"Iran, Islamische Republik",emigration,367
@@ -3125,8 +3099,6 @@ year,dimension_type,dimension_value,direction,value
 2013,country,Indien,immigration,914
 2013,country,Indonesien,emigration,420
 2013,country,Indonesien,immigration,369
-2013,country,Insgesamt,emigration,140282
-2013,country,Insgesamt,immigration,118425
 2013,country,Irak,emigration,1373
 2013,country,Irak,immigration,787
 2013,country,"Iran, Islamische Republik",emigration,357
@@ -3361,8 +3333,6 @@ year,dimension_type,dimension_value,direction,value
 2014,country,Indien,immigration,842
 2014,country,Indonesien,emigration,439
 2014,country,Indonesien,immigration,408
-2014,country,Insgesamt,emigration,148636
-2014,country,Insgesamt,immigration,122195
 2014,country,Irak,emigration,1262
 2014,country,Irak,immigration,1432
 2014,country,"Iran, Islamische Republik",emigration,380
@@ -3597,8 +3567,6 @@ year,dimension_type,dimension_value,direction,value
 2015,country,Indien,immigration,829
 2015,country,Indonesien,emigration,355
 2015,country,Indonesien,immigration,405
-2015,country,Insgesamt,emigration,138273
-2015,country,Insgesamt,immigration,120713
 2015,country,Irak,emigration,1033
 2015,country,Irak,immigration,1418
 2015,country,"Iran, Islamische Republik",emigration,334
@@ -3833,8 +3801,6 @@ year,dimension_type,dimension_value,direction,value
 2016,country,Indien,immigration,682
 2016,country,Indonesien,emigration,359
 2016,country,Indonesien,immigration,419
-2016,country,Insgesamt,emigration,281411
-2016,country,Insgesamt,immigration,146047
 2016,country,Irak,emigration,799
 2016,country,Irak,immigration,1259
 2016,country,"Iran, Islamische Republik",emigration,340
@@ -4069,8 +4035,6 @@ year,dimension_type,dimension_value,direction,value
 2017,country,Indien,immigration,747
 2017,country,Indonesien,emigration,359
 2017,country,Indonesien,immigration,450
-2017,country,Insgesamt,emigration,249181
-2017,country,Insgesamt,immigration,166703
 2017,country,Irak,emigration,634
 2017,country,Irak,immigration,1044
 2017,country,"Iran, Islamische Republik",emigration,238
@@ -4305,8 +4269,6 @@ year,dimension_type,dimension_value,direction,value
 2018,country,Indien,immigration,742
 2018,country,Indonesien,emigration,417
 2018,country,Indonesien,immigration,429
-2018,country,Insgesamt,emigration,261851
-2018,country,Insgesamt,immigration,201531
 2018,country,Irak,emigration,636
 2018,country,Irak,immigration,917
 2018,country,"Iran, Islamische Republik",emigration,231
@@ -4541,8 +4503,6 @@ year,dimension_type,dimension_value,direction,value
 2019,country,Indien,immigration,683
 2019,country,Indonesien,emigration,419
 2019,country,Indonesien,immigration,449
-2019,country,Insgesamt,emigration,270294
-2019,country,Insgesamt,immigration,212669
 2019,country,Irak,emigration,662
 2019,country,Irak,immigration,742
 2019,country,"Iran, Islamische Republik",emigration,247
@@ -4777,8 +4737,6 @@ year,dimension_type,dimension_value,direction,value
 2020,country,Indien,immigration,628
 2020,country,Indonesien,emigration,222
 2020,country,Indonesien,immigration,385
-2020,country,Insgesamt,emigration,220239
-2020,country,Insgesamt,immigration,191883
 2020,country,Irak,emigration,425
 2020,country,Irak,immigration,576
 2020,country,"Iran, Islamische Republik",emigration,170
@@ -5009,8 +4967,6 @@ year,dimension_type,dimension_value,direction,value
 2021,country,Indien,immigration,360
 2021,country,Indonesien,emigration,361
 2021,country,Indonesien,immigration,240
-2021,country,Insgesamt,emigration,247829
-2021,country,Insgesamt,immigration,183650
 2021,country,Irak,emigration,502
 2021,country,Irak,immigration,628
 2021,country,"Iran, Islamische Republik",emigration,187
@@ -5245,8 +5201,6 @@ year,dimension_type,dimension_value,direction,value
 2022,country,Indien,immigration,393
 2022,country,Indonesien,emigration,585
 2022,country,Indonesien,immigration,270
-2022,country,Insgesamt,emigration,268167
-2022,country,Insgesamt,immigration,184753
 2022,country,Irak,emigration,569
 2022,country,Irak,immigration,682
 2022,country,"Iran, Islamische Republik",emigration,220
@@ -5481,8 +5435,6 @@ year,dimension_type,dimension_value,direction,value
 2023,country,Indien,immigration,442
 2023,country,Indonesien,emigration,589
 2023,country,Indonesien,immigration,419
-2023,country,Insgesamt,emigration,265035
-2023,country,Insgesamt,immigration,191356
 2023,country,Irak,emigration,803
 2023,country,Irak,immigration,580
 2023,country,"Iran, Islamische Republik",emigration,213
@@ -5715,8 +5667,6 @@ year,dimension_type,dimension_value,direction,value
 2024,country,Indien,immigration,488
 2024,country,Indonesien,emigration,656
 2024,country,Indonesien,immigration,439
-2024,country,Insgesamt,emigration,269986
-2024,country,Insgesamt,immigration,189107
 2024,country,Irak,emigration,918
 2024,country,Irak,immigration,626
 2024,country,"Iran, Islamische Republik",emigration,225

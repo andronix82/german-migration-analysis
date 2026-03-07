@@ -44,6 +44,7 @@ meta_keywords = [
     "Stand:",
     "männlich",
     "weiblich",
+    "Insgesamt"
 ]
 
 for _, row in df_raw.iterrows():

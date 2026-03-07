@@ -24,6 +24,9 @@ df_master.rename(columns={
 # Filter: nur ab 2000
 df_master = df_master[df_master['year'] >= 2000]
 
+# Filter: nur 'global'
+df_master = df_master[df_master['dimension_type'] == 'global']
+
 # --- 2. Return Rate Global ---
 pivot_global = df_master.pivot_table(
     index='year',

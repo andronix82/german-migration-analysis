@@ -31,8 +31,16 @@ records = []
 current_year = None
 
 meta_keywords = [
-    "Wanderungen", "Deutschland", "Deutsche", "Zuzüge", "Anzahl",
-    "Wanderungsstatistik", "Tabelle:", "©", "Stand:"
+    "Wanderungen", 
+    "Deutschland", 
+    "Deutsche", 
+    "Zuzüge", 
+    "Anzahl",
+    "Wanderungsstatistik",
+    "Tabelle:",
+    "©",
+    "Stand:", 
+    "Insgesamt"
 ]
 
 for _, row in df_raw.iterrows():

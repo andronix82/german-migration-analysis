@@ -122,7 +122,6 @@ year,origin,destination,migrants
 2000,Germany,Ukraine,110.0
 2000,Germany,Unbekanntes Ausland,7667.0
 2000,Germany,Ungarn,741.0
-2000,Germany,Ungeklärt / Ohne Angabe,8113.0
 2000,Germany,Uruguay,74.0
 2000,Germany,Usbekistan,26.0
 2000,Germany,"Venezuela, Bolivarische Republik",176.0
@@ -215,7 +214,6 @@ year,origin,destination,migrants
 2000,Ukraine,Germany,2997.0
 2000,Unbekanntes Ausland,Germany,336.0
 2000,Ungarn,Germany,823.0
-2000,Ungeklärt / Ohne Angabe,Germany,8075.0
 2000,Uruguay,Germany,89.0
 2000,Usbekistan,Germany,863.0
 2000,"Venezuela, Bolivarische Republik",Germany,328.0
@@ -356,7 +354,6 @@ year,origin,destination,migrants
 2001,Germany,Ukraine,190.0
 2001,Germany,Unbekanntes Ausland,3881.0
 2001,Germany,Ungarn,673.0
-2001,Germany,Ungeklärt / Ohne Angabe,8072.0
 2001,Germany,Uruguay,58.0
 2001,Germany,Usbekistan,17.0
 2001,Germany,"Venezuela, Bolivarische Republik",156.0
@@ -449,7 +446,6 @@ year,origin,destination,migrants
 2001,Ukraine,Germany,3347.0
 2001,Unbekanntes Ausland,Germany,196.0
 2001,Ungarn,Germany,766.0
-2001,Ungeklärt / Ohne Angabe,Germany,8096.0
 2001,Uruguay,Germany,114.0
 2001,Usbekistan,Germany,933.0
 2001,"Venezuela, Bolivarische Republik",Germany,287.0
@@ -590,7 +586,6 @@ year,origin,destination,migrants
 2002,Germany,Ukraine,178.0
 2002,Germany,Unbekanntes Ausland,5783.0
 2002,Germany,Ungarn,769.0
-2002,Germany,Ungeklärt / Ohne Angabe,10716.0
 2002,Germany,Uruguay,73.0
 2002,Germany,Usbekistan,38.0
 2002,Germany,"Venezuela, Bolivarische Republik",151.0
@@ -683,7 +678,6 @@ year,origin,destination,migrants
 2002,Ukraine,Germany,3729.0
 2002,Unbekanntes Ausland,Germany,188.0
 2002,Ungarn,Germany,680.0
-2002,Ungeklärt / Ohne Angabe,Germany,8669.0
 2002,Uruguay,Germany,118.0
 2002,Usbekistan,Germany,873.0
 2002,"Venezuela, Bolivarische Republik",Germany,277.0
@@ -824,7 +818,6 @@ year,origin,destination,migrants
 2003,Germany,Ukraine,153.0
 2003,Germany,Unbekanntes Ausland,0.0
 2003,Germany,Ungarn,653.0
-2003,Germany,Ungeklärt / Ohne Angabe,23687.0
 2003,Germany,Uruguay,65.0
 2003,Germany,Usbekistan,37.0
 2003,Germany,"Venezuela, Bolivarische Republik",157.0
@@ -917,7 +910,6 @@ year,origin,destination,migrants
 2003,Ukraine,Germany,2877.0
 2003,Unbekanntes Ausland,Germany,0.0
 2003,Ungarn,Germany,709.0
-2003,Ungeklärt / Ohne Angabe,Germany,14151.0
 2003,Uruguay,Germany,93.0
 2003,Usbekistan,Germany,731.0
 2003,"Venezuela, Bolivarische Republik",Germany,330.0
@@ -1058,7 +1050,6 @@ year,origin,destination,migrants
 2004,Germany,Ukraine,252.0
 2004,Germany,Unbekanntes Ausland,0.0
 2004,Germany,Ungarn,903.0
-2004,Germany,Ungeklärt / Ohne Angabe,35947.0
 2004,Germany,Uruguay,55.0
 2004,Germany,Usbekistan,44.0
 2004,Germany,"Venezuela, Bolivarische Republik",173.0
@@ -1151,7 +1142,6 @@ year,origin,destination,migrants
 2004,Ukraine,Germany,2497.0
 2004,Unbekanntes Ausland,Germany,0.0
 2004,Ungarn,Germany,621.0
-2004,Ungeklärt / Ohne Angabe,Germany,41117.0
 2004,Uruguay,Germany,56.0
 2004,Usbekistan,Germany,616.0
 2004,"Venezuela, Bolivarische Republik",Germany,184.0
@@ -1292,7 +1282,6 @@ year,origin,destination,migrants
 2005,Germany,Ukraine,296.0
 2005,Germany,Unbekanntes Ausland,0.0
 2005,Germany,Ungarn,977.0
-2005,Germany,Ungeklärt / Ohne Angabe,21478.0
 2005,Germany,Uruguay,76.0
 2005,Germany,Usbekistan,27.0
 2005,Germany,"Venezuela, Bolivarische Republik",179.0
@@ -1385,7 +1374,6 @@ year,origin,destination,migrants
 2005,Ukraine,Germany,1512.0
 2005,Unbekanntes Ausland,Germany,0.0
 2005,Ungarn,Germany,635.0
-2005,Ungeklärt / Ohne Angabe,Germany,11144.0
 2005,Uruguay,Germany,54.0
 2005,Usbekistan,Germany,336.0
 2005,"Venezuela, Bolivarische Republik",Germany,197.0
@@ -1526,7 +1514,6 @@ year,origin,destination,migrants
 2006,Germany,Ukraine,284.0
 2006,Germany,Unbekanntes Ausland,251.0
 2006,Germany,Ungarn,998.0
-2006,Germany,Ungeklärt / Ohne Angabe,19442.0
 2006,Germany,Uruguay,71.0
 2006,Germany,Usbekistan,23.0
 2006,Germany,"Venezuela, Bolivarische Republik",195.0
@@ -1619,7 +1606,6 @@ year,origin,destination,migrants
 2006,Ukraine,Germany,711.0
 2006,Unbekanntes Ausland,Germany,201.0
 2006,Ungarn,Germany,640.0
-2006,Ungeklärt / Ohne Angabe,Germany,9062.0
 2006,Uruguay,Germany,74.0
 2006,Usbekistan,Germany,103.0
 2006,"Venezuela, Bolivarische Republik",Germany,195.0
@@ -1760,7 +1746,6 @@ year,origin,destination,migrants
 2007,Germany,Ukraine,327.0
 2007,Germany,Unbekanntes Ausland,297.0
 2007,Germany,Ungarn,1028.0
-2007,Germany,Ungeklärt / Ohne Angabe,9571.0
 2007,Germany,Uruguay,89.0
 2007,Germany,Usbekistan,39.0
 2007,Germany,"Venezuela, Bolivarische Republik",192.0
@@ -1853,7 +1838,6 @@ year,origin,destination,migrants
 2007,Ukraine,Germany,603.0
 2007,Unbekanntes Ausland,Germany,225.0
 2007,Ungarn,Germany,717.0
-2007,Ungeklärt / Ohne Angabe,Germany,4209.0
 2007,Uruguay,Germany,62.0
 2007,Usbekistan,Germany,119.0
 2007,"Venezuela, Bolivarische Republik",Germany,215.0
@@ -1994,7 +1978,6 @@ year,origin,destination,migrants
 2008,Germany,Ukraine,430.0
 2008,Germany,Unbekanntes Ausland,422.0
 2008,Germany,Ungarn,1132.0
-2008,Germany,Ungeklärt / Ohne Angabe,153.0
 2008,Germany,Uruguay,134.0
 2008,Germany,Usbekistan,31.0
 2008,Germany,"Venezuela, Bolivarische Republik",205.0
@@ -2087,7 +2070,6 @@ year,origin,destination,migrants
 2008,Ukraine,Germany,604.0
 2008,Unbekanntes Ausland,Germany,288.0
 2008,Ungarn,Germany,772.0
-2008,Ungeklärt / Ohne Angabe,Germany,693.0
 2008,Uruguay,Germany,65.0
 2008,Usbekistan,Germany,157.0
 2008,"Venezuela, Bolivarische Republik",Germany,209.0
@@ -2228,7 +2210,6 @@ year,origin,destination,migrants
 2009,Germany,Ukraine,336.0
 2009,Germany,Unbekanntes Ausland,399.0
 2009,Germany,Ungarn,991.0
-2009,Germany,Ungeklärt / Ohne Angabe,158.0
 2009,Germany,Uruguay,100.0
 2009,Germany,Usbekistan,32.0
 2009,Germany,"Venezuela, Bolivarische Republik",183.0
@@ -2321,7 +2302,6 @@ year,origin,destination,migrants
 2009,Ukraine,Germany,725.0
 2009,Unbekanntes Ausland,Germany,233.0
 2009,Ungarn,Germany,774.0
-2009,Ungeklärt / Ohne Angabe,Germany,554.0
 2009,Uruguay,Germany,81.0
 2009,Usbekistan,Germany,80.0
 2009,"Venezuela, Bolivarische Republik",Germany,266.0
@@ -2462,7 +2442,6 @@ year,origin,destination,migrants
 2010,Germany,Ukraine,315.0
 2010,Germany,Unbekanntes Ausland,541.0
 2010,Germany,Ungarn,905.0
-2010,Germany,Ungeklärt / Ohne Angabe,39.0
 2010,Germany,Uruguay,118.0
 2010,Germany,Usbekistan,38.0
 2010,Germany,"Venezuela, Bolivarische Republik",137.0
@@ -2555,7 +2534,6 @@ year,origin,destination,migrants
 2010,Ukraine,Germany,546.0
 2010,Unbekanntes Ausland,Germany,564.0
 2010,Ungarn,Germany,795.0
-2010,Ungeklärt / Ohne Angabe,Germany,489.0
 2010,Uruguay,Germany,76.0
 2010,Usbekistan,Germany,58.0
 2010,"Venezuela, Bolivarische Republik",Germany,273.0
@@ -2696,7 +2674,6 @@ year,origin,destination,migrants
 2011,Germany,Ukraine,355.0
 2011,Germany,Unbekanntes Ausland,0.0
 2011,Germany,Ungarn,894.0
-2011,Germany,Ungeklärt / Ohne Angabe,755.0
 2011,Germany,Uruguay,86.0
 2011,Germany,Usbekistan,28.0
 2011,Germany,"Venezuela, Bolivarische Republik",144.0
@@ -2789,7 +2766,6 @@ year,origin,destination,migrants
 2011,Ukraine,Germany,529.0
 2011,Unbekanntes Ausland,Germany,0.0
 2011,Ungarn,Germany,846.0
-2011,Ungeklärt / Ohne Angabe,Germany,1154.0
 2011,Uruguay,Germany,78.0
 2011,Usbekistan,Germany,37.0
 2011,"Venezuela, Bolivarische Republik",Germany,249.0
@@ -2930,7 +2906,6 @@ year,origin,destination,migrants
 2012,Germany,Ukraine,303.0
 2012,Germany,Unbekanntes Ausland,0.0
 2012,Germany,Ungarn,892.0
-2012,Germany,Ungeklärt / Ohne Angabe,1002.0
 2012,Germany,Uruguay,108.0
 2012,Germany,Usbekistan,22.0
 2012,Germany,"Venezuela, Bolivarische Republik",137.0
@@ -3023,7 +2998,6 @@ year,origin,destination,migrants
 2012,Ukraine,Germany,545.0
 2012,Unbekanntes Ausland,Germany,0.0
 2012,Ungarn,Germany,935.0
-2012,Ungeklärt / Ohne Angabe,Germany,1040.0
 2012,Uruguay,Germany,100.0
 2012,Usbekistan,Germany,38.0
 2012,"Venezuela, Bolivarische Republik",Germany,217.0
@@ -3164,7 +3138,6 @@ year,origin,destination,migrants
 2013,Germany,Ukraine,353.0
 2013,Germany,Unbekanntes Ausland,0.0
 2013,Germany,Ungarn,1038.0
-2013,Germany,Ungeklärt / Ohne Angabe,2332.0
 2013,Germany,Uruguay,111.0
 2013,Germany,Usbekistan,31.0
 2013,Germany,"Venezuela, Bolivarische Republik",110.0
@@ -3257,7 +3230,6 @@ year,origin,destination,migrants
 2013,Ukraine,Germany,589.0
 2013,Unbekanntes Ausland,Germany,0.0
 2013,Ungarn,Germany,925.0
-2013,Ungeklärt / Ohne Angabe,Germany,1364.0
 2013,Uruguay,Germany,90.0
 2013,Usbekistan,Germany,53.0
 2013,"Venezuela, Bolivarische Republik",Germany,223.0
@@ -3398,7 +3370,6 @@ year,origin,destination,migrants
 2014,Germany,Ukraine,290.0
 2014,Germany,Unbekanntes Ausland,10032.0
 2014,Germany,Ungarn,1093.0
-2014,Germany,Ungeklärt / Ohne Angabe,71.0
 2014,Germany,Uruguay,111.0
 2014,Germany,Usbekistan,21.0
 2014,Germany,"Venezuela, Bolivarische Republik",104.0
@@ -3491,7 +3462,6 @@ year,origin,destination,migrants
 2014,Ukraine,Germany,990.0
 2014,Unbekanntes Ausland,Germany,2087.0
 2014,Ungarn,Germany,841.0
-2014,Ungeklärt / Ohne Angabe,Germany,216.0
 2014,Uruguay,Germany,75.0
 2014,Usbekistan,Germany,54.0
 2014,"Venezuela, Bolivarische Republik",Germany,296.0
@@ -3632,7 +3602,6 @@ year,origin,destination,migrants
 2015,Germany,Ukraine,273.0
 2015,Germany,Unbekanntes Ausland,6593.0
 2015,Germany,Ungarn,935.0
-2015,Germany,Ungeklärt / Ohne Angabe,174.0
 2015,Germany,Uruguay,129.0
 2015,Germany,Usbekistan,23.0
 2015,Germany,"Venezuela, Bolivarische Republik",99.0
@@ -3725,7 +3694,6 @@ year,origin,destination,migrants
 2015,Ukraine,Germany,1236.0
 2015,Unbekanntes Ausland,Germany,2013.0
 2015,Ungarn,Germany,755.0
-2015,Ungeklärt / Ohne Angabe,Germany,185.0
 2015,Uruguay,Germany,110.0
 2015,Usbekistan,Germany,107.0
 2015,"Venezuela, Bolivarische Republik",Germany,349.0
@@ -3866,7 +3834,6 @@ year,origin,destination,migrants
 2016,Germany,Ukraine,301.0
 2016,Germany,Unbekanntes Ausland,2008.0
 2016,Germany,Ungarn,1086.0
-2016,Germany,Ungeklärt / Ohne Angabe,150679.0
 2016,Germany,Uruguay,126.0
 2016,Germany,Usbekistan,37.0
 2016,Germany,"Venezuela, Bolivarische Republik",90.0
@@ -3959,7 +3926,6 @@ year,origin,destination,migrants
 2016,Ukraine,Germany,1063.0
 2016,Unbekanntes Ausland,Germany,2041.0
 2016,Ungarn,Germany,607.0
-2016,Ungeklärt / Ohne Angabe,Germany,30594.0
 2016,Uruguay,Germany,111.0
 2016,Usbekistan,Germany,61.0
 2016,"Venezuela, Bolivarische Republik",Germany,326.0
@@ -4100,7 +4066,6 @@ year,origin,destination,migrants
 2017,Germany,Ukraine,285.0
 2017,Germany,Unbekanntes Ausland,1459.0
 2017,Germany,Ungarn,1047.0
-2017,Germany,Ungeklärt / Ohne Angabe,131545.0
 2017,Germany,Uruguay,149.0
 2017,Germany,Usbekistan,26.0
 2017,Germany,"Venezuela, Bolivarische Republik",49.0
@@ -4193,7 +4158,6 @@ year,origin,destination,migrants
 2017,Ukraine,Germany,1186.0
 2017,Unbekanntes Ausland,Germany,1918.0
 2017,Ungarn,Germany,654.0
-2017,Ungeklärt / Ohne Angabe,Germany,51522.0
 2017,Uruguay,Germany,125.0
 2017,Usbekistan,Germany,60.0
 2017,"Venezuela, Bolivarische Republik",Germany,417.0
@@ -4334,7 +4298,6 @@ year,origin,destination,migrants
 2018,Germany,Ukraine,345.0
 2018,Germany,Unbekanntes Ausland,1805.0
 2018,Germany,Ungarn,1249.0
-2018,Germany,Ungeklärt / Ohne Angabe,136167.0
 2018,Germany,Uruguay,104.0
 2018,Germany,Usbekistan,22.0
 2018,Germany,"Venezuela, Bolivarische Republik",76.0
@@ -4427,7 +4390,6 @@ year,origin,destination,migrants
 2018,Ukraine,Germany,1191.0
 2018,Unbekanntes Ausland,Germany,1617.0
 2018,Ungarn,Germany,656.0
-2018,Ungeklärt / Ohne Angabe,Germany,87968.0
 2018,Uruguay,Germany,121.0
 2018,Usbekistan,Germany,77.0
 2018,"Venezuela, Bolivarische Republik",Germany,339.0
@@ -4568,7 +4530,6 @@ year,origin,destination,migrants
 2019,Germany,Ukraine,357.0
 2019,Germany,Unbekanntes Ausland,1851.0
 2019,Germany,Ungarn,1377.0
-2019,Germany,Ungeklärt / Ohne Angabe,145345.0
 2019,Germany,Uruguay,78.0
 2019,Germany,Usbekistan,19.0
 2019,Germany,"Venezuela, Bolivarische Republik",67.0
@@ -4661,7 +4622,6 @@ year,origin,destination,migrants
 2019,Ukraine,Germany,963.0
 2019,Unbekanntes Ausland,Germany,1528.0
 2019,Ungarn,Germany,683.0
-2019,Ungeklärt / Ohne Angabe,Germany,99875.0
 2019,Uruguay,Germany,102.0
 2019,Usbekistan,Germany,64.0
 2019,"Venezuela, Bolivarische Republik",Germany,298.0
@@ -4800,7 +4760,6 @@ year,origin,destination,migrants
 2020,Germany,Ukraine,240.0
 2020,Germany,Unbekanntes Ausland,1260.0
 2020,Germany,Ungarn,1131.0
-2020,Germany,Ungeklärt / Ohne Angabe,124472.0
 2020,Germany,Uruguay,68.0
 2020,Germany,Usbekistan,11.0
 2020,Germany,"Venezuela, Bolivarische Republik",44.0
@@ -4891,7 +4850,6 @@ year,origin,destination,migrants
 2020,Ukraine,Germany,677.0
 2020,Unbekanntes Ausland,Germany,1148.0
 2020,Ungarn,Germany,611.0
-2020,Ungeklärt / Ohne Angabe,Germany,92247.0
 2020,Uruguay,Germany,96.0
 2020,Usbekistan,Germany,37.0
 2020,"Venezuela, Bolivarische Republik",Germany,124.0
@@ -5032,7 +4990,6 @@ year,origin,destination,migrants
 2021,Germany,Ukraine,350.0
 2021,Germany,Unbekanntes Ausland,2098.0
 2021,Germany,Ungarn,1486.0
-2021,Germany,Ungeklärt / Ohne Angabe,129084.0
 2021,Germany,Uruguay,106.0
 2021,Germany,Usbekistan,29.0
 2021,Germany,"Venezuela, Bolivarische Republik",72.0
@@ -5125,7 +5082,6 @@ year,origin,destination,migrants
 2021,Ukraine,Germany,808.0
 2021,Unbekanntes Ausland,Germany,1090.0
 2021,Ungarn,Germany,554.0
-2021,Ungeklärt / Ohne Angabe,Germany,91486.0
 2021,Uruguay,Germany,68.0
 2021,Usbekistan,Germany,52.0
 2021,"Venezuela, Bolivarische Republik",Germany,176.0
@@ -5266,7 +5222,6 @@ year,origin,destination,migrants
 2022,Germany,Ukraine,439.0
 2022,Germany,Unbekanntes Ausland,3146.0
 2022,Germany,Ungarn,2052.0
-2022,Germany,Ungeklärt / Ohne Angabe,124404.0
 2022,Germany,Uruguay,202.0
 2022,Germany,Usbekistan,40.0
 2022,Germany,"Venezuela, Bolivarische Republik",108.0
@@ -5359,7 +5314,6 @@ year,origin,destination,migrants
 2022,Ukraine,Germany,2265.0
 2022,Unbekanntes Ausland,Germany,1255.0
 2022,Ungarn,Germany,652.0
-2022,Ungeklärt / Ohne Angabe,Germany,89397.0
 2022,Uruguay,Germany,79.0
 2022,Usbekistan,Germany,33.0
 2022,"Venezuela, Bolivarische Republik",Germany,115.0
@@ -5499,7 +5453,6 @@ year,origin,destination,migrants
 2023,Germany,Ukraine,330.0
 2023,Germany,Unbekanntes Ausland,2706.0
 2023,Germany,Ungarn,1703.0
-2023,Germany,Ungeklärt / Ohne Angabe,125684.0
 2023,Germany,Uruguay,136.0
 2023,Germany,Usbekistan,30.0
 2023,Germany,"Venezuela, Bolivarische Republik",79.0
@@ -5591,7 +5544,6 @@ year,origin,destination,migrants
 2023,Ukraine,Germany,369.0
 2023,Unbekanntes Ausland,Germany,1110.0
 2023,Ungarn,Germany,787.0
-2023,Ungeklärt / Ohne Angabe,Germany,95026.0
 2023,Uruguay,Germany,105.0
 2023,Usbekistan,Germany,56.0
 2023,"Venezuela, Bolivarische Republik",Germany,133.0
@@ -5734,7 +5686,6 @@ year,origin,destination,migrants
 2024,Germany,Ukraine,234.0
 2024,Germany,Unbekanntes Ausland,2607.0
 2024,Germany,Ungarn,1742.0
-2024,Germany,Ungeklärt / Ohne Angabe,128593.0
 2024,Germany,Uruguay,153.0
 2024,Germany,Usbekistan,30.0
 2024,Germany,"Venezuela, Bolivarische Republik",65.0
@@ -5829,7 +5780,6 @@ year,origin,destination,migrants
 2024,Ukraine,Germany,310.0
 2024,Unbekanntes Ausland,Germany,1039.0
 2024,Ungarn,Germany,721.0
-2024,Ungeklärt / Ohne Angabe,Germany,96241.0
 2024,Uruguay,Germany,120.0
 2024,Usbekistan,Germany,61.0
 2024,"Venezuela, Bolivarische Republik",Germany,107.0

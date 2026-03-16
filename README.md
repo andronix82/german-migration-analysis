@@ -14,8 +14,8 @@ The project demonstrates analytical thinking, data storytelling, and the transla
 
 * How many migrants return to Germany relative to those who leave?
 * Which countries are the main destinations?
-* How many migrants return to Germany and after what time?
-* Were there significant peaks or drops — and why?
+* What are the strongest migration corridors?
+* How do migration flows evolve over time?
 * What external factors may explain migration behaviour?
 
 ---
@@ -33,7 +33,7 @@ Tables used:
 
 Time coverage:
 
-* **2000–2024**
+**2000–2024**
 
 Raw datasets are stored in `/data/raw`.  
 Processed datasets are stored in `/data/processed`.
@@ -46,32 +46,85 @@ The analysis follows a structured BI workflow:
 
 1. Data collection and cleaning
 2. Data integration
-3. Feature engineering (return rate calculation)
+3. Feature engineering
 4. Exploratory data analysis
-5. Time-series trend analysis
-6. Segmentation by destination country and age group
-7. Visual dashboard creation
+5. Country-level migration analysis
+6. Migration network analysis
+7. Dashboard creation
 
-All assumptions and transformations are documented in `/docs/methodology.md`.
+Detailed documentation: `/docs/methodology.md`
 
 ---
 
-## 📈 Insights (Block 2 – Country Analysis)
+## 📈 Key Insights
 
-**Country-level migration analysis** highlights patterns of German emigration per destination:
+### Global Migration Trends
 
-- **Top 3 destination countries:** Switzerland, United States, Austria  
-- **Highest return rate:** Kazakhstan  
-- **Lowest return rate:** Switzerland  
-- **Highest volatility of migration flows:** Switzerland  
+* Highest net migration: **2001**
+* Lowest net migration: **2016**
+* Return rates fluctuate significantly depending on external factors.
 
-Key observations:
+---
 
-* Migration to Switzerland is high but return rates are relatively low → indicates long-term or permanent moves.  
-* The US and Austria are consistent destinations with moderate return rates.  
-* Smaller countries like Kazakhstan show very high return rates, suggesting temporary migration trends.  
+### Country-Level Migration
 
-These insights allow understanding **country-specific migration behavior**, informing workforce planning and talent retention strategies.
+Top destination countries for German emigrants:
+
+1. Switzerland
+2. United States
+3. Austria
+
+Additional observations:
+
+* Highest return rate: **Kazakhstan**
+* Lowest return rate: **Switzerland**
+* Highest migration volatility: **Switzerland**
+
+---
+
+### Migration Network (Block 3)
+
+Migration flows were analyzed as a **network between countries and Germany**.
+
+To avoid distortions, flows with the destination **"Unknown / Unspecified"** were excluded.
+
+Two datasets were created:
+
+- `migration_network_flows.csv`
+- `migration_network_flows_wo_ungeklaert.csv`
+
+Network structure:
+
+- Origin → Destination
+- Weight = Number of migrants
+
+
+Flows were analyzed in **both directions**:
+
+- Germany → Destination Country
+- Origin Country → Germany
+
+#### Strongest Migration Flows
+
+1. Kazakhstan → Germany
+2. Russian Federation → Germany
+3. Germany → Switzerland
+
+These flows highlight the importance of **return migration from Eastern Europe** and **economic migration to neighbouring countries**.
+
+---
+
+## 📊 Visualizations
+
+Exploratory visualizations include:
+
+* Global migration trends
+* Return rate development
+* Country-level migration flows
+* Migration network graph
+* Top migration flows chart
+
+Interactive dashboards will be built in **Tableau Public**.
 
 ---
 
@@ -85,26 +138,29 @@ Understanding migration dynamics is relevant for:
 * Labour market analysis
 * Public sector decision-making
 
-This project also serves as a reference case for BI consulting and workforce analytics.
+This project also serves as a reference case for **BI consulting and workforce analytics**.
 
 ---
 
 ## 🛠️ Tools
 
-* Python (pandas, matplotlib)
-* Jupyter Notebook (exploration)
-* Tableau Public (dashboard)
-* GitHub (documentation & versioning)
+* Python (pandas, matplotlib, networkx)
+* Jupyter Notebook
+* Tableau Public
+* GitHub
 
 ---
 
 ## Data Files
 
-- `migration_master_dataset.csv` — cleaned and integrated master dataset (from 2000 onwards)
-- `return_rate_global.csv` — global return rate by year
-- `return_rate_country.csv` — return rate by country
-- `return_rate_age.csv` — return rate by age group
-- `migration_network_flows.csv` — migration network (origin and destination country)
+Main processed datasets:
+
+- `migration_master_dataset.csv`
+- `return_rate_global.csv`
+- `return_rate_country.csv`
+- `return_rate_age.csv`
+- `migration_network_flows.csv`
+- `migration_network_flows_wo_ungeklaert.csv`
 
 ---
 
@@ -112,25 +168,26 @@ This project also serves as a reference case for BI consulting and workforce ana
 
 Completed stages:
 
-1. **Data Collection**
-2. **Data Cleaning**
-3. **Dataset Integration**
-4. **Feature Engineering**
-5. **Exploratory Data Analysis (EDA)**
-6. **Country-Level Analysis** ✅
+✔ Data collection  
+✔ Data cleaning  
+✔ Dataset integration  
+✔ Feature engineering  
+✔ Exploratory data analysis  
+✔ Country-level analysis  
+✔ Migration network analysis  
 
 Next steps:
 
-* Age structure analysis of emigrants
-* Return rate analysis by age group
-* Build first analytical visualisations
-* Design Tableau dashboard
-* Investigate potential external drivers
-* Migration Network (Block 3)
+* Age structure analysis
+* External factor analysis
+* Tableau dashboard
+* Data storytelling
 
 ---
 
 ## 👤 Author
 
-Portfolio project by Andreas Gilling  
-Focus: Data Analytics · Workforce Analytics · BI Consulting
+Portfolio project by **Andreas Gilling**
+
+Focus:  
+Data Analytics · Workforce Analytics · BI Consulting

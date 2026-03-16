@@ -2,69 +2,98 @@
 
 ## 📊 Insights
 
-This document collects **analytical insights derived from the data exploration phase** of the project.  
-Insights will be updated as the analysis progresses.
+This document summarizes the analytical insights derived from the project.
 
 ---
 
-## Global Migration Trends (2000–2023)
+# Global Migration Trends
 
-### Net Migration
+Key observations:
 
-- Highest net migration: **2001**  
-- Lowest net migration: **2016**  
-- In most years, immigration exceeded emigration → positive net migration
+- Highest net migration: **2001**
+- Lowest net migration: **2016**
 
-### Return Rate
+In most years immigration exceeded emigration, indicating significant **return migration of German citizens**.
 
-- Defined as: *Return Rate = Immigration ÷ Emigration*  
-- Highest return rate: **2001**  
-- Lowest return rate: **2016**  
-- Strongest relative increase: **2017**
+Return rates fluctuate significantly between years.
 
 ---
 
-## Country-Level Insights (Block 2)
+# Country-Level Insights
 
-Key destination countries for German emigrants:
+Top destination countries:
 
-| Country       | Return Rate | Volatility | Observation |
-|---------------|------------|------------|-------------|
-| Switzerland   | Low        | High       | High emigration but few returns; long-term moves |
-| United States | Medium     | Medium     | Steady destination, moderate returns |
-| Austria       | Medium     | Medium     | Consistent destination with moderate returns |
-| Kazakhstan    | Very High  | Low        | Mostly temporary emigration |
+1. Switzerland
+2. United States
+3. Austria
 
-Observations:
+Additional observations:
 
-- Migration flows to Switzerland dominate numerically, but returns are rare → indicates permanent relocation.  
-- Smaller destinations like Kazakhstan have very high return rates → indicative of temporary work/study migration.  
-- Volatility in migration flows is highest for Switzerland → may reflect economic or regulatory factors affecting movement.
+- Highest return rate: **Kazakhstan**
+- Lowest return rate: **Switzerland**
+- Highest migration volatility: **Switzerland**
 
----
+Interpretation:
 
-### Structural Changes in Migration Flows
-
-- 2001–2006: Return rate decreased, remained below 1  
-- 2005: Emigration exceeded immigration, sustained decline in immigration  
-- 2015–2019: High sustained increase in immigration  
-- 2016: Major peak in emigration (methodological break)  
-- 2020: Decline in migration activity  
-- 2021: Emigration returned to high levels, immigration reduced  
+Migration to neighbouring countries such as Switzerland and Austria is strongly driven by **economic opportunities and geographic proximity**.
 
 ---
 
-### Methodological Break in 2016
+# Migration Network Insights
 
-- Spike in emigration due to **inclusion of unknown destinations** and **register corrections**  
-- 2016 data not directly comparable with previous years
+Migration flows were analyzed as a **country network**.
+
+To avoid distortion from statistical artefacts, flows with the destination **"Unknown / Unspecified"** were excluded.
+
+The strongest migration corridors are:
+
+1. Kazakhstan → Germany
+2. Russian Federation → Germany
+3. Germany → Switzerland
+
+Interpretation:
+
+### Return Migration from Eastern Europe
+
+Strong flows from Kazakhstan and Russia to Germany reflect **historical migration patterns**, particularly among ethnic Germans returning to Germany.
+
+### Economic Migration to Switzerland
+
+Germany → Switzerland represents a major **economic migration corridor**, driven by:
+
+- higher wages
+- cross-border labour mobility
+- geographic proximity
+
+### Network Structure
+
+The migration network reveals two main patterns:
+
+1. **Return migration corridors**
+2. **Economic migration corridors**
+
+These structures highlight the complexity of migration dynamics beyond simple immigration/emigration counts.
 
 ---
 
-## Next Analytical Steps
+# Structural Changes in Migration Flows
 
-1. Age-group migration analysis  
-2. Migration concentration analysis  
-3. Integration of external explanatory variables  
-4. Dashboard creation and data storytelling  
-5. Migration Network (Block 3)
+Major periods identified:
+
+- 2001–2006: declining return rates
+- 2005: emigration exceeds immigration
+- 2015–2019: strong immigration increase
+- 2016: emigration spike due to methodological change
+- 2020: decline due to global mobility restrictions
+
+---
+
+# Next Analytical Steps
+
+Next analyses will include:
+
+- Age-group migration patterns
+- Migration concentration analysis
+- Integration of economic indicators
+- Dashboard development
+- Data storytelling

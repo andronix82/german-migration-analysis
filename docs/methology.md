@@ -8,112 +8,187 @@ This section documents the full data pipeline used in the project, from raw data
 
 ## Step 1 — Raw Data Extraction
 
-### Destatis (German Federal Statistical Office)
+Data source:
 
-Primary publication source:
-
-- Source: [Statistischer Bericht – Wanderungen 2024](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Wanderungen/Publikationen/Downloads-Wanderungen/statistischer-bericht-wanderungen-2010120247005.html?templateQueryString=wanderungen+altersgruppen)
-
----
-
-### GENESIS Database
-
-Data for this project was primarily extracted from the GENESIS online database provided by the Federal Statistical Office.
-
-- Source: [Genesis - Destatis](https://www-genesis.destatis.de)
-- Time period: **2000 – 2024**
+Destatis GENESIS Database  
+https://www-genesis.destatis.de
 
 Tables used:
 
-- **12711-0006** — Migration of German citizens by destination country  
-- **12711-0008** — Migration of German citizens by age group  
+- **12711-0006** — Migration of German citizens by destination country
+- **12711-0008** — Migration of German citizens by age group
 
-Raw exports were stored in: `/data/raw`
+Time coverage:
+
+2000–2024
+
+Raw exports stored in:
+
+`/data/raw`
 
 ---
 
-## Step 2 — Cleaning Raw Data
+## Step 2 — Data Cleaning
 
-Cleaning steps included:
+Cleaning steps:
 
-- Extracting migration totals from Excel sheet `csv-12711-02`
-- Converting wide tables into **long time-series format**
-- Standardizing column names to **English and lowercase**
-- Removing metadata rows and unnecessary header levels
-- Validating missing values and formatting consistency
+- Convert GENESIS tables into long format
+- Remove metadata rows
+- Standardize column names
+- Validate missing values
+- Translate categories to English
 
-Cleaned datasets saved in: `/data/processed`
+Clean datasets stored in:
+
+`/data/processed`
+
+Generated files:
+
+- migration_totals_long_clean.csv
+- migration_country_long_clean.csv
+- migration_age_long_clean.csv
 
 ---
 
 ## Step 3 — Dataset Integration
 
-Combined datasets into a unified **master dataset**:
+All datasets were merged into a **master dataset**.
 
-- `migration_master_dataset.csv`
-- Structure: year, dimension_type, dimension_value, direction, value
-- Dimension types: global, country, age
+Output file:
+
+`migration_master_dataset.csv`
+
+Structure:
+
+year  
+dimension_type  
+dimension_value  
+direction  
+value
 
 ---
 
 ## Step 4 — Feature Engineering
 
+Additional analytical metrics were created.
+
 ### Net Migration
 
-*Net Migration = Immigration − Emigration*
+`Net Migration = Immigration − Emigration`
+
 
 ### Return Rate
 
-*Return Rate = Immigration ÷ Emigration*
+`Return Rate = Immigration ÷ Emigration`
 
-Calculated at:
 
-- Global
-- By country
-- By age group
+Return rates calculated for:
 
-Generated datasets:
+- global
+- country
+- age group
 
-- `return_rate_global.csv`
-- `return_rate_country.csv`
-- `return_rate_age.csv`
+Output datasets:
 
----
-
-## Step 5 — Exploratory Data Analysis (EDA)
-
-EDA includes:
-
-- Time-series visualization of **immigration and emigration**
-- Calculation and visualization of **net migration**
-- Analysis of **return rate trends**
-- Identification of **peak years and anomalies**
+- return_rate_global.csv
+- return_rate_country.csv
+- return_rate_age.csv
 
 ---
 
-## Step 6 — Country-Level Analysis (Block 2)
+## Step 5 — Exploratory Data Analysis
 
-Country-level analysis added after initial EDA:
+EDA focuses on identifying trends and structural changes.
 
-- Top destination countries: Switzerland, United States, Austria  
-- Return rates highlight temporary vs permanent migration:
-  - Highest return rate: Kazakhstan  
-  - Lowest return rate: Switzerland  
-- Migration flow volatility observed for key countries, especially Switzerland
+Analyses include:
 
-This step allows deeper insights into **destination-specific migration trends** and **country-level volatility**, which is critical for workforce and talent planning.
+- immigration trends
+- emigration trends
+- net migration
+- return rate development
+
+Notebook:
+
+`/notebooks/01_eda_migration.ipynb`
 
 ---
 
-### Methodological Break in 2016
+## Step 6 — Country-Level Migration Analysis
 
-Statistical recording of emigration changed in 2016, including systematic inclusion of unknown destinations and register cleanups. This must be considered when interpreting trends.
+This step analyses migration patterns by destination country.
+
+Metrics analyzed:
+
+- total migration flows
+- return rate by country
+- volatility of migration flows
+- ranking of destination countries
+
+Main insights:
+
+- Switzerland is the most important destination for German emigrants.
+- Return rates differ strongly between countries.
+- Some destinations show high volatility in migration flows.
+
+---
+
+## Step 7 — Migration Network Analysis
+
+Migration flows were modeled as a **directed network**.
+
+Nodes represent countries, edges represent migration flows.
+
+Edge structure:
+
+- Origin → Destination
+- Weight = Migrants
+
+
+Two datasets were created:
+
+- `migration_network_flows.csv`
+- `migration_network_flows_wo_ungeklaert.csv`
+
+The second dataset excludes the category **"Unknown / Unspecified destination"** to improve interpretability.
+
+Flows were analysed in both directions:
+
+- Germany → Destination country
+- Origin country → Germany
+
+This allows identification of **major migration corridors**.
+
+Visualizations created:
+
+- Migration network graph
+- Top migration flows chart
+
+Notebook:
+
+`/notebooks/03_migration_network.ipynb`
+
+---
+
+## Methodological Break in 2016
+
+In 2016, statistical recording of emigration changed.
+
+Key changes:
+
+- inclusion of unknown destinations
+- register cleanups of outdated migration records
+
+This caused a spike in emigration numbers.
+
+Therefore, **2016 migration data is not fully comparable with previous years**.
 
 ---
 
 ## Next Steps
 
-1. Age structure analysis
-2. Integration of secondary socio-economic data
-3. Dashboard creation
-4. Migration Network analysis (Block 3)
+Future extensions:
+
+- Age structure analysis
+- Integration of socio-economic indicators
+- Tableau dashboard development
+- Advanced migration modelling

@@ -6,6 +6,9 @@ df = pd.read_csv("../data/processed/migration_master_dataset.csv")
 # Nur Länderzeilen
 df = df[df["dimension_type"] == "country"]
 
+# Ohne Ungeklärt / Ohne Angabe
+df = df[df["dimension_value"] != "Ungeklärt / Ohne Angabe"]
+
 GERMANY = "Germany"
 
 # Emigration: Germany -> foreign country
@@ -40,7 +43,7 @@ df_network = (
 )
 
 # Export
-df_network.to_csv("../data/processed/migration_network_flows.csv", index=False)
+df_network.to_csv("../data/processed/migration_network_flows_wo_ungeklärt.csv", index=False)
 
 print("Network dataset created")
 print(df_network.head())

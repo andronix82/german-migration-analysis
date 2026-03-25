@@ -2,98 +2,77 @@
 
 ## 📊 Insights
 
-This document summarizes the analytical insights derived from the project.
+This document summarizes the key findings of the analysis.
 
 ---
 
-# Global Migration Trends
-
-Key observations:
+## Global Migration Trends
 
 - Highest net migration: **2001**
 - Lowest net migration: **2016**
 
-In most years immigration exceeded emigration, indicating significant **return migration of German citizens**.
+Not adjusted for special effects (details in `/docs/methodology.md`)
 
-Return rates fluctuate significantly between years.
+Germany shows consistent **return migration**, but trends vary significantly over time.
 
 ---
 
-# Country-Level Insights
+## Country-Level Insights
 
 Top destination countries:
 
-1. Switzerland
-2. United States
-3. Austria
+1. Switzerland  
+2. United States  
+3. Austria  
 
-Additional observations:
+Key observations:
 
-- Highest return rate: **Kazakhstan**
-- Lowest return rate: **Switzerland**
-- Highest migration volatility: **Switzerland**
-
-Interpretation:
-
-Migration to neighbouring countries such as Switzerland and Austria is strongly driven by **economic opportunities and geographic proximity**.
+- **Switzerland:** high emigration, low return rate → long-term relocation  
+- **Kazakhstan:** very high return rate → temporary migration  
+- Migration volatility highest for Switzerland  
 
 ---
 
-# Migration Network Insights
+## Migration Network Insights
 
-Migration flows were analyzed as a **country network**.
+Strongest migration corridors:
 
-To avoid distortion from statistical artefacts, flows with the destination **"Unknown / Unspecified"** were excluded.
+1. Kazakhstan → Germany  
+2. Russian Federation → Germany  
+3. Germany → Switzerland  
 
-The strongest migration corridors are:
+### Interpretation
 
-1. Kazakhstan → Germany
-2. Russian Federation → Germany
-3. Germany → Switzerland
+**Return Migration Corridors**
 
-Interpretation:
+- Kazakhstan and Russia → Germany  
+- Reflect historical migration patterns (ethnic German return migration)
 
-### Return Migration from Eastern Europe
+**Economic Migration Corridor**
 
-Strong flows from Kazakhstan and Russia to Germany reflect **historical migration patterns**, particularly among ethnic Germans returning to Germany.
-
-### Economic Migration to Switzerland
-
-Germany → Switzerland represents a major **economic migration corridor**, driven by:
-
-- higher wages
-- cross-border labour mobility
-- geographic proximity
-
-### Network Structure
-
-The migration network reveals two main patterns:
-
-1. **Return migration corridors**
-2. **Economic migration corridors**
-
-These structures highlight the complexity of migration dynamics beyond simple immigration/emigration counts.
+- Germany → Switzerland  
+- Driven by higher wages and proximity
 
 ---
 
-# Structural Changes in Migration Flows
+## Structural Observations
 
-Major periods identified:
-
-- 2001–2006: declining return rates
-- 2005: emigration exceeds immigration
-- 2015–2019: strong immigration increase
-- 2016: emigration spike due to methodological change
-- 2020: decline due to global mobility restrictions
+- Migration patterns are **not symmetric**
+- Return migration and economic migration follow different logics
+- Network analysis reveals structures not visible in aggregated data
 
 ---
 
-# Next Analytical Steps
+## Key Takeaways
 
-Next analyses will include:
+- Migration is driven by **economic and historical factors**
+- Return migration plays a major role in German migration dynamics
+- Country-level and network analysis are essential for full understanding
 
-- Age-group migration patterns
-- Migration concentration analysis
-- Integration of economic indicators
-- Dashboard development
-- Data storytelling
+---
+
+## Next Steps
+
+- Age-group analysis
+- External factor integration
+- Advanced modelling
